@@ -1,0 +1,46 @@
+﻿--------------------------------------------------
+
+
+Montpellier Territoire Numérique
+--------------------------------------------------
+
+Fiche métadonnées
+--------------------------------------------------
+
+*Nom : Bâtiments
+
+*Date de publication : 12/10/2011
+
+*Identifiant : VilleMTP_MTP_Bâtiments_2011
+
+*Description : Cette donnée spatiale renseigne l’emplacement de l’ensemble des bâtiments non résidentiels de la commune de Montpellier. Il s’agit à la fois de bâtiments publics, mais aussi certaines constructions privées comme les églises.
+
+*Période de validité : Annuelle
+
+*Propriétaire : Ville de Montpellier
+
+*Diffuseur : Ville de Montpellier
+
+*Catégorie : Equipement
+
+*Thème INSPIRE : Structure
+
+*Couverture géographique : Ville de Montpellier
+
+*Licence : APIE
+
+*Langue : Français
+
+*Mots clés : bâtiment ; construction ; ouvrage ; immobilier ; montpellier
+
+*Tarification : Gratuite
+
+*Information complémentaire : 
+
+
+--------------------------------------------------
+
+Site : http://opendata.montpelliernumerique.fr
+
+Contact : opendata.montpelliernumerique@gmail.com
+--------------------------------------------------

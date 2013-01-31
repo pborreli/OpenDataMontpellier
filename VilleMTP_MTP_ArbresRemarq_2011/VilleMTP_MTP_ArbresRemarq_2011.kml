@@ -1,0 +1,1095 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<kml xmlns="http://earth.google.com/kml/2.0">
+<Document>
+<name>Mapinfo Import</name>
+  <Style id="polystyle">
+    <LineStyle>
+      <color>ff7faaff</color>
+    </LineStyle>
+    <PolyStyle>
+      <fill>0</fill>
+    </PolyStyle>
+  </Style>
+  <Style id="textstyle">
+      <IconStyle>
+        <Icon></Icon>
+      </IconStyle>
+      <LabelStyle>
+        <color>ff0000ff</color>
+      </LabelStyle>
+  </Style>
+  <Style id="pointstyle">
+      <LabelStyle>
+        <color>ff00ff00</color>
+      </LabelStyle>
+  </Style>
+<Folder>
+<name>Layer ArbRemarq</name>
+<Placemark>
+  <name>
+    <![CDATA[Acer monspessulanum]]>
+  </name>
+  <LookAt>
+    <longitude>3.909054</longitude>
+    <latitude>43.608456</latitude>
+    <range>1000</range>
+    <tilt>0</tilt>
+    <heading>0</heading>
+  </LookAt>
+  <Point>
+    <coordinates>3.909054,43.608456,0</coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>
+    <![CDATA[Quercus pubescens]]>
+  </name>
+  <LookAt>
+    <longitude>3.908729</longitude>
+    <latitude>43.60838</latitude>
+    <range>1000</range>
+    <tilt>0</tilt>
+    <heading>0</heading>
+  </LookAt>
+  <Point>
+    <coordinates>3.908729,43.60838,0</coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>
+    <![CDATA[Filaria]]>
+  </name>
+  <LookAt>
+    <longitude>3.878624</longitude>
+    <latitude>43.6425</latitude>
+    <range>1000</range>
+    <tilt>0</tilt>
+    <heading>0</heading>
+  </LookAt>
+  <Point>
+    <coordinates>3.878624,43.6425,0</coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>
+    <![CDATA[Celtis australis]]>
+  </name>
+  <LookAt>
+    <longitude>3.866798</longitude>
+    <latitude>43.609263</latitude>
+    <range>1000</range>
+    <tilt>0</tilt>
+    <heading>0</heading>
+  </LookAt>
+  <Point>
+    <coordinates>3.866798,43.609263,0</coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>
+    <![CDATA[Fraxinus ornus]]>
+  </name>
+  <LookAt>
+    <longitude>3.832699</longitude>
+    <latitude>43.598396</latitude>
+    <range>1000</range>
+    <tilt>0</tilt>
+    <heading>0</heading>
+  </LookAt>
+  <Point>
+    <coordinates>3.832699,43.598396,0</coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>
+    <![CDATA[Quercus suber]]>
+  </name>
+  <LookAt>
+    <longitude>3.890944</longitude>
+    <latitude>43.632024</latitude>
+    <range>1000</range>
+    <tilt>0</tilt>
+    <heading>0</heading>
+  </LookAt>
+  <Point>
+    <coordinates>3.890944,43.632024,0</coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>
+    <![CDATA[Zizyphus jujuba]]>
+  </name>
+  <LookAt>
+    <longitude>3.891484</longitude>
+    <latitude>43.630859</latitude>
+    <range>1000</range>
+    <tilt>0</tilt>
+    <heading>0</heading>
+  </LookAt>
+  <Point>
+    <coordinates>3.891484,43.630859,0</coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>
+    <![CDATA[Cedrus libani]]>
+  </name>
+  <LookAt>
+    <longitude>3.890462</longitude>
+    <latitude>43.631521</latitude>
+    <range>1000</range>
+    <tilt>0</tilt>
+    <heading>0</heading>
+  </LookAt>
+  <Point>
+    <coordinates>3.890462,43.631521,0</coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>
+    <![CDATA[Liquidambar orientalis]]>
+  </name>
+  <LookAt>
+    <longitude>3.881826</longitude>
+    <latitude>43.611065</latitude>
+    <range>1000</range>
+    <tilt>0</tilt>
+    <heading>0</heading>
+  </LookAt>
+  <Point>
+    <coordinates>3.881826,43.611065,0</coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>
+    <![CDATA[Morus nigra]]>
+  </name>
+  <LookAt>
+    <longitude>3.92475</longitude>
+    <latitude>43.617311</latitude>
+    <range>1000</range>
+    <tilt>0</tilt>
+    <heading>0</heading>
+  </LookAt>
+  <Point>
+    <coordinates>3.92475,43.617311,0</coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>
+    <![CDATA[Broussonetia papyrifera]]>
+  </name>
+  <LookAt>
+    <longitude>3.885982</longitude>
+    <latitude>43.612872</latitude>
+    <range>1000</range>
+    <tilt>0</tilt>
+    <heading>0</heading>
+  </LookAt>
+  <Point>
+    <coordinates>3.885982,43.612872,0</coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>
+    <![CDATA[Cedrus libani]]>
+  </name>
+  <LookAt>
+    <longitude>3.929633</longitude>
+    <latitude>43.615539</latitude>
+    <range>1000</range>
+    <tilt>0</tilt>
+    <heading>0</heading>
+  </LookAt>
+  <Point>
+    <coordinates>3.929633,43.615539,0</coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>
+    <![CDATA[Quercus ilex]]>
+  </name>
+  <LookAt>
+    <longitude>3.929678</longitude>
+    <latitude>43.614736</latitude>
+    <range>1000</range>
+    <tilt>0</tilt>
+    <heading>0</heading>
+  </LookAt>
+  <Point>
+    <coordinates>3.929678,43.614736,0</coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>
+    <![CDATA[Cupressus cashmeriana]]>
+  </name>
+  <LookAt>
+    <longitude>3.928869</longitude>
+    <latitude>43.615665</latitude>
+    <range>1000</range>
+    <tilt>0</tilt>
+    <heading>0</heading>
+  </LookAt>
+  <Point>
+    <coordinates>3.928869,43.615665,0</coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>
+    <![CDATA[Celtis Australis]]>
+  </name>
+  <LookAt>
+    <longitude>3.883789</longitude>
+    <latitude>43.615992</latitude>
+    <range>1000</range>
+    <tilt>0</tilt>
+    <heading>0</heading>
+  </LookAt>
+  <Point>
+    <coordinates>3.883789,43.615992,0</coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>
+    <![CDATA[Taxodium distichum]]>
+  </name>
+  <LookAt>
+    <longitude>3.813056</longitude>
+    <latitude>43.62031</latitude>
+    <range>1000</range>
+    <tilt>0</tilt>
+    <heading>0</heading>
+  </LookAt>
+  <Point>
+    <coordinates>3.813056,43.62031,0</coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>
+    <![CDATA[Olea europea]]>
+  </name>
+  <LookAt>
+    <longitude>3.877134</longitude>
+    <latitude>43.60644</latitude>
+    <range>1000</range>
+    <tilt>0</tilt>
+    <heading>0</heading>
+  </LookAt>
+  <Point>
+    <coordinates>3.877134,43.60644,0</coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>
+    <![CDATA[Sequoia sempervirens]]>
+  </name>
+  <LookAt>
+    <longitude>3.873803</longitude>
+    <latitude>43.614092</latitude>
+    <range>1000</range>
+    <tilt>0</tilt>
+    <heading>0</heading>
+  </LookAt>
+  <Point>
+    <coordinates>3.873803,43.614092,0</coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>
+    <![CDATA[Erythea armata]]>
+  </name>
+  <LookAt>
+    <longitude>3.884874</longitude>
+    <latitude>43.610659</latitude>
+    <range>1000</range>
+    <tilt>0</tilt>
+    <heading>0</heading>
+  </LookAt>
+  <Point>
+    <coordinates>3.884874,43.610659,0</coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>
+    <![CDATA[Phoenix canariensis]]>
+  </name>
+  <LookAt>
+    <longitude>3.885331</longitude>
+    <latitude>43.610729</latitude>
+    <range>1000</range>
+    <tilt>0</tilt>
+    <heading>0</heading>
+  </LookAt>
+  <Point>
+    <coordinates>3.885331,43.610729,0</coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>
+    <![CDATA[Jubaea chilensis]]>
+  </name>
+  <LookAt>
+    <longitude>3.895495</longitude>
+    <latitude>43.60913</latitude>
+    <range>1000</range>
+    <tilt>0</tilt>
+    <heading>0</heading>
+  </LookAt>
+  <Point>
+    <coordinates>3.895495,43.60913,0</coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>
+    <![CDATA[Platanus acerifolia]]>
+  </name>
+  <LookAt>
+    <longitude>3.874336</longitude>
+    <latitude>43.615558</latitude>
+    <range>1000</range>
+    <tilt>0</tilt>
+    <heading>0</heading>
+  </LookAt>
+  <Point>
+    <coordinates>3.874336,43.615558,0</coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>
+    <![CDATA[Celtis occidentalis]]>
+  </name>
+  <LookAt>
+    <longitude>3.874361</longitude>
+    <latitude>43.611853</latitude>
+    <range>1000</range>
+    <tilt>0</tilt>
+    <heading>0</heading>
+  </LookAt>
+  <Point>
+    <coordinates>3.874361,43.611853,0</coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>
+    <![CDATA[Melia azedarach]]>
+  </name>
+  <LookAt>
+    <longitude>3.878282</longitude>
+    <latitude>43.61073</latitude>
+    <range>1000</range>
+    <tilt>0</tilt>
+    <heading>0</heading>
+  </LookAt>
+  <Point>
+    <coordinates>3.878282,43.61073,0</coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>
+    <![CDATA[Pinus halepensis]]>
+  </name>
+  <LookAt>
+    <longitude>3.926377</longitude>
+    <latitude>43.617517</latitude>
+    <range>1000</range>
+    <tilt>0</tilt>
+    <heading>0</heading>
+  </LookAt>
+  <Point>
+    <coordinates>3.926377,43.617517,0</coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>
+    <![CDATA[Arbutus andrachne]]>
+  </name>
+  <LookAt>
+    <longitude>3.863334</longitude>
+    <latitude>43.617564</latitude>
+    <range>1000</range>
+    <tilt>0</tilt>
+    <heading>0</heading>
+  </LookAt>
+  <Point>
+    <coordinates>3.863334,43.617564,0</coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>
+    <![CDATA[Abies pinsapo]]>
+  </name>
+  <LookAt>
+    <longitude>3.8911</longitude>
+    <latitude>43.598387</latitude>
+    <range>1000</range>
+    <tilt>0</tilt>
+    <heading>0</heading>
+  </LookAt>
+  <Point>
+    <coordinates>3.8911,43.598387,0</coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>
+    <![CDATA[Cedrus Atlantica]]>
+  </name>
+  <LookAt>
+    <longitude>3.899303</longitude>
+    <latitude>43.620858</latitude>
+    <range>1000</range>
+    <tilt>0</tilt>
+    <heading>0</heading>
+  </LookAt>
+  <Point>
+    <coordinates>3.899303,43.620858,0</coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>
+    <![CDATA[Pinus bungeana]]>
+  </name>
+  <LookAt>
+    <longitude>3.873546</longitude>
+    <latitude>43.6138</latitude>
+    <range>1000</range>
+    <tilt>0</tilt>
+    <heading>0</heading>
+  </LookAt>
+  <Point>
+    <coordinates>3.873546,43.6138,0</coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>
+    <![CDATA[Ginkgo biloba]]>
+  </name>
+  <LookAt>
+    <longitude>3.874067</longitude>
+    <latitude>43.614131</latitude>
+    <range>1000</range>
+    <tilt>0</tilt>
+    <heading>0</heading>
+  </LookAt>
+  <Point>
+    <coordinates>3.874067,43.614131,0</coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>
+    <![CDATA[Sterculia platanifolia]]>
+  </name>
+  <LookAt>
+    <longitude>3.87378</longitude>
+    <latitude>43.614211</latitude>
+    <range>1000</range>
+    <tilt>0</tilt>
+    <heading>0</heading>
+  </LookAt>
+  <Point>
+    <coordinates>3.87378,43.614211,0</coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>
+    <![CDATA[Cupressus sempervirens]]>
+  </name>
+  <LookAt>
+    <longitude>3.873528</longitude>
+    <latitude>43.613937</latitude>
+    <range>1000</range>
+    <tilt>0</tilt>
+    <heading>0</heading>
+  </LookAt>
+  <Point>
+    <coordinates>3.873528,43.613937,0</coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>
+    <![CDATA[Gleditsia triacanthos]]>
+  </name>
+  <LookAt>
+    <longitude>3.879872</longitude>
+    <latitude>43.606067</latitude>
+    <range>1000</range>
+    <tilt>0</tilt>
+    <heading>0</heading>
+  </LookAt>
+  <Point>
+    <coordinates>3.879872,43.606067,0</coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>
+    <![CDATA[Sterculier acerifolia]]>
+  </name>
+  <LookAt>
+    <longitude>3.879695</longitude>
+    <latitude>43.605518</latitude>
+    <range>1000</range>
+    <tilt>0</tilt>
+    <heading>0</heading>
+  </LookAt>
+  <Point>
+    <coordinates>3.879695,43.605518,0</coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>
+    <![CDATA[Eucalyptus gunnii]]>
+  </name>
+  <LookAt>
+    <longitude>3.885117</longitude>
+    <latitude>43.595188</latitude>
+    <range>1000</range>
+    <tilt>0</tilt>
+    <heading>0</heading>
+  </LookAt>
+  <Point>
+    <coordinates>3.885117,43.595188,0</coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>
+    <![CDATA[Cedrus Atlantica]]>
+  </name>
+  <LookAt>
+    <longitude>3.899383</longitude>
+    <latitude>43.620701</latitude>
+    <range>1000</range>
+    <tilt>0</tilt>
+    <heading>0</heading>
+  </LookAt>
+  <Point>
+    <coordinates>3.899383,43.620701,0</coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>
+    <![CDATA[Celtis australis]]>
+  </name>
+  <LookAt>
+    <longitude>3.878696</longitude>
+    <latitude>43.606033</latitude>
+    <range>1000</range>
+    <tilt>0</tilt>
+    <heading>0</heading>
+  </LookAt>
+  <Point>
+    <coordinates>3.878696,43.606033,0</coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>
+    <![CDATA[Maclura pomifera]]>
+  </name>
+  <LookAt>
+    <longitude>3.882486</longitude>
+    <latitude>43.611507</latitude>
+    <range>1000</range>
+    <tilt>0</tilt>
+    <heading>0</heading>
+  </LookAt>
+  <Point>
+    <coordinates>3.882486,43.611507,0</coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>
+    <![CDATA[Platanus acerifolia]]>
+  </name>
+  <LookAt>
+    <longitude>3.882515</longitude>
+    <latitude>43.611703</latitude>
+    <range>1000</range>
+    <tilt>0</tilt>
+    <heading>0</heading>
+  </LookAt>
+  <Point>
+    <coordinates>3.882515,43.611703,0</coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>
+    <![CDATA[Podocarpus macrophyllus]]>
+  </name>
+  <LookAt>
+    <longitude>3.882576</longitude>
+    <latitude>43.610442</latitude>
+    <range>1000</range>
+    <tilt>0</tilt>
+    <heading>0</heading>
+  </LookAt>
+  <Point>
+    <coordinates>3.882576,43.610442,0</coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>
+    <![CDATA[Populus nigra 'Italica']]>
+  </name>
+  <LookAt>
+    <longitude>3.882345</longitude>
+    <latitude>43.610875</latitude>
+    <range>1000</range>
+    <tilt>0</tilt>
+    <heading>0</heading>
+  </LookAt>
+  <Point>
+    <coordinates>3.882345,43.610875,0</coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>
+    <![CDATA[Tilia Platyphyllos]]>
+  </name>
+  <LookAt>
+    <longitude>3.893812</longitude>
+    <latitude>43.61791</latitude>
+    <range>1000</range>
+    <tilt>0</tilt>
+    <heading>0</heading>
+  </LookAt>
+  <Point>
+    <coordinates>3.893812,43.61791,0</coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>
+    <![CDATA[Sequoia sempervirens]]>
+  </name>
+  <LookAt>
+    <longitude>3.814478</longitude>
+    <latitude>43.627557</latitude>
+    <range>1000</range>
+    <tilt>0</tilt>
+    <heading>0</heading>
+  </LookAt>
+  <Point>
+    <coordinates>3.814478,43.627557,0</coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>
+    <![CDATA[Acer platanoidesShwedler]]>
+  </name>
+  <LookAt>
+    <longitude>3.816065</longitude>
+    <latitude>43.627888</latitude>
+    <range>1000</range>
+    <tilt>0</tilt>
+    <heading>0</heading>
+  </LookAt>
+  <Point>
+    <coordinates>3.816065,43.627888,0</coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>
+    <![CDATA[Liriodendron tulipifera]]>
+  </name>
+  <LookAt>
+    <longitude>3.81575</longitude>
+    <latitude>43.62764</latitude>
+    <range>1000</range>
+    <tilt>0</tilt>
+    <heading>0</heading>
+  </LookAt>
+  <Point>
+    <coordinates>3.81575,43.62764,0</coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>
+    <![CDATA[cyprŠs simperviren]]>
+  </name>
+  <LookAt>
+    <longitude>3.828821</longitude>
+    <latitude>43.616574</latitude>
+    <range>1000</range>
+    <tilt>0</tilt>
+    <heading>0</heading>
+  </LookAt>
+  <Point>
+    <coordinates>3.828821,43.616574,0</coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>
+    <![CDATA[Zelkova carpinifolia]]>
+  </name>
+  <LookAt>
+    <longitude>3.875181</longitude>
+    <latitude>43.612708</latitude>
+    <range>1000</range>
+    <tilt>0</tilt>
+    <heading>0</heading>
+  </LookAt>
+  <Point>
+    <coordinates>3.875181,43.612708,0</coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>
+    <![CDATA[Sorbus domestica]]>
+  </name>
+  <LookAt>
+    <longitude>3.849556</longitude>
+    <latitude>43.613401</latitude>
+    <range>1000</range>
+    <tilt>0</tilt>
+    <heading>0</heading>
+  </LookAt>
+  <Point>
+    <coordinates>3.849556,43.613401,0</coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>
+    <![CDATA[Arbutus andrachne]]>
+  </name>
+  <LookAt>
+    <longitude>3.892085</longitude>
+    <latitude>43.631943</latitude>
+    <range>1000</range>
+    <tilt>0</tilt>
+    <heading>0</heading>
+  </LookAt>
+  <Point>
+    <coordinates>3.892085,43.631943,0</coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>
+    <![CDATA[Thuya occidentalis]]>
+  </name>
+  <LookAt>
+    <longitude>3.831461</longitude>
+    <latitude>43.597313</latitude>
+    <range>1000</range>
+    <tilt>0</tilt>
+    <heading>0</heading>
+  </LookAt>
+  <Point>
+    <coordinates>3.831461,43.597313,0</coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>
+    <![CDATA[Pinus pinea]]>
+  </name>
+  <LookAt>
+    <longitude>3.831001</longitude>
+    <latitude>43.597146</latitude>
+    <range>1000</range>
+    <tilt>0</tilt>
+    <heading>0</heading>
+  </LookAt>
+  <Point>
+    <coordinates>3.831001,43.597146,0</coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>
+    <![CDATA[Cupressus simpervirens]]>
+  </name>
+  <LookAt>
+    <longitude>3.831909</longitude>
+    <latitude>43.597622</latitude>
+    <range>1000</range>
+    <tilt>0</tilt>
+    <heading>0</heading>
+  </LookAt>
+  <Point>
+    <coordinates>3.831909,43.597622,0</coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>
+    <![CDATA[Taxodichum distichum]]>
+  </name>
+  <LookAt>
+    <longitude>3.830663</longitude>
+    <latitude>43.59781</latitude>
+    <range>1000</range>
+    <tilt>0</tilt>
+    <heading>0</heading>
+  </LookAt>
+  <Point>
+    <coordinates>3.830663,43.59781,0</coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>
+    <![CDATA[Cedrus atlantica]]>
+  </name>
+  <LookAt>
+    <longitude>3.829395</longitude>
+    <latitude>43.597879</latitude>
+    <range>1000</range>
+    <tilt>0</tilt>
+    <heading>0</heading>
+  </LookAt>
+  <Point>
+    <coordinates>3.829395,43.597879,0</coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>
+    <![CDATA[Platanus acerifolia]]>
+  </name>
+  <LookAt>
+    <longitude>3.82904</longitude>
+    <latitude>43.598074</latitude>
+    <range>1000</range>
+    <tilt>0</tilt>
+    <heading>0</heading>
+  </LookAt>
+  <Point>
+    <coordinates>3.82904,43.598074,0</coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>
+    <![CDATA[Taxus Baccata]]>
+  </name>
+  <LookAt>
+    <longitude>3.831462</longitude>
+    <latitude>43.597429</latitude>
+    <range>1000</range>
+    <tilt>0</tilt>
+    <heading>0</heading>
+  </LookAt>
+  <Point>
+    <coordinates>3.831462,43.597429,0</coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>
+    <![CDATA[CŠdre atlantica]]>
+  </name>
+  <LookAt>
+    <longitude>3.854067</longitude>
+    <latitude>43.582368</latitude>
+    <range>1000</range>
+    <tilt>0</tilt>
+    <heading>0</heading>
+  </LookAt>
+  <Point>
+    <coordinates>3.854067,43.582368,0</coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>
+    <![CDATA[Pinus pinea]]>
+  </name>
+  <LookAt>
+    <longitude>3.854295</longitude>
+    <latitude>43.582351</latitude>
+    <range>1000</range>
+    <tilt>0</tilt>
+    <heading>0</heading>
+  </LookAt>
+  <Point>
+    <coordinates>3.854295,43.582351,0</coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>
+    <![CDATA[Quercus suber L]]>
+  </name>
+  <LookAt>
+    <longitude>3.85442</longitude>
+    <latitude>43.582511</latitude>
+    <range>1000</range>
+    <tilt>0</tilt>
+    <heading>0</heading>
+  </LookAt>
+  <Point>
+    <coordinates>3.85442,43.582511,0</coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>
+    <![CDATA[Pinus pinea]]>
+  </name>
+  <LookAt>
+    <longitude>3.83994</longitude>
+    <latitude>43.593813</latitude>
+    <range>1000</range>
+    <tilt>0</tilt>
+    <heading>0</heading>
+  </LookAt>
+  <Point>
+    <coordinates>3.83994,43.593813,0</coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>
+    <![CDATA[Cedrus atlantica]]>
+  </name>
+  <LookAt>
+    <longitude>3.839476</longitude>
+    <latitude>43.59385</latitude>
+    <range>1000</range>
+    <tilt>0</tilt>
+    <heading>0</heading>
+  </LookAt>
+  <Point>
+    <coordinates>3.839476,43.59385,0</coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>
+    <![CDATA[Pinus pinea]]>
+  </name>
+  <LookAt>
+    <longitude>3.87173</longitude>
+    <latitude>43.604111</latitude>
+    <range>1000</range>
+    <tilt>0</tilt>
+    <heading>0</heading>
+  </LookAt>
+  <Point>
+    <coordinates>3.87173,43.604111,0</coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>
+    <![CDATA[Cupressus Sempervirens]]>
+  </name>
+  <LookAt>
+    <longitude>3.85775</longitude>
+    <latitude>43.610623</latitude>
+    <range>1000</range>
+    <tilt>0</tilt>
+    <heading>0</heading>
+  </LookAt>
+  <Point>
+    <coordinates>3.85775,43.610623,0</coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>
+    <![CDATA[Pinus pinea]]>
+  </name>
+  <LookAt>
+    <longitude>3.857801</longitude>
+    <latitude>43.61071</latitude>
+    <range>1000</range>
+    <tilt>0</tilt>
+    <heading>0</heading>
+  </LookAt>
+  <Point>
+    <coordinates>3.857801,43.61071,0</coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>
+    <![CDATA[Magniolia grandiflora]]>
+  </name>
+  <LookAt>
+    <longitude>3.877397</longitude>
+    <latitude>43.648465</latitude>
+    <range>1000</range>
+    <tilt>0</tilt>
+    <heading>0</heading>
+  </LookAt>
+  <Point>
+    <coordinates>3.877397,43.648465,0</coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>
+    <![CDATA[CŠdre atlantica]]>
+  </name>
+  <LookAt>
+    <longitude>3.877709</longitude>
+    <latitude>43.648401</latitude>
+    <range>1000</range>
+    <tilt>0</tilt>
+    <heading>0</heading>
+  </LookAt>
+  <Point>
+    <coordinates>3.877709,43.648401,0</coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>
+    <![CDATA[platanus hybrida]]>
+  </name>
+  <LookAt>
+    <longitude>3.877167</longitude>
+    <latitude>43.648756</latitude>
+    <range>1000</range>
+    <tilt>0</tilt>
+    <heading>0</heading>
+  </LookAt>
+  <Point>
+    <coordinates>3.877167,43.648756,0</coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>
+    <![CDATA[Quercus Pubescens]]>
+  </name>
+  <LookAt>
+    <longitude>3.877432</longitude>
+    <latitude>43.64908</latitude>
+    <range>1000</range>
+    <tilt>0</tilt>
+    <heading>0</heading>
+  </LookAt>
+  <Point>
+    <coordinates>3.877432,43.64908,0</coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>
+    <![CDATA[Grevillea robusta]]>
+  </name>
+  <LookAt>
+    <longitude>3.925766</longitude>
+    <latitude>43.615225</latitude>
+    <range>1000</range>
+    <tilt>0</tilt>
+    <heading>0</heading>
+  </LookAt>
+  <Point>
+    <coordinates>3.925766,43.615225,0</coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>
+    <![CDATA[Eucalyptus gunnii]]>
+  </name>
+  <LookAt>
+    <longitude>3.925013</longitude>
+    <latitude>43.615404</latitude>
+    <range>1000</range>
+    <tilt>0</tilt>
+    <heading>0</heading>
+  </LookAt>
+  <Point>
+    <coordinates>3.925013,43.615404,0</coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>
+    <![CDATA[Magnolia grandifolia]]>
+  </name>
+  <LookAt>
+    <longitude>3.871068</longitude>
+    <latitude>43.611075</latitude>
+    <range>1000</range>
+    <tilt>0</tilt>
+    <heading>0</heading>
+  </LookAt>
+  <Point>
+    <coordinates>3.871068,43.611075,0</coordinates>
+  </Point>
+</Placemark>
+</Folder>
+</Document>
+</kml>

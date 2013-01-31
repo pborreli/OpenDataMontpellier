@@ -1,0 +1,46 @@
+﻿--------------------------------------------------
+
+
+Montpellier Territoire Numérique
+--------------------------------------------------
+
+Fiche métadonnées
+--------------------------------------------------
+
+*Nom : Arbres remarquables
+
+*Date de publication : 13/04/2011
+
+*Identifiant : VilleMTP_MTP_ArbresRemarq_2011
+
+*Description : Liste des arbres remarquables publics gérés par la Ville de Montpellier. Ne contient pas les arbres publics gérés par les Campus ni le Jardins Botaniques. Ne contient pas les arbres "non gérés" dans certains espaces publics ouverts (rives du Lez) Ne contient pas les arbres "privés" présents dans les parcs, jardins, balcons privés, etc.
+
+*Période de validité : Annuelle
+
+*Propriétaire : Ville de Montpellier
+
+*Diffuseur : Ville de Montpellier
+
+*Catégorie : Environnement
+
+*Thème INSPIRE : Faune et flore
+
+*Couverture géographique : Ville de Montpellier
+
+*Licence : APIE
+
+*Langue : Français
+
+*Mots clés : arbre ; biodiversité ; écologie ; botanique ; espaces verts ; montpellier
+
+*Tarification : Gratuite
+
+*Information complémentaire : 
+
+
+--------------------------------------------------
+
+Site : http://opendata.montpelliernumerique.fr
+
+Contact : opendata.montpelliernumerique@gmail.com
+--------------------------------------------------
