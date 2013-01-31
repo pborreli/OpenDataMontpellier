@@ -1,0 +1,68 @@
+"FID_","DÉNOMINATI","VOIE_DE_GE","VOIE_PORTÉ","OBSTACLE_F","IDENTIFIAN","STRUCTURE","TYPE_VISIT","INDICE_DE_","GESTIONNAI","SECTEUR","TRAMWAY","OUVERTURE_","LONGUEUR__","LARGEUR_UT","SURFACE_AU","NUM__ORDRE"
+,"Vieussens / SNCF","Boulevard VIEUSSENS","Boulevard VIEUSSENS","Voies SNCF","07-02C-420","Poutrelles enrobées","IQOA",3,"SUBDIVISION 1","CA"," ",32,49,"10,95","536,55",31
+,"Liberté / Fermaud","Avenue de la LIBERTE","Avenue de la LIBERTE","Rue Pierre FERMAUD","07-02B-204","Poutres béton armé PBA","IQOA",3,"SUBDIVISION 2","MC3"," ","8,95","11,45","9,2","105,34",52
+,"Couverture du Verdanson","Rue du FAUBOURG BOUTONNET","Rue du FAUBOURG BOUTONNET","Le Verdanson","07-02B-301A","Dalle pleine PSIDA","IDP",2,"SUBDIVISION 2","MC2"," ",13,14,88,1232,54
+,"Couverture du Verdanson","Quais du VERDANSON et des TANNEURS","Quais du VERDANSON et des TANNEURS","Le Verdanson","07-02B-301B","Dalle pleine PSIDA","IDP",3,"SUBDIVISION 2","MC1"," ",15,16,"156,8","2508,8",55
+,"Couverture du Verdanson","Quais du VERDANSON et des TANNEURS","Quais du VERDANSON et des TANNEURS","Le Verdanson","07-02B-301D","Dalle pleine PSIDA","IDP",3,"SUBDIVISION 2","MC1","L2","11,3",13,127,165,56
+,"Couverture du Verdanson","Place du 11 NOVEMBRE 1918","Place du 11 NOVEMBRE 1918","Le Verdanson","07-02B-302","Dalle pleine PSIDA","IDP",4,"SUBDIVISION 2","MC1","L2",9,"9,8","188,15","1843,87",57
+,"Chancel / Verdanson","Avenue CHANCEL","Avenue CHANCEL","Le Verdanson","07-02B-305","Poutres béton armé PBA","IQOA",3,"SUBDIVISION 2","MC2","L1","13,2",20,"6,44","128,8",58
+,"Passage piétons / Bonnes nouvelles","Boulevard de BONNES NOUVELLES","Passerelle pour piétons","Boulevard de BONNES NOUVELLES","07-02B-307","Voute en anse de panier","IQOA",1,"SUBDIVISION 2","MC1"," ","9,5","11,65","3,95","46,02",59
+,"Antigone / SNCF","Boulevard d'ANTIGONE","Boulevard d'ANTIGONE","Voies SNCF","07-02B-409","Poutrelles enrobées","IDP",4,"SUBDIVISION 2","MC1"," ","10,6","12,2","12,4","151,28",60
+,"Pradiers / Verdanson","Rue des PRADIERS","Rue des PRADIERS","Le Verdanson","07-02C-303","Cadre multiple","IDP",2,"SUBDIVISION 2","MC1","L2",9,"9,8",0,0,61
+,"Couverture du Verdanson","Avenue SAINT CHARLES","Avenue SAINT CHARLES","Le Verdanson","07-02C-323","Cadre fermé PICF","IDP",1,"SUBDIVISION 2","MC2","L1","2,95",48,0,0,62
+,"Milhau / SNCF - Palladium","Quai du PALLADIUM","Allée Jules MILHAU","Voies SNCF et quai du Palladium","07-02D-411","Poutres précontraintes","IDP",4,"SUBDIVISION 2","MC1"," ","10,3",50,20,1000,63
+,"Couverture du Verdanson","Place ALBERT 1er","Place ALBERT 1er","Le Verdanson","07-03B-308","Poutres précontarintes PRAD","IDP",4,"SUBDIVISION 2","MC2","L1","15,5","18,08","17,4","314,59",64
+,"Passerelle Auguste Comte","Rue Michel de l'HOSPITAL","Rue Michel de l'HOSPITAL","Voies SNCF et allée de la CITADELLE","07-03B-408","Dalle élègie précontraintes","IQOA",1,"SUBDIVISION 2","MC1"," ","23,35","29,5",3,"88,5",65
+,"Flahault / Le Verdanson","Avenue Charles FLAHAULT","Avenue Charles FLAHAULT","Le Verdanson","07-03C-218","Poutres précontraintes VIPP","IDP",3,"SUBDIVISION 2","MC2"," ","17,85",30,"19,33","579,9",66
+,"Pont Juvénal","Avenue du PONT JUVENAL","Avenue du PONT JUVENAL","Le Lez","07-03D-106","Dalle élègie précontraintes","IQOA",3,"SUBDIVISION 1","PM"," ",83,"91,27",15,"1369,05",67
+,"Pont du Garigliano","Avenue SAINT ANDRE DE NOVIGENS","Avenue SAINT ANDRE DE NOVIGENS","Le Lez","07-03D-107","Poutres précontraintes VIPP","IQOA",1,"SUBDIVISION 1","PM"," ","71,18",82,"12,85","1053,7",37
+,"Antigone / Valançay - Jeu de Ballon","Boulevard d'ANTIGONE","Boulevard d'ANTIGONE","Rue du JEU DE BALLON et Rue de VALANCAY","07-03D-108","Dalle pleine PSIDP","IQOA",2,"SUBDIVISION 2","MC1"," ","108,55",114,"8,85","1008,9",38
+,"Passerelle piétonne / Vallois","Rue PROFESSEUR Léon VALLOIS","Passerelle piétonne","Rue PROFESSEUR Léon VALLOIS","07-04B-405","Poutrelles enrobées","IQOA",2,"SUBDIVISION 2","MC2"," ","25,52",28,"10,15","284,2",39
+,"Vallois / Verdanson","Rue PROFESSEUR Léon VALLOIS","Rue PROFESSEUR Léon VALLOIS","Le Verdanson","07-02B-208","Dalle nervurée PSIDN","IQOA",1,"SUBDIVISION 2","MC1","L2",15,"16,35","16,9","276,32",53
+,"Beins / Jeu de Ballon et parking officiel","Allée Jean de BEINS","Allée Jean de BEINS","Rue du JEU DE BALLON","07-03D-108B","Dalle pleine PSIDP","IDP",4,"SUBDIVISION 2","MC1"," ","80,35","86,66","6,5","563,29",40
+,"Rue du Jeau de Ballon / Hôtel Ibis","Rue du JEU DE BALLON","Rue du JEU DE BALLON","Soffitel","07-03D-109","Dalle pleine PSIDP","IQOA",1,"SUBDIVISION 2","MC1"," ","107,36","117,56","8,05","946,36",41
+,"Rue du Jeu de Ballon / SNCF","Rue du JEU DE BALLON","Rue du JEU DE BALLON","Voies SNCF","07-03D-410","Poutrelles enrobées","IQOA",3,"SUBDIVISION 2","MC1"," ","12,4",14,"10,6","148,4",42
+,"Truc / Verdanson","Allée Hermantaire TRUC","Allée Hermantaire TRUC","Le Verdanson","07-04B-304","Pont à tabliers","IDP","NC","SUBDIVISION 2","MC2"," ","15,3","17,3","2,07","35,81",43
+,"Pont de la Concorde / Le Lez","Avenue de la JUSTICE DE CASTELNAU","Avenue de la JUSTICE DE CASTELNAU","Le Lez"," ","Poutres précontraintes PRAD","IQOA","NC","SUBDIVISION 2","H-F","L2",31,"33,82","7,5","253,65",44
+,"Pont de Lattes / SNCF","Rue du PONT DE LATTES","Rue du PONT DE LATTES","Voies SNCF","07-02C-417"," ","IDP",4,"SUBDIVISION 2","MC3","L1 + L2",0,0,0,0,45
+,"Pont de Sète / SNCF","Rue du GRAND SAINT JEAN","Rue du GRAND SAINT JEAN","Voies SNCF"," "," ","IQOA","NC","SUBDIVISION 2","MC3","L2",0,0,0,0,46
+,"Viaduc Alphonse Loubat","Viaduc Alphonse LOUBAT","Viaduc Alphonse LOUBAT","Voies SNCF"," "," ","IQOA","NC","SUBDIVISION 2","MC1","L2",0,0,0,0,47
+,"Luna / Lantissargues","Avenue Pedro de LUNA","Avenue Pedro de LUNA","Le Lantissargues"," "," ","IQOA","NC","SUBDIVISION 1","CA","L2",0,0,0,0,48
+,"Pépinière / Chambéry","Rue de la PEPINIERE","Rue de la PEPINIERE","Le Chambéry"," "," ","IQOA","NC","SUBDIVISION 2","MC2","L2",0,0,0,0,49
+,"Agropolis / Le Lavalette","Avenue AGROPOLIS","Avenue AGROPOLIS","Le Lavalette","01-01B-310","Voute en arc surbaissé","IQOA",2,"SUBDIVISION 2","H-F"," ","4,1",16,10,160,1
+,"Agropolis / La Lironde","Avenue AGROPOLIS","Avenue AGROPOLIS","La Lironde","01-01D-309","Voute en arc surbaissé","IDP",4,"SUBDIVISION 2","H-F"," ","35,2",60,"6,57","394,2",2
+,"Grandel / La Lironde","Rue Jean GRANDEL","Rue Jean GRANDEL","La Lironde","01-02B-311","Poutres béton armé PBA","IDP","S","SUBDIVISION 2","H-F"," ",12,"20,6",5,103,3
+,"Apothicaires / Ganges","Avenue des APOTHICAIRES","Avenue des APOTHICAIRES","Route de GANGES","01-02C-117","Portique ouvert double POD","IQOA",1,"SUBDIVISION 2","H-F"," ","25,03","26,18","12,5","327,25",4
+,"Pont Lapeyronie","Rue du Professeur Joseph ANGLADA","Rue du Professeur Joseph ANGLADA","Route de GANGES + Avenue du Doyen Gaston GIRAUD","01-02C-212","Portique ouvert double POD","IQOA",1,"SUBDIVISION 2","H-F"," ","18,6",30,"9,2",276,5
+,"Domitienne / Le Verdanson","Voie DOMITIENNE","Voie DOMITIENNE","Le Verdanson","01-04C-324","Buse métallique","IQOA",3,"SUBDIVISION 2","H-F"," ","6,4",11,"28,4","312,4",6
+,"Pont Vincent Badie","Rue de BOLOGNE","Rue de BOLOGNE","Avenue de l'EUROPE","02-03D-118","Poutres précontarintes PRAD","IQOA",1,"SUBDIVISION 1","Mosson","L1","43,95","51,5","8,95","460,92",7
+,"Lavérune / Recambale","Route de LAVERUNE","Route de LAVERUNE","Avenue de la RECAMBALE","03-02C-211","Portique ouvert double POD","IQOA",2,"SUBDIVISION 1","CA","L2","21,05",25,"11,76",294,8
+,"Taillade / Liberté","Rue de la TAILLADE","Rue de la TAILLADE","Avenue de la LIBERTE","03-03B-201","Poutres précontarintes PRAD","IQOA",3,"SUBDIVISION 1","Cévennes"," ",16,"16,96","9,4","159,42",9
+,"Garrats / Liberté","Avenue des GARRATS","Avenue des GARRATS","Avenue de la LIBERTE","03-03D-114","Dalle pleine PSIDP","IQOA",3,"SUBDIVISION 1","Cévennes"," ","48,6",51,"16,7","851,7",10
+,"Liberté / Maurin","Avenue de la LIBERTE","Avenue de la LIBERTE","Avenue de MAURIN","04-03C-110","Poutres précontraintes VIPP","IDP",3,"SUBDIVISION 1","CA"," ","35,9","37,65","10,75","404,74",11
+,"Liberté / Angoulème","Avenue de la LIBERTE","Avenue de la LIBERTE","Avenue de VILLENEUVE-ANGOULEME","04-03C-205","Dalle pleine PSIDP","IQOA",2,"SUBDIVISION 1","CA"," ",25,"26,57","12,05","320,17",12
+,"Pont Jean Rodolphe Perronet","Avenue Albert DUBOUT","Avenue Albert DUBOUT","Voies SNCF","04-03C-421","Poutres précontraintes","IQOA",1,"SUBDIVISION 1","CA"," ","24,8","38,05","17,4","662,07",13
+,"Liberté / 8 Mai 1945","Avenue de la LIBERTE","Avenue de la LIBERTE","Place du HUIT MAI 1945","04-03D-113","Dalle pleine PSIDP","IDP",3,"SUBDIVISION 1","CA"," ",76,"80,8",8,"646,4",14
+,"Pont Bertrand Garipuy","Avenue Albert DUBOUT","Avenue Albert DUBOUT","Avenue de MAURIN","04-04B-110B","Poutres précontraintes","IQOA",1,"SUBDIVISION 1","CA"," ","26,2","44,65","13,9","620,64",15
+,"Montels Saint Pierre / SNCF","Rue MONTELS SAINT PIERRE","Rue MONTELS SAINT PIERRE","Voies SNCF","05-01C-424","Voute en arc surbaissé","IDP","S","SUBDIVISION 1","CA"," ","18,5","27,2",4,"108,8",16
+,"Dubout / Pont Trinquat","Avenue Albert DUBOUT","Avenue Albert DUBOUT","Avenue du PONT TRINQUAT","05-02B-207","Dalle pleine PSIDA","IQOA",3,"SUBDIVISION 1","CA"," ","12,4",14,11,154,17
+,"Industrie / Lantissargues","Rue de l'INDUSTRIE","Rue de l'INDUSTRIE","Le Lantissargues","05-02B-321","Dalle pleine PSIDA","IQOA",2,"SUBDIVISION 1","PA"," ",3,"9,45","12,36","116,8",18
+,"Dubout / Palavas","Avenue Albert DUBOUT","Avenue Albert DUBOUT","Avenue de PALAVAS","05-03C-206","Poutres précontarintes PRAD","IDP",3,"SUBDIVISION 1","PA"," ","20,3","20,94","8,8","184,27",19
+,"Vauguières / La Lironde","Route de VAUGUIERES","Route de VAUGUIERES","La Lironde","06-02B-318","Cadre fermé PICF","IQOA",2,"SUBDIVISION 1","PM"," ",5,6,"9,5",57,20
+,"Pierre Mendès France / Einstein","Avenue Président Pierre MENDES FRANCE","Avenue Président Pierre MENDES FRANCE","Avenue Albert EINSTEIN","06-02C-104","Dalle pleine PSIDA","IQOA",1,"SUBDIVISION 1","PM"," ","41,66","45,06",0,0,21
+,"Pierre Mendès France / Galois","Avenue Président Pierre MENDES FRANCE","Avenue Président Pierre MENDES FRANCE","Rond-point Evariste GALOIS","06-02C-214","Portique ouvert PIPO","IDP","S","SUBDIVISION 1","PM"," ",10,"28,9","32,15","929,14",22
+,"Pierre Mendès France / Galois","Avenue Président Pierre MENDES FRANCE","Avenue Président Pierre MENDES FRANCE","Rond-point Evariste GALOIS","06-02C-213","Cadre fermé PICF","IDP",4,"SUBDIVISION 1","PM"," ","8,55","27,9","42,5","1185,75",23
+,"Passerelle Barons de Caravettes","Passerelle Barons de Caravettes","Passerelle Barons de Caravettes","Le Lez","06-02D-120","Dalle nervurée PSIDN","IQOA",1,"SUBDIVISION 1","PM"," ","86,39",87,"6,16","535,92",24
+,"Einstein - Nobel / La Lironde","Carrefour Av. Albert Einstein - R. Alfred Nobel","Carrefour Av. Albert Einstein - R. Alfred Nobel","La Lironde","06-02D-317","Cadre fermé PICF","IQOA",1,"SUBDIVISION 1","PM"," ",5,"5,9","50,5","297,95",25
+,"Pierre Mendès France / Pompignane","Avenue Président Pierre MENDES FRANCE","Avenue Président Pierre MENDES FRANCE","Avenue de la POMPIGNANE","06-03C-102","Dalle pleine PSIDP","IDP",3,"SUBDIVISION 1","PM"," ","41,2","43,6","14,75","643,1",26
+,"Pont Raymond CHAULIAC","Avenue Président Pierre MENDES FRANCE","Avenue Président Pierre MENDES FRANCE","Le Lez","06-03D-101","Dalle pleine PSIDP","IDP",3,"SUBDIVISION 1","PM"," ","79,8","80,8","14,75","1191,8",27
+,"Vinci / Pierre Mendès France","Rue Léonard DE VINCI","Rue Léonard DE VINCI","Avenue Président Pierre MENDES FRANCE","06-03D-103","Dalle pleine PSIDP","IDP",3,"SUBDIVISION 1","PM"," ","56,8",60,8,480,28
+,"Pont Jean Zuccarelli","Avenue Marie de MONTPELLIER","Avenue Marie de MONTPELLIER","Le Lez","06-03D-119","Dalle pleine PSIDP","IDP",1,"SUBDIVISION 1","PM","L1","72,26","79,9",29,"2317,1",29
+,"Passerelle du Moulin de l'Evêque","Passerelle du MOULIN DE L'EVEQUE","Passerelle du MOULIN DE L'EVEQUE","Le Lez","06-04D-121","Ossature métallique","IQOA",1,"SUBDIVISION 1","PM"," ",0,78,"2,7","210,6",30
+,"Castelnau / Le Chambéry","Avenue de CASTELNAU","Avenue de CASTELNAU","Le Chambéry","07-01A-312D","Voute en arc surbaissé","IDP",5,"SUBDIVISION 2","MC2"," ","3,7","7,2","8,5","61,2",32
+,"Tour Buffel / Liberté","Rue de la TOUR BUFFEL","Rue de la TOUR BUFFEL","Avenue de la LIBERTE","07-01C-313","Voute en arc surbaissé","IDP",4,"SUBDIVISION 2","MC3"," ","15,8",23,"3,85","88,55",33
+,"Delmas / Le Lez","Avenue François DELMAS","Avenue François DELMAS","Le Lez","07-01D-111","Voute plein cintre","IDP",3,"SUBDIVISION 1","H-F"," ",0,"83,5","12,6","1052,1",34
+,"Lunaret / Chambéry","Rue LUNARET","Rue LUNARET","Le Chambéry","07-02A-312B","Dalle pleine PSIDA","IDP",4,"SUBDIVISION 1","MC2"," ","2,6",3,"7,6","22,8",35
+,"Sauvages / Ollivier","Quai des SAUVAGES","Quai des SAUVAGES","Rue Aristide OLLIVIER","07-02A-416","Poutrelles enrobées","IQOA",1,"SUBDIVISION 2","MC3"," ","8,5",10,20,200,36
+,"Liberté / Anterrieu","Avenue de la LIBERTE","Avenue de la LIBERTE","Rue ANTERRIEU","07-02B-202","Poutres béton armé PBA","IQOA",3,"SUBDIVISION 2","MC3"," ",6,"8,8","9,3","81,84",50
+,"Liberté / Faubourg Figuerolles","Avenue de la LIBERTE","Avenue de la LIBERTE","Rue du FAUBOURG FIGUEROLLES","07-02B-203","Poutres béton armé PBA","IDP","S","SUBDIVISION 2","MC3"," ",12,"14,5","10,4","147,03",51

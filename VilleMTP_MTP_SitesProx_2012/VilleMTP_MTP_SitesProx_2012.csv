@@ -1,0 +1,8 @@
+"LIBEL,C,254","COORD1_05,C,4","COORD2_05,C,4","PLAN_05,C,2","RUBRIQUE,C,12","POINT_X,N,19,11","POINT_Y,N,19,11","ADRESSE,C,50","QUARTIER,C,15","SSQUARTIER,C,15","POLICE,N,4,0"
+"M.P.T. Paul-Emile Victor","F12",,"26","MPT","768049,888753","6280920,57331","1247, av. du Professeur Louis Ravas","Les Cevennes","Alco",14
+"M.P.T. Mélina Mercouri","P11",,"31","MPT","773345,085908","6279826,10541","842 r. de la Vielle Poste","Port Marianne","Millénaire",14
+"M.P.T. Voltaire","M8",,"50","MPT","771776,859418","6278752,10544","1, square Jean Monnet","Centre-ville","Gare",14
+,"M7",,"50","MPT","771972,209601","6277906,70434","14, r. de l'Améthyste","Près d'Arènes","Aiguerelles",0
+"M.P.T. Albert Camus","J7",,"48","MPT","770269,605243","6277912,80607","118, allée Maurice Bonafos","Croix d'Argent","Lemasson",14
+"M.P.T Marcel Pagnol","G8",,,"MPT","768690,040901","6278409,2691","64, route de Lavérune","Les Cevennes","Alco",14
+"M.P.T. Léo Lagrange","B13",,"14","MPT","765924,731314","6281381,84644","155 rue de Bologne","Mosson","La Paillade",14
