@@ -1,0 +1,13 @@
+"Demandeurs d'emploi, données conjoncturelles (t1 2011)",,,,,,,,,,,,
+"Données par ZUS",,,,,,,,,,,,
+"Champ : ZUS de l'agglomération 34701-Montpellier",,,,,,,,,,,,
+,"(Cette agglomération fait partie de la région : 91-Languedoc-Roussillon)",,,,,,,,,,,
+"Source : Pôle Emploi, traitement Insee",,,,,,,,,,,,
+,,,,,,,,,,,,
+"reg","uu","zus","nom","note","defm","catA","catABC","lt26r","defm_1","catA_1","catABC_1","lt26r_1"
+"Code région","Code unité urbaine (agglomération)","Code ZUS","Nom de la zone","Disponibilité (voir documentation)","Nombre total de demandeurs d’emploi en fin de trimestre","Nombre de demandeurs d’emploi de catégorie A en fin de trimestre","Nombre de demandeurs d’emploi de catégorie A, B ou C en fin de trimestre","Nombre de demandeurs d’emploi de catégorie A, B ou C, ayant moins de 26 ans en fin de trimestre","Nombre total de demandeurs d’emploi en fin du même trimestre de l'année précédente","Nombre de demandeurs d’emploi de catégorie A en fin du même trimestre de l'année précédente","Nombre de demandeurs d’emploi de catégorie A, B ou C en fin du même trimestre de l'année précédente","Nombre de demandeurs d’emploi de catégorie A, B ou C, ayant moins de 26 ans en fin du même trimestre de l'année précédente"
+"91","34701","9105030","GELY-FIGUEROLLES",0,279,183,255,68,282,180,243,57
+"91","34701","9105040","LA PAILLADE",0,2365,1689,2180,492,2303,1590,2082,508
+"91","34701","9105050","LES CEVENNES",0,938,597,823,211,908,597,806,191
+"91","34701","9105060","PAS DU LOUP,VAL DE CROZE,PAUL VALERY",0,711,503,657,137,675,462,615,139
+"91","34701","9105070","PETIT BARD,PERGOLA",0,693,476,648,166,741,503,682,200

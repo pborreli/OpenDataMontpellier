@@ -1,0 +1,13 @@
+"Revenus fiscaux (2008)",,,,,,,,,,,,,,,,,,,,,
+"Données par ZUS",,,,,,,,,,,,,,,,,,,,,
+"Champ : ZUS de l'agglomération 34701-Montpellier",,,,,,,,,,,,,,,,,,,,,
+,"(Cette agglomération fait partie de la région : 91-Languedoc-Roussillon)",,,,,,,,,,,,,,,,,,,,
+"Source : Direction Générale des Impots, traitement Insee",,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+"reg","uu","zus","nom","note","NbMen","NbPers","NbUC","RFMQ1","RFMQ2","RFMQ3","RFMD1","RFMD9","RFMMO","RFUCQ1","RFUCQ2","RFUCQ3","RFUCD1","RFUCD9","RFUCMO","PtSa","NbMenNI"
+"Code région","Code unité urbaine (agglomération)","Code ZUS","Nom de la zone","Disponibilité (voir documentation)","Ménages fiscaux ","Personnes dans les  ménages fiscaux ","Unités de consommation","revenu par ménage: premier quartile","revenu par ménage: médiane ","revenu par ménage: dernier quartile","revenu par ménage: premier décile","revenu par ménage: dernier décile","revenu par ménage: moyenne ","revenu par UC: premier quartile","revenu par UC: médiane ","revenu par UC: dernier quartile","revenu par UC: premier décile","revenu par UC: dernier décile","revenu par UC: moyenne ","part traitements et salaires ","Ménages non imposables"
+"91","34701","9105030","GELY-FIGUEROLLES",0,988,"2110,5","1473,9",3646,"13438,5",25069,0,37616,"17322,07",1815,8026,16729,0,24700,"10955,91","62,9",659
+"91","34701","9105040","LA PAILLADE",0,5221,"16482,5","9996,3",6583,14294,22457,7,32619,"16131,47",3067,6480,11064,93,16226,"7846,99","69,6",4077
+"91","34701","9105050","LES CEVENNES",0,2832,6024,"4206,1",12653,"20848,5","33195,5",5389,48831,"25702,06",6445,13744,22236,2484,32156,"16315,54","64,72",1409
+"91","34701","9105060","PAS DU LOUP,VAL DE CROZE,PAUL VALERY",0,2026,5167,"3358,3",11176,18690,29355,3600,43368,"22046,71",6071,"11136,5",17373,1528,24727,"12612,79","77,75",1262
+"91","34701","9105070","PETIT BARD,PERGOLA",0,1500,5103,"3045,4","6392,5",13295,20735,1080,"30990,5","15335,92",3363,"6146,5",9650,836,14054,"7101,66","75,68",1196

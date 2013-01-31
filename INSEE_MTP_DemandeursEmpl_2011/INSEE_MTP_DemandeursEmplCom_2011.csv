@@ -1,0 +1,19 @@
+"Demandeurs d'emploi, données conjoncturelles (t1 2011)",,,,,,,,,,,,
+"Données par commune",,,,,,,,,,,,
+"Champ : communes de l'agglomération 34701-Montpellier",,,,,,,,,,,,
+,"(Cette agglomération fait partie de la région : 91-Languedoc-Roussillon)",,,,,,,,,,,
+"Source : Pôle Emploi, traitement Insee",,,,,,,,,,,,
+,,,,,,,,,,,,
+"REG","uu","dc","nom","note","defm","catA","catABC","lt26r","defm_1","catA_1","catABC_1","lt26r_1"
+"Code région","Code unité urbaine (agglomération)","Code département / commune","Nom de la zone","Disponibilité (voir documentation)","Nombre total de demandeurs d’emploi en fin de trimestre","Nombre de demandeurs d’emploi de catégorie A en fin de trimestre","Nombre de demandeurs d’emploi de catégorie A, B ou C en fin de trimestre","Nombre de demandeurs d’emploi de catégorie A, B ou C, ayant moins de 26 ans en fin de trimestre","Nombre total de demandeurs d’emploi en fin du même trimestre de l'année précédente","Nombre de demandeurs d’emploi de catégorie A en fin du même trimestre de l'année précédente","Nombre de demandeurs d’emploi de catégorie A, B ou C en fin du même trimestre de l'année précédente","Nombre de demandeurs d’emploi de catégorie A, B ou C, ayant moins de 26 ans en fin du même trimestre de l'année précédente"
+"91","34701","34057","Castelnau-le-Lez",0,1122,655,968,206,1028,633,872,172
+"91","34701","34077","Clapiers",0,306,177,264,59,288,146,232,52
+"91","34701","34090","Le Crès",0,520,292,448,90,519,287,445,95
+"91","34701","34116","Grabels",0,632,364,518,106,591,353,500,123
+"91","34701","34120","Jacou",0,371,190,301,66,313,151,241,68
+"91","34701","34123","Juvignac",0,531,272,426,80,472,287,393,83
+"91","34701","34169","Montferrier-sur-Lez",0,193,118,172,42,188,123,162,41
+"91","34701","34172","Montpellier",0,30765,19334,26903,5583,29489,18820,25810,5479
+"91","34701","34247","Saint-Clément-de-Rivièr",0,233,140,193,30,213,127,174,27
+"91","34701","34270","Saint-Jean-de-Védas",0,528,310,437,96,503,302,425,88
+"91","34701","34327","Vendargues",0,422,242,360,62,396,249,331,70

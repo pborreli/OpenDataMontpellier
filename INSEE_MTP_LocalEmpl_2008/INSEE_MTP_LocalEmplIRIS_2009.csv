@@ -1,0 +1,103 @@
+"Données localisées sur l'emploi au lieu de travail (2008)",,,,,,,,
+"Données par IRIS",,,,,,,,
+"Champ : IRIS de l'agglomération 34701-Montpellier",,,,,,,,
+,"(Cette agglomération fait partie de la région : 91-Languedoc-Roussillon)",,,,,,,
+"Source : Insee-CLAP",,,,,,,,
+,,,,,,,,
+"REG","uu","dc","nomc","iris","nom","note","STCLAPI","SMCLAPI"
+"Code région","Code unité urbaine (agglomération)","Code département / commune","Nom de la commune","Code IRIS","Nom de la zone","Disponibilité (voir documentation)","Nombre total de postes salariés (à l'IRIS)","Nombre total de postes salariés du secteur marchand (à l'IRIS)"
+"91","34701","34057","Castelnau-le-Lez","0101","QUARTIER SUD",0,2893,2154
+"91","34701","34057","Castelnau-le-Lez","0102","GALINE-STADE JEAN FOURNIER-OUEST",0,540,189
+"91","34701","34057","Castelnau-le-Lez","0103","CASTELNAU-CENTRE VILLE",0,1234,820
+"91","34701","34057","Castelnau-le-Lez","0104","SABLAS- MENDROUS O-LANGUEDOC O",0,477,267
+"91","34701","34057","Castelnau-le-Lez","0105","MENDROUS E- LANGUEDOC E- A. ROUGE-DEVOIS",0,523,477
+"91","34701","34057","Castelnau-le-Lez","0106","QUARTIER NORD-EST",0,1544,1183
+"91","34701","34057","Castelnau-le-Lez","0107","COURTARELLE-CANTAGRIL-MURIERS",0,153,77
+"91","34701","34172","Montpellier","0101","ECOLE D'ARCHITECTURE-TRIOLET",0,475,210
+"91","34701","34172","Montpellier","0102","VERT BOIS",0,4653,223
+"91","34701","34172","Montpellier","0103","SAINT-ELOI",0,2583,137
+"91","34701","34172","Montpellier","0105","LAPEYRONIE",0,9787,58
+"91","34701","34172","Montpellier","0106","OCCITANIE",0,611,91
+"91","34701","34172","Montpellier","0108","EUROMÉDECINE",1,,
+"91","34701","34172","Montpellier","0109","MALBOSC",1,,
+"91","34701","34172","Montpellier","0201","LUNARET",0,1209,46
+"91","34701","34172","Montpellier","0202","AIGUELONGUE",0,96,48
+"91","34701","34172","Montpellier","0203","MERIC",0,432,409
+"91","34701","34172","Montpellier","0204","JUSTICE",0,408,190
+"91","34701","34172","Montpellier","0301","AGROPOLIS",0,1506,111
+"91","34701","34172","Montpellier","0401","BLAYAC",0,4294,3518
+"91","34701","34172","Montpellier","0402","BOLOGNE",0,316,164
+"91","34701","34172","Montpellier","0403","OXFORD",0,423,165
+"91","34701","34172","Montpellier","0404","LE MAIL SUD",0,299,270
+"91","34701","34172","Montpellier","0405","LE MAIL NORD",0,324,317
+"91","34701","34172","Montpellier","0501","LES GARRIGUES",0,202,48
+"91","34701","34172","Montpellier","0502","LES GEMEAUX",0,924,599
+"91","34701","34172","Montpellier","0503","LES TOURS",0,151,27
+"91","34701","34172","Montpellier","0602","CELLENEUVE",1,,
+"91","34701","34172","Montpellier","0603","LA FONTAINE",1,,
+"91","34701","34172","Montpellier","0701","LES TONNELLES",0,174,121
+"91","34701","34172","Montpellier","0702","PILORY",0,467,285
+"91","34701","34172","Montpellier","0703","ALCO",0,914,696
+"91","34701","34172","Montpellier","0704","SOULAS",0,151,62
+"91","34701","34172","Montpellier","0705","CASSEYROLS",0,137,126
+"91","34701","34172","Montpellier","0706","BEL AIR",0,4175,42
+"91","34701","34172","Montpellier","0707","LE PETIT BARD",0,214,90
+"91","34701","34172","Montpellier","0801","LA PISCINE",0,1286,1249
+"91","34701","34172","Montpellier","0802","AGRICULTURE",0,1440,190
+"91","34701","34172","Montpellier","0803","ASTRUC",0,857,625
+"91","34701","34172","Montpellier","0901","LES GREZES",0,659,157
+"91","34701","34172","Montpellier","0902","BOUISSES",0,409,364
+"91","34701","34172","Montpellier","1001","LA COLLINE",0,305,95
+"91","34701","34172","Montpellier","1002","NOTRE DAME DE LA PAIX",0,202,77
+"91","34701","34172","Montpellier","1101","ESTANOVE",0,123,87
+"91","34701","34172","Montpellier","1102","LEPIC",0,371,344
+"91","34701","34172","Montpellier","1103","PARC MONTCALM",0,253,249
+"91","34701","34172","Montpellier","1201","SABATHE",0,371,215
+"91","34701","34172","Montpellier","1202","TASTAVIN",0,96,26
+"91","34701","34172","Montpellier","1203","MAS DREVON-MAURIN",0,313,236
+"91","34701","34172","Montpellier","1301","CROIX D'ARGENT",0,1591,1148
+"91","34701","34172","Montpellier","1302","MARQUEROSE",0,323,229
+"91","34701","34172","Montpellier","1303","GAROSUD",0,4632,4592
+"91","34701","34172","Montpellier","1401","BAGATELLE",0,1481,1267
+"91","34701","34172","Montpellier","1402","PAS DU LOUP",0,62,7
+"91","34701","34172","Montpellier","1501","MION",0,411,276
+"91","34701","34172","Montpellier","1502","SAINT-MARTIN",0,637,540
+"91","34701","34172","Montpellier","1601","PONT TRINQUAT",0,141,137
+"91","34701","34172","Montpellier","1602","AIGUERELLES",0,405,256
+"91","34701","34172","Montpellier","1603","LA RAUZE",0,930,814
+"91","34701","34172","Montpellier","1701","TOURNEZY",0,5578,5176
+"91","34701","34172","Montpellier","1802","PORT MARIANNE",1,,
+"91","34701","34172","Montpellier","1803","LA LIRONDE",1,,
+"91","34701","34172","Montpellier","1804","RIVE DU LEZ",1,,
+"91","34701","34172","Montpellier","1901","EUREKA",0,2927,2926
+"91","34701","34172","Montpellier","1903","MILLÉNAIRE",1,,
+"91","34701","34172","Montpellier","1904","GRAMMONT",1,,
+"91","34701","34172","Montpellier","2001","PONT DE SETE",0,1716,1225
+"91","34701","34172","Montpellier","2002","MEDITERRANNEE",0,798,607
+"91","34701","34172","Montpellier","2003","SAINT-FRANCOIS",0,491,279
+"91","34701","34172","Montpellier","2101","SALAISON",0,197,135
+"91","34701","34172","Montpellier","2102","POMPIGNANE",0,476,393
+"91","34701","34172","Montpellier","2201","LES AUBES",0,84,63
+"91","34701","34172","Montpellier","2202","RIMBAUD",0,132,55
+"91","34701","34172","Montpellier","2301","FAC DE PHARMACIE",0,886,277
+"91","34701","34172","Montpellier","2302","ECOLE NORMALE",0,1390,666
+"91","34701","34172","Montpellier","2303","BOUTONNET",0,301,119
+"91","34701","34172","Montpellier","2304","SAINTE-ODILE",0,285,120
+"91","34701","34172","Montpellier","2305","ARCHIVES DEPARTEMENTAL",0,640,397
+"91","34701","34172","Montpellier","2401","NAZARETH",0,956,416
+"91","34701","34172","Montpellier","2402","BEAUX ARTS",0,611,327
+"91","34701","34172","Montpellier","2403","VERDANSON",0,759,429
+"91","34701","34172","Montpellier","2501","PEYROU",0,1358,454
+"91","34701","34172","Montpellier","2502","URSULINES",0,2246,166
+"91","34701","34172","Montpellier","2503","PREFECTURE",0,2188,1230
+"91","34701","34172","Montpellier","2504","SAINT-ROCH",0,529,477
+"91","34701","34172","Montpellier","2601","GAMBETTA",0,2443,768
+"91","34701","34172","Montpellier","2602","SAINT-DENIS",0,2907,1997
+"91","34701","34172","Montpellier","2701","NOMBRE D'OR",0,9664,2578
+"91","34701","34172","Montpellier","2703","MOULIN DE L'EVÊQUE",1,,
+"91","34701","34172","Montpellier","2704","PLACE DE L'EUROPE",1,,
+"91","34701","34172","Montpellier","2801","LA GUIRLANDE",0,229,46
+"91","34701","34172","Montpellier","2802","CHAPTAL",0,3912,806
+"91","34701","34172","Montpellier","2901","ASSAS",0,534,450
+"91","34701","34172","Montpellier","2902","AVENUE DE LODEVE",0,302,178
+"91","34701","34172","Montpellier","3001","COMEDIE",0,5193,4341

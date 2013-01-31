@@ -1,0 +1,19 @@
+"Entreprises et établissements (2009)",,,,,,,,,,,,,,,,,,,,,,,,,
+"Données par commune",,,,,,,,,,,,,,,,,,,,,,,,,
+"Champ : communes de l'agglomération 34701-Montpellier",,,,,,,,,,,,,,,,,,,,,,,,,
+,"(Cette agglomération fait partie de la région : 91-Languedoc-Roussillon)",,,,,,,,,,,,,,,,,,,,,,,,
+"Source : Répertoire des entreprises et établissements (SIRENE)",,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+"REG","uu","dc","nom","note","n","CJPP","CJPM","n1","n50","A17DE","A17C1","A17C2","A17C3","A17C4","A17C5","A17FZ","A17GZ","A17HZ","A17IZ","A17JZ","A17KZ","A17LZ","A17MN","A17OQ","A17RU"
+"Code région","Code unité urbaine (agglomération)","Code département / commune","Nom de la zone","Disponibilité (voir documentation)","Nombre d'établissements","Dépendant de personnes physiques","Dépendant de personnes morales","Etablissements avec salariés","Etablissements de 50 salariés et plus","Industries extractives,  énergie, eau, gestion des déchets et dépollution","Fabrication de denrées alimentaires, de boissons et  de produits à base de tabac","Cokéfaction et raffinage","Fabrication d'équipements électriques, électroniques, informatiques ; fabrication de machines","Fabrication de matériels de transport","Fabrication d'autres produits industriels","Construction","Commerce ; réparation d'automobiles et de motocycles","Transports et entreposage","Hébergement et restauration","Information et communication","Activités financières et d'assurance","Activités immobilières","Activités scientifiques et techniques ; services administratifs et de soutien","Administration publique, enseignement, santé humaine et action sociale","Autres activités de services"
+"91","34701","34057","Castelnau-le-Lez",0,1338,501,837,501,9,9,12,0,9,2,39,121,273,30,44,59,68,91,244,250,87
+"91","34701","34077","Clapiers",0,277,120,157,98,2,1,2,0,7,0,8,17,52,6,13,16,12,10,57,64,12
+"91","34701","34090","Le Crès",0,515,201,314,214,6,3,5,0,1,1,16,92,131,12,25,7,22,28,58,77,37
+"91","34701","34116","Grabels",0,311,153,158,87,2,3,3,0,0,0,6,50,52,4,18,14,11,19,48,51,32
+"91","34701","34120","Jacou",0,313,136,177,120,3,1,2,0,2,0,11,44,69,8,10,6,17,11,46,61,25
+"91","34701","34123","Juvignac",0,399,161,238,176,4,1,3,0,1,0,11,56,85,7,17,7,26,24,72,63,26
+"91","34701","34169","Montferrier-sur-Lez",0,252,111,141,69,0,1,6,0,2,0,6,27,34,5,10,7,8,26,57,50,13
+"91","34701","34172","Montpellier",0,18426,7795,10631,6707,186,159,215,0,53,2,388,2040,3717,341,1275,709,810,1197,3427,3052,1041
+"91","34701","34247","Saint-Clément-de-Rivièr",0,358,111,247,129,6,1,4,0,1,0,7,20,85,3,15,21,20,33,69,59,20
+"91","34701","34270","Saint-Jean-de-Védas",0,1040,282,758,507,16,15,8,0,10,3,41,125,288,50,53,36,40,66,146,107,52
+"91","34701","34327","Vendargues",0,511,157,354,241,12,6,8,0,4,0,46,80,127,28,12,8,24,19,75,56,18

@@ -1,0 +1,13 @@
+Revenus fiscaux (2009);;;;;;;;;;;;;;;;;;;;;
+Données par ZUS;;;;;;;;;;;;;;;;;;;;;
+Champ : ZUS de l'agglomération 34701-Montpellier;;;;;;;;;;;;;;;;;;;;;
+;(Cette agglomération fait partie de la région : 91-Languedoc-Roussillon);;;;;;;;;;;;;;;;;;;;
+Source : Direction Générale des Impots, traitement Insee;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;
+reg;uu;zus;nom;note;NbMen;NbPers;NbUC;RFMQ1;RFMQ2;RFMQ3;RFMD1;RFMD9;RFMMO;RFUCQ1;RFUCQ2;RFUCQ3;RFUCD1;RFUCD9;RFUCMO;PtSa;NbMenNI
+Code région;Code unité urbaine (agglomération);Code ZUS;Nom de la zone;Disponibilité (voir documentation);Ménages fiscaux ;Personnes dans les  ménages fiscaux ;Unités de consommation;revenu par ménage: premier quartile;revenu par ménage: médiane ;revenu par ménage: dernier quartile;revenu par ménage: premier décile;revenu par ménage: dernier décile;revenu par ménage: moyenne ;revenu par UC: premier quartile;revenu par UC: médiane ;revenu par UC: dernier quartile;revenu par UC: premier décile;revenu par UC: dernier décile;revenu par UC: moyenne ;part traitements et salaires ;Ménages non imposables
+91;34701;9105030;GELY-FIGUEROLLES;0;826;1850;1267,4;2165;13177,5;24568;0;37961;17161,55;891;7548;16441;0;24376,5;10618,11;61,57;548
+91;34701;9105040;LA PAILLADE;0;5072;16198;9771;6221;14263;22249,5;2;32115;15876,52;2983;6467;10741;10;16283;7691,79;69,34;3734
+91;34701;9105050;LES CEVENNES;0;2415;5242,5;3622,1;11515;20008;32332;4531;47485;24801,1;5220;12302;21499;1742;31328;15435,42;63,37;1158
+91;34701;9105060;PAS DU LOUP,VAL DE CROZE,PAUL VALERY;0;1887;4874;3153,5;10499;18697;30583;2592;45346;22190,07;5722;11010;17671;1123;25156;12603,43;76,63;1048
+91;34701;9105070;PETIT BARD,PERGOLA;0;1445;4819,5;2892;6168;13206;20439;246;30272;14852,88;3055;6172;9348;296;13847;6974;74,95;1106

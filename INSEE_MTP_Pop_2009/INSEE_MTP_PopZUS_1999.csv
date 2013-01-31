@@ -1,0 +1,13 @@
+"Population par âge (1999)",,,,,,,,,,,,,,,,,,,,,,,
+"Données par ZUS",,,,,,,,,,,,,,,,,,,,,,,
+"Champ : ZUS de l'agglomération 34701-Montpellier",,,,,,,,,,,,,,,,,,,,,,,
+,"(Cette agglomération fait partie de la région : 91-Languedoc-Roussillon)",,,,,,,,,,,,,,,,,,,,,,
+"Source : Recensement de la population de 1999",,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,
+"REG","uu","zus","nom","note","XNBLOG","XRP","XRPPER","XNBVAC","XPOPTOT","XPOPH","XPOPF","XP0019H","XP0019F","XP2024H","XP2024F","XP2539H","XP2539F","XP4059H","XP4059F","XP6074H","XP6074F","XP75PH","XP75PF"
+"Code région","Code unité urbaine (agglomération)","Code ZUS","Nom de la zone","Disponibilité (voir documentation)","Nombre total de logements","Nbre de résidences principales","Nbre de personnes dans les résidences principales","Nombre total de logements vacants","Population totale","Population totale, hommes","Population totale, femmes","Population de 0 a 19 ans, hommes","Population de 0 a 19 ans, femmes","Population de 20 à 24 ans, hommes","Population de 20 à 24 ans, femmes","Population de 25 à 39 ans, hommes","Population de 25 à 39 ans, femmes","Population de 40 à 59 ans, hommes","Population de 40 à 59 ans, femmes","Population de 60 à 74 ans, hommes","Population de 60 à 74 ans, femmes","Population de 75 ans et plus, hommes","Population de 75 ans et plus, femmes"
+"91","34701","9105030","GELY-FIGUEROLLES",0,1093,1001,2111,74,2169,1012,1157,294,282,105,104,265,283,199,244,99,131,50,113
+"91","34701","9105040","LA PAILLADE",0,5843,5408,15183,391,15462,7586,7876,2704,2520,687,677,1464,1624,1702,1737,749,848,280,470
+"91","34701","9105050","LES CEVENNES",0,3508,3028,5773,386,5984,2737,3247,587,579,450,527,753,785,504,717,281,394,162,245
+"91","34701","9105060","PAS DU LOUP,VAL DE CROZE,PAUL VALERY",0,1963,1869,4740,77,4784,2192,2592,757,750,178,192,570,684,438,593,166,242,83,131
+"91","34701","9105070","PETIT BARD,PERGOLA",0,1662,1510,5044,129,5044,2559,2485,1053,961,282,260,502,461,523,549,148,161,51,93

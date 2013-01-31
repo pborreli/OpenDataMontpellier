@@ -1,0 +1,19 @@
+"Population par âge (1999)",,,,,,,,,,,,,,,,,,,,,,,,,
+"Données par commune",,,,,,,,,,,,,,,,,,,,,,,,,
+"Champ : communes de l'agglomération 34701-Montpellier",,,,,,,,,,,,,,,,,,,,,,,,,
+,"(Cette agglomération fait partie de la région : 91-Languedoc-Roussillon)",,,,,,,,,,,,,,,,,,,,,,,,
+"Source : Recensement de la population de 1999",,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+"REG","uu","dc","nom","note","XNBLOG","XRP","XRPPER","XNBOCC","XNBRSC","XNBVAC","XPOPTOT","XPOPH","XPOPF","XP0019H","XP0019F","XP2024H","XP2024F","XP2539H","XP2539F","XP4059H","XP4059F","XP6074H","XP6074F","XP75PH","XP75PF"
+"Code région","Code unité urbaine (agglomération)","Code département / commune","Nom de la zone","Disponibilité (voir documentation)","Nombre total de logements","Nbre de résidences principales","Nbre de personnes dans les résidences principales","Nombre de logements occasionnels","Nombre de résidences secondaires","Nombre total de logements vacants","Population totale","Population totale, hommes","Population totale, femmes","Population de 0 a 19 ans, hommes","Population de 0 a 19 ans, femmes","Population de 20 à 24 ans, hommes","Population de 20 à 24 ans, femmes","Population de 25 à 39 ans, hommes","Population de 25 à 39 ans, femmes","Population de 40 à 59 ans, hommes","Population de 40 à 59 ans, femmes","Population de 60 à 74 ans, hommes","Population de 60 à 74 ans, femmes","Population de 75 ans et plus, hommes","Population de 75 ans et plus, femmes"
+"91","34701","34057","Castelnau-le-Lez",0,5886,5462,14011,26,103,295,14208,6733,7475,1830,1767,368,397,1304,1428,1841,2035,953,1115,437,733
+"91","34701","34077","Clapiers",0,1660,1556,4479,6,51,47,4627,2206,2421,683,686,139,134,378,439,693,791,243,241,70,130
+"91","34701","34090","Le Crès",0,2652,2515,6789,7,25,105,6799,3345,3454,849,730,205,195,623,621,924,1056,562,623,182,229
+"91","34701","34116","Grabels",0,2589,2343,5334,13,50,183,5438,2705,2733,656,612,273,285,703,700,713,744,278,275,82,117
+"91","34701","34120","Jacou",0,1738,1667,4735,4,10,57,4752,2308,2444,728,691,138,148,473,553,708,738,209,225,52,89
+"91","34701","34123","Juvignac",0,2086,2013,5497,8,14,51,5587,2706,2881,686,688,116,153,529,533,801,895,444,432,130,180
+"91","34701","34169","Montferrier-sur-Lez",0,1322,1217,3235,10,29,66,3295,1633,1662,415,387,98,106,231,265,514,557,255,253,120,94
+"91","34701","34172","Montpellier",0,128213,111986,216567,1764,2060,12403,225511,103471,122040,23853,23378,15121,19250,26895,28375,21502,25721,10174,14062,5926,11254
+"91","34701","34247","Saint-Clément-de-Rivière",0,1843,1777,4498,3,26,37,4579,2296,2283,546,529,320,256,264,263,792,844,295,283,79,108
+"91","34701","34270","Saint-Jean-de-Védas",0,3047,2886,7972,17,48,96,8041,3995,4046,1196,1074,225,211,698,804,1177,1184,537,567,162,206
+"91","34701","34327","Vendargues",0,1993,1876,5211,1,17,99,5222,2607,2615,793,710,168,129,605,594,679,738,259,300,103,144

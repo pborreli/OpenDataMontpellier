@@ -1,0 +1,13 @@
+"Entreprises et établissements (2009)",,,,,,,,,,,,,,,,,,,,,,,,,
+"Données par ZUS",,,,,,,,,,,,,,,,,,,,,,,,,
+"Champ : ZUS de l'agglomération 34701-Montpellier",,,,,,,,,,,,,,,,,,,,,,,,,
+,"(Cette agglomération fait partie de la région : 91-Languedoc-Roussillon)",,,,,,,,,,,,,,,,,,,,,,,,
+"Source : Répertoire des entreprises et établissements (SIRENE)",,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+"reg","uu","zus","nom","note","n","CJPP","CJPM","n1","n50","A17DE","A17C1","A17C2","A17C3","A17C4","A17C5","A17FZ","A17GZ","A17HZ","A17IZ","A17JZ","A17KZ","A17LZ","A17MN","A17OQ","A17RU"
+"Code région","Code unité urbaine (agglomération)","Code ZUS","Nom de la zone","Disponibilité (voir documentation)","Nombre d'établissements","Dépendant de personnes physiques","Dépendant de personnes morales","Etablissements avec salariés","Etablissements de 50 salariés et plus","Industries extractives,  énergie, eau, gestion des déchets et dépollution","Fabrication de denrées alimentaires, de boissons et  de produits à base de tabac","Cokéfaction et raffinage","Fabrication d'équipements électriques, électroniques, informatiques ; fabrication de machines","Fabrication de matériels de transport","Fabrication d'autres produits industriels","Construction","Commerce ; réparation d'automobiles et de motocycles","Transports et entreposage","Hébergement et restauration","Information et communication","Activités financières et d'assurance","Activités immobilières","Activités scientifiques et techniques ; services administratifs et de soutien","Administration publique, enseignement, santé humaine et action sociale","Autres activités de services"
+"91","34701","9105030","GELY-FIGUEROLLES",0,56,29,27,16,0,0,3,0,0,0,1,7,16,1,5,4,3,0,6,4,6
+"91","34701","9105040","LA PAILLADE",0,1365,502,863,552,10,3,13,0,4,0,24,460,244,23,29,42,29,38,242,183,31
+"91","34701","9105050","LES CEVENNES",0,271,151,120,81,2,4,5,0,1,0,1,46,57,5,8,11,15,15,39,49,15
+"91","34701","9105060","PAS DU LOUP,VAL DE CROZE,PAUL VALERY",0,145,55,90,48,2,0,1,0,1,0,0,36,29,3,5,5,11,13,20,13,8
+"91","34701","9105070","PETIT BARD,PERGOLA",0,96,63,33,29,1,0,3,0,0,0,0,43,18,2,5,1,0,2,7,13,2
