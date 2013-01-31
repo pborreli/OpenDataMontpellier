@@ -1,0 +1,2148 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataroot xmlns:od="urn:schemas-microsoft-com:officedata" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"  xsi:noNamespaceSchemaLocation="Inventaire%20floristique%20PZL.xsd" generated="2011-09-06T16:07:23">
+<Inventaire_x0020_floristique_x0020_PZL>
+<ID>2</ID>
+<Nom_x0020_Scientifique>Salix alba L.</Nom_x0020_Scientifique>
+<Nom_x0020_Commun>Saule blanc,  Saule Vivier,  Saule commun</Nom_x0020_Commun>
+<Famille>Salicaceae</Famille>
+<Formation_x0020_végétale>Magnophanérophytaie</Formation_x0020_végétale>
+<Statut_x0020_de_x0020_protection_x0020_inventaire_x0020__x0028_1999_x0029_>Aucune information disponible concernant le statut de protection</Statut_x0020_de_x0020_protection_x0020_inventaire_x0020__x0028_1999_x0029_>
+<Habitat>Lieux humides, bois caducifoliés médioeuropéens et hydrophiles</Habitat>
+<Réserve_x0020__x0020__x0028_biblio_x0029_>0</Réserve_x0020__x0020__x0028_biblio_x0029_>
+<Parc_x0020_Zoologique_x0020_de_x0020_Lunaret_x0020__x0028_observation-_x0020_biblio_x0029_>1</Parc_x0020_Zoologique_x0020_de_x0020_Lunaret_x0020__x0028_observation-_x0020_biblio_x0029_>
+<Strate>Arbre</Strate>
+<Source>Inventaire floristique et statut juridique (M. Perret Vicent, M. Bertrand Michel 1999).</Source>
+</Inventaire_x0020_floristique_x0020_PZL>
+<Inventaire_x0020_floristique_x0020_PZL>
+<ID>3</ID>
+<Nom_x0020_Scientifique>Acer campestre L.</Nom_x0020_Scientifique>
+<Nom_x0020_Commun>Érable champêtre</Nom_x0020_Commun>
+<Famille>Aceraceae</Famille>
+<Formation_x0020_végétale>Magnophanérophytaie</Formation_x0020_végétale>
+<Statut_x0020_de_x0020_protection_x0020_inventaire_x0020__x0028_1999_x0029_>Aucune information disponible concernant le statut de protection</Statut_x0020_de_x0020_protection_x0020_inventaire_x0020__x0028_1999_x0029_>
+<Habitat>Haies, bois caducifoliés médioeuropéens, planitiaires-collinéens, neutrophiles</Habitat>
+<Réserve_x0020__x0020__x0028_biblio_x0029_>1</Réserve_x0020__x0020__x0028_biblio_x0029_>
+<Parc_x0020_Zoologique_x0020_de_x0020_Lunaret_x0020__x0028_observation-_x0020_biblio_x0029_>1</Parc_x0020_Zoologique_x0020_de_x0020_Lunaret_x0020__x0028_observation-_x0020_biblio_x0029_>
+<Strate>Arbre</Strate>
+<Source>Inventaire floristique et statut juridique (M. Perret Vicent, M. Bertrand Michel 1999).</Source>
+</Inventaire_x0020_floristique_x0020_PZL>
+<Inventaire_x0020_floristique_x0020_PZL>
+<ID>4</ID>
+<Nom_x0020_Scientifique>Acer monspessulanum L</Nom_x0020_Scientifique>
+<Nom_x0020_Commun>Erable de Montpellier</Nom_x0020_Commun>
+<Famille>Aceraceae</Famille>
+<Formation_x0020_végétale>Magnophanérophytaie</Formation_x0020_végétale>
+<Statut_x0020_de_x0020_protection_x0020_inventaire_x0020__x0028_1999_x0029_>Aucune information disponible concernant le statut de protection</Statut_x0020_de_x0020_protection_x0020_inventaire_x0020__x0028_1999_x0029_>
+<Habitat>Bois caducifoliés médioeuropéens et basophiles</Habitat>
+<Réserve_x0020__x0020__x0028_biblio_x0029_>1</Réserve_x0020__x0020__x0028_biblio_x0029_>
+<Parc_x0020_Zoologique_x0020_de_x0020_Lunaret_x0020__x0028_observation-_x0020_biblio_x0029_>1</Parc_x0020_Zoologique_x0020_de_x0020_Lunaret_x0020__x0028_observation-_x0020_biblio_x0029_>
+<Strate>Arbre/Arbuste</Strate>
+<Source>Inventaire floristique et statut juridique (M. Perret Vicent, M. Bertrand Michel 1999); Observation sur le terrain, juin 2011.</Source>
+</Inventaire_x0020_floristique_x0020_PZL>
+<Inventaire_x0020_floristique_x0020_PZL>
+<ID>5</ID>
+<Nom_x0020_Scientifique>Adiantum capillus-veneris L.</Nom_x0020_Scientifique>
+<Nom_x0020_Commun>Capillaire de Montpellier, Cheveu-de-Vénus</Nom_x0020_Commun>
+<Famille>Adiantaceae</Famille>
+<Formation_x0020_végétale> Hémicryptophytaie</Formation_x0020_végétale>
+<Statut_x0020_de_x0020_Protection_x0020_Régional>Autres régions</Statut_x0020_de_x0020_Protection_x0020_Régional>
+<Statut_x0020_de_x0020_protection_x0020_inventaire_x0020__x0028_1999_x0029_>Aucune, Niveau régional: région Limousin 74; Pays de Loire 52; Bretagne 53; Franche- Compté 43</Statut_x0020_de_x0020_protection_x0020_inventaire_x0020__x0028_1999_x0029_>
+<Habitat>Parois ombragées humides et téthyennes</Habitat>
+<Réserve_x0020__x0020__x0028_biblio_x0029_>1</Réserve_x0020__x0020__x0028_biblio_x0029_>
+<Parc_x0020_Zoologique_x0020_de_x0020_Lunaret_x0020__x0028_observation-_x0020_biblio_x0029_>0</Parc_x0020_Zoologique_x0020_de_x0020_Lunaret_x0020__x0028_observation-_x0020_biblio_x0029_>
+<Strate>Herbacée</Strate>
+<Source>Inventaire floristique et statut juridique (M. Perret Vicent, M. Bertrand Michel 1999).</Source>
+</Inventaire_x0020_floristique_x0020_PZL>
+<Inventaire_x0020_floristique_x0020_PZL>
+<ID>6</ID>
+<Nom_x0020_Scientifique>Acer platanoides L.</Nom_x0020_Scientifique>
+<Nom_x0020_Commun>Érable plane</Nom_x0020_Commun>
+<Famille>Aceraceae</Famille>
+<Formation_x0020_végétale>Magnophanérophytaie</Formation_x0020_végétale>
+<Statut_x0020_de_x0020_protection_x0020_inventaire_x0020__x0028_1999_x0029_>Aucune information disponible concernant le statut de protection</Statut_x0020_de_x0020_protection_x0020_inventaire_x0020__x0028_1999_x0029_>
+<Habitat>Bois des montagnes</Habitat>
+<Réserve_x0020__x0020__x0028_biblio_x0029_>1</Réserve_x0020__x0020__x0028_biblio_x0029_>
+<Parc_x0020_Zoologique_x0020_de_x0020_Lunaret_x0020__x0028_observation-_x0020_biblio_x0029_>0</Parc_x0020_Zoologique_x0020_de_x0020_Lunaret_x0020__x0028_observation-_x0020_biblio_x0029_>
+<Strate>Arbre</Strate>
+<Source>Inventaire floristique et statut juridique (M. Perret Vicent, M. Bertrand Michel 1999).</Source>
+</Inventaire_x0020_floristique_x0020_PZL>
+<Inventaire_x0020_floristique_x0020_PZL>
+<ID>7</ID>
+<Nom_x0020_Scientifique>Aesculus hippocastanum L.</Nom_x0020_Scientifique>
+<Nom_x0020_Commun>Marronnier d&apos;Inde</Nom_x0020_Commun>
+<Famille>Hippocastanaceae</Famille>
+<Formation_x0020_végétale>Magnophanérophytaie</Formation_x0020_végétale>
+<Statut_x0020_de_x0020_protection_x0020_inventaire_x0020__x0028_1999_x0029_>Aucune information disponible concernant le statut de protection</Statut_x0020_de_x0020_protection_x0020_inventaire_x0020__x0028_1999_x0029_>
+<Habitat>Bois caducifoliés médioeuropéens</Habitat>
+<Réserve_x0020__x0020__x0028_biblio_x0029_>1</Réserve_x0020__x0020__x0028_biblio_x0029_>
+<Parc_x0020_Zoologique_x0020_de_x0020_Lunaret_x0020__x0028_observation-_x0020_biblio_x0029_>0</Parc_x0020_Zoologique_x0020_de_x0020_Lunaret_x0020__x0028_observation-_x0020_biblio_x0029_>
+<Strate>Arbre</Strate>
+<Source>Inventaire floristique et statut juridique (M. Perret Vicent, M. Bertrand Michel 1999).</Source>
+</Inventaire_x0020_floristique_x0020_PZL>
+<Inventaire_x0020_floristique_x0020_PZL>
+<ID>8</ID>
+<Nom_x0020_Scientifique>Anacamptis pyramidalis (L.) Rich.</Nom_x0020_Scientifique>
+<Nom_x0020_Commun>Anacamptis en pyramide,  Orchis pyramidal</Nom_x0020_Commun>
+<Famille>Orchidaceae</Famille>
+<Formation_x0020_végétale>Hémicryptophytaie</Formation_x0020_végétale>
+<Statut_x0020_de_x0020_protection_x0020_inventaire_x0020__x0028_1999_x0029_>Aucune information disponible concernant le statut de protection</Statut_x0020_de_x0020_protection_x0020_inventaire_x0020__x0028_1999_x0029_>
+<Habitat>Pelouses basophiles médioeuropéennes
+occidentales et mésohydriques</Habitat>
+<Réserve_x0020__x0020__x0028_biblio_x0029_>1</Réserve_x0020__x0020__x0028_biblio_x0029_>
+<Parc_x0020_Zoologique_x0020_de_x0020_Lunaret_x0020__x0028_observation-_x0020_biblio_x0029_>1</Parc_x0020_Zoologique_x0020_de_x0020_Lunaret_x0020__x0028_observation-_x0020_biblio_x0029_>
+<Strate>Herbacée</Strate>
+<Source>Inventaire floristique et statut juridique (M. Perret Vicent, M. Bertrand Michel 1999).</Source>
+</Inventaire_x0020_floristique_x0020_PZL>
+<Inventaire_x0020_floristique_x0020_PZL>
+<ID>9</ID>
+<Nom_x0020_Scientifique>Alnus glutinosa (L.)</Nom_x0020_Scientifique>
+<Nom_x0020_Commun>Aulne glutineux, Aulne noir, Aulne poisseux,</Nom_x0020_Commun>
+<Famille>Betulaceae</Famille>
+<Formation_x0020_végétale>Magnophanérophytaie</Formation_x0020_végétale>
+<Statut_x0020_de_x0020_protection_x0020_inventaire_x0020__x0028_1999_x0029_>Aucune information disponible concernant le statut de protection</Statut_x0020_de_x0020_protection_x0020_inventaire_x0020__x0028_1999_x0029_>
+<Habitat>Bois caducifoliés médioeuropéens, et hydrophiles</Habitat>
+<Réserve_x0020__x0020__x0028_biblio_x0029_>1</Réserve_x0020__x0020__x0028_biblio_x0029_>
+<Parc_x0020_Zoologique_x0020_de_x0020_Lunaret_x0020__x0028_observation-_x0020_biblio_x0029_>0</Parc_x0020_Zoologique_x0020_de_x0020_Lunaret_x0020__x0028_observation-_x0020_biblio_x0029_>
+<Strate>Arbre</Strate>
+<Source>Inventaire floristique et statut juridique (M. Perret Vicent, M. Bertrand Michel 1999); Observation sur le terrain, juin 2011.</Source>
+</Inventaire_x0020_floristique_x0020_PZL>
+<Inventaire_x0020_floristique_x0020_PZL>
+<ID>10</ID>
+<Nom_x0020_Scientifique>Anchusa italica Retz.</Nom_x0020_Scientifique>
+<Nom_x0020_Commun> Bourrache bâtarde, Buglosse d&apos;Italie, Fausse bourrache.</Nom_x0020_Commun>
+<Famille>Boraginaceae</Famille>
+<Formation_x0020_végétale>Hémicryptophytaie</Formation_x0020_végétale>
+<Statut_x0020_de_x0020_protection_x0020_inventaire_x0020__x0028_1999_x0029_>Aucune information disponible concernant le statut de protection</Statut_x0020_de_x0020_protection_x0020_inventaire_x0020__x0028_1999_x0029_>
+<Habitat>Friches vivaces xérophiles  méditerranéennes.</Habitat>
+<Réserve_x0020__x0020__x0028_biblio_x0029_>1</Réserve_x0020__x0020__x0028_biblio_x0029_>
+<Parc_x0020_Zoologique_x0020_de_x0020_Lunaret_x0020__x0028_observation-_x0020_biblio_x0029_>0</Parc_x0020_Zoologique_x0020_de_x0020_Lunaret_x0020__x0028_observation-_x0020_biblio_x0029_>
+<Strate>Herbacée</Strate>
+<Source>Inventaire floristique et statut juridique (M. Perret Vicent, M. Bertrand Michel 1999).</Source>
+</Inventaire_x0020_floristique_x0020_PZL>
+<Inventaire_x0020_floristique_x0020_PZL>
+<ID>11</ID>
+<Nom_x0020_Scientifique>Aphyllanthes monspeliensis L.</Nom_x0020_Scientifique>
+<Nom_x0020_Commun>Aphyllanthe de Montpellier,Œillet bleu de Montpellier</Nom_x0020_Commun>
+<Famille>Aphyllanthaceae</Famille>
+<Formation_x0020_végétale>Hémicryptophytaie</Formation_x0020_végétale>
+<Statut_x0020_de_x0020_protection_x0020_inventaire_x0020__x0028_1999_x0029_>Aucune information disponible concernant le statut de protection</Statut_x0020_de_x0020_protection_x0020_inventaire_x0020__x0028_1999_x0029_>
+<Habitat>Pelouses basophiles sub/supraméditerranéennes, marnicoles, mésohygrophile</Habitat>
+<Réserve_x0020__x0020__x0028_biblio_x0029_>1</Réserve_x0020__x0020__x0028_biblio_x0029_>
+<Parc_x0020_Zoologique_x0020_de_x0020_Lunaret_x0020__x0028_observation-_x0020_biblio_x0029_>1</Parc_x0020_Zoologique_x0020_de_x0020_Lunaret_x0020__x0028_observation-_x0020_biblio_x0029_>
+<Strate>Herbacée</Strate>
+<Source>Inventaire floristique et statut juridique (M. Perret Vicent, M. Bertrand Michel 1999).</Source>
+</Inventaire_x0020_floristique_x0020_PZL>
+<Inventaire_x0020_floristique_x0020_PZL>
+<ID>12</ID>
+<Nom_x0020_Scientifique>Aponogeton distachyos L.f.</Nom_x0020_Scientifique>
+<Nom_x0020_Commun>Aponogéton odorant</Nom_x0020_Commun>
+<Famille>Aponogetonaceae</Famille>
+<Formation_x0020_végétale>Hémicryptophytaie</Formation_x0020_végétale>
+<Statut_x0020_de_x0020_Protection_x0020_Régional>Rare selon VP</Statut_x0020_de_x0020_Protection_x0020_Régional>
+<Statut_x0020_de_x0020_protection_x0020_inventaire_x0020__x0028_1999_x0029_>Rare</Statut_x0020_de_x0020_protection_x0020_inventaire_x0020__x0028_1999_x0029_>
+<Habitat>Herbiers vivaces enracinés dulcaquicoles européens, des eaux profondes, eutrophiles à oligotrophiles, planitiaire à collinée.</Habitat>
+<Réserve_x0020__x0020__x0028_biblio_x0029_>1</Réserve_x0020__x0020__x0028_biblio_x0029_>
+<Parc_x0020_Zoologique_x0020_de_x0020_Lunaret_x0020__x0028_observation-_x0020_biblio_x0029_>0</Parc_x0020_Zoologique_x0020_de_x0020_Lunaret_x0020__x0028_observation-_x0020_biblio_x0029_>
+<Strate>Herbacée</Strate>
+<Source>Inventaire floristique et statut juridique (M. Perret Vicent, M. Bertrand Michel 1999).</Source>
+</Inventaire_x0020_floristique_x0020_PZL>
+<Inventaire_x0020_floristique_x0020_PZL>
+<ID>13</ID>
+<Nom_x0020_Scientifique>Arbutus unedo L.</Nom_x0020_Scientifique>
+<Nom_x0020_Commun>Arbousier, Arbousier commun, Arbre aux fraises</Nom_x0020_Commun>
+<Famille>Ericacea</Famille>
+<Formation_x0020_végétale>Parvophanérophytaie</Formation_x0020_végétale>
+<Statut_x0020_de_x0020_Protection_x0020_Régional>Autres régions</Statut_x0020_de_x0020_Protection_x0020_Régional>
+<Statut_x0020_de_x0020_protection_x0020_inventaire_x0020__x0028_1999_x0029_>Au niveau régional (région Bretagne 53)</Statut_x0020_de_x0020_protection_x0020_inventaire_x0020__x0028_1999_x0029_>
+<Habitat>Bois et rochers, matorrals méditerranéens</Habitat>
+<Réserve_x0020__x0020__x0028_biblio_x0029_>1</Réserve_x0020__x0020__x0028_biblio_x0029_>
+<Parc_x0020_Zoologique_x0020_de_x0020_Lunaret_x0020__x0028_observation-_x0020_biblio_x0029_>1</Parc_x0020_Zoologique_x0020_de_x0020_Lunaret_x0020__x0028_observation-_x0020_biblio_x0029_>
+<Strate>Arbuste</Strate>
+<Source>Inventaire floristique et statut juridique (M. Perret Vicent, M. Bertrand Michel 1999).</Source>
+</Inventaire_x0020_floristique_x0020_PZL>
+<Inventaire_x0020_floristique_x0020_PZL>
+<ID>14</ID>
+<Nom_x0020_Scientifique>Arum italicum Mill.</Nom_x0020_Scientifique>
+<Nom_x0020_Commun>Arum d&apos;Italie, Gouet d&apos;Italie, Pied-de-veau</Nom_x0020_Commun>
+<Famille>Araceae</Famille>
+<Formation_x0020_végétale>Hémicryptophytaie</Formation_x0020_végétale>
+<Statut_x0020_de_x0020_protection_x0020_inventaire_x0020__x0028_1999_x0029_>Aucune information disponible concernant le statut de protection</Statut_x0020_de_x0020_protection_x0020_inventaire_x0020__x0028_1999_x0029_>
+<Habitat>Haies et coteaux, sous-bois herbacés médioeuropéens, basophiles</Habitat>
+<Réserve_x0020__x0020__x0028_biblio_x0029_>1</Réserve_x0020__x0020__x0028_biblio_x0029_>
+<Parc_x0020_Zoologique_x0020_de_x0020_Lunaret_x0020__x0028_observation-_x0020_biblio_x0029_>1</Parc_x0020_Zoologique_x0020_de_x0020_Lunaret_x0020__x0028_observation-_x0020_biblio_x0029_>
+<Strate>Herbacée</Strate>
+<Source>Inventaire floristique et statut juridique (M. Perret Vicent, M. Bertrand Michel 1999).</Source>
+</Inventaire_x0020_floristique_x0020_PZL>
+<Inventaire_x0020_floristique_x0020_PZL>
+<ID>15</ID>
+<Nom_x0020_Scientifique>Arundo donax L.</Nom_x0020_Scientifique>
+<Nom_x0020_Commun>Canne de Provence, Roseau à quenouilles.</Nom_x0020_Commun>
+<Famille>Poaceae</Famille>
+<Formation_x0020_végétale>Hémicryptophytaie</Formation_x0020_végétale>
+<Statut_x0020_de_x0020_protection_x0020_inventaire_x0020__x0028_1999_x0029_>Aucune information disponible concernant le statut de protection</Statut_x0020_de_x0020_protection_x0020_inventaire_x0020__x0028_1999_x0029_>
+<Habitat>Roselières méditerranéennes.</Habitat>
+<Réserve_x0020__x0020__x0028_biblio_x0029_>1</Réserve_x0020__x0020__x0028_biblio_x0029_>
+<Parc_x0020_Zoologique_x0020_de_x0020_Lunaret_x0020__x0028_observation-_x0020_biblio_x0029_>1</Parc_x0020_Zoologique_x0020_de_x0020_Lunaret_x0020__x0028_observation-_x0020_biblio_x0029_>
+<Strate>Herbacée</Strate>
+<Source>Inventaire floristique et statut juridique (M. Perret Vicent, M. Bertrand Michel 1999).</Source>
+</Inventaire_x0020_floristique_x0020_PZL>
+<Inventaire_x0020_floristique_x0020_PZL>
+<ID>16</ID>
+<Nom_x0020_Scientifique>Arum maculatum L.</Nom_x0020_Scientifique>
+<Nom_x0020_Commun>Arum tacheté, Chandelle, Gouet tacheté, Pied de Veau.</Nom_x0020_Commun>
+<Famille>Araceae</Famille>
+<Formation_x0020_végétale>Hémicryptophytaie</Formation_x0020_végétale>
+<Statut_x0020_de_x0020_protection_x0020_inventaire_x0020__x0028_1999_x0029_>Aucune information disponible concernant le statut de protection</Statut_x0020_de_x0020_protection_x0020_inventaire_x0020__x0028_1999_x0029_>
+<Habitat>Haies et bois, sous-bois herbacés médioeuropéens et basophiles</Habitat>
+<Réserve_x0020__x0020__x0028_biblio_x0029_>1</Réserve_x0020__x0020__x0028_biblio_x0029_>
+<Parc_x0020_Zoologique_x0020_de_x0020_Lunaret_x0020__x0028_observation-_x0020_biblio_x0029_>0</Parc_x0020_Zoologique_x0020_de_x0020_Lunaret_x0020__x0028_observation-_x0020_biblio_x0029_>
+<Strate>Herbacée</Strate>
+<Source>Inventaire floristique et statut juridique (M. Perret Vicent, M. Bertrand Michel 1999).</Source>
+</Inventaire_x0020_floristique_x0020_PZL>
+<Inventaire_x0020_floristique_x0020_PZL>
+<ID>17</ID>
+<Nom_x0020_Scientifique>Asparagus acutifolius L.</Nom_x0020_Scientifique>
+<Nom_x0020_Commun>Asperge sauvage, Asperge à feuilles aiguës</Nom_x0020_Commun>
+<Famille>Asparagaceae</Famille>
+<Formation_x0020_végétale>Chaméphytaie</Formation_x0020_végétale>
+<Statut_x0020_de_x0020_protection_x0020_inventaire_x0020__x0028_1999_x0029_>Aucune information disponible concernant le statut de protection</Statut_x0020_de_x0020_protection_x0020_inventaire_x0020__x0028_1999_x0029_>
+<Habitat>Garrigues mésoméditerranéennes occidentales</Habitat>
+<Réserve_x0020__x0020__x0028_biblio_x0029_>1</Réserve_x0020__x0020__x0028_biblio_x0029_>
+<Parc_x0020_Zoologique_x0020_de_x0020_Lunaret_x0020__x0028_observation-_x0020_biblio_x0029_>1</Parc_x0020_Zoologique_x0020_de_x0020_Lunaret_x0020__x0028_observation-_x0020_biblio_x0029_>
+<Strate>Arbuste</Strate>
+<Source>Inventaire floristique et statut juridique (M. Perret Vicent, M. Bertrand Michel 1999).</Source>
+</Inventaire_x0020_floristique_x0020_PZL>
+<Inventaire_x0020_floristique_x0020_PZL>
+<ID>18</ID>
+<Nom_x0020_Scientifique>Astragalus monspessulanus L.</Nom_x0020_Scientifique>
+<Nom_x0020_Commun>Astragale de Montpellier</Nom_x0020_Commun>
+<Famille>Fabaceae</Famille>
+<Formation_x0020_végétale>Hémicryptophytaie</Formation_x0020_végétale>
+<Statut_x0020_de_x0020_protection_x0020_inventaire_x0020__x0028_1999_x0029_>Aucune information disponible concernant le statut de protection</Statut_x0020_de_x0020_protection_x0020_inventaire_x0020__x0028_1999_x0029_>
+<Habitat>Coteaux calcaires, pelouses basophiles sub/supra à oroméditerranéennes</Habitat>
+<Réserve_x0020__x0020__x0028_biblio_x0029_>1</Réserve_x0020__x0020__x0028_biblio_x0029_>
+<Parc_x0020_Zoologique_x0020_de_x0020_Lunaret_x0020__x0028_observation-_x0020_biblio_x0029_>0</Parc_x0020_Zoologique_x0020_de_x0020_Lunaret_x0020__x0028_observation-_x0020_biblio_x0029_>
+<Strate>Herbacée</Strate>
+<Source>Inventaire floristique et statut juridique (M. Perret Vicent, M. Bertrand Michel 1999).</Source>
+</Inventaire_x0020_floristique_x0020_PZL>
+<Inventaire_x0020_floristique_x0020_PZL>
+<ID>19</ID>
+<Nom_x0020_Scientifique>Himantoglossum robertianum</Nom_x0020_Scientifique>
+<Nom_x0020_Commun>Orchis géant, Orchis à longues bractées.</Nom_x0020_Commun>
+<Famille>Orchidaceae</Famille>
+<Formation_x0020_végétale>Hémicryptophytaie</Formation_x0020_végétale>
+<Statut_x0020_de_x0020_protection_x0020_inventaire_x0020__x0028_1999_x0029_>LRII: II. Taxons présents sur le livre rouge national (synthèse restreinte) spp à surveiller.</Statut_x0020_de_x0020_protection_x0020_inventaire_x0020__x0028_1999_x0029_>
+<Habitat>Lieux herbeux ou boisés du littoral méditerranéen, pelouses basophiles
+ et mésohygrophiles.</Habitat>
+<Réserve_x0020__x0020__x0028_biblio_x0029_>1</Réserve_x0020__x0020__x0028_biblio_x0029_>
+<Parc_x0020_Zoologique_x0020_de_x0020_Lunaret_x0020__x0028_observation-_x0020_biblio_x0029_>0</Parc_x0020_Zoologique_x0020_de_x0020_Lunaret_x0020__x0028_observation-_x0020_biblio_x0029_>
+<Strate>Herbacée</Strate>
+<Source>Inventaire floristique et statut juridique (M. Perret Vicent, M. Bertrand Michel 1999).</Source>
+</Inventaire_x0020_floristique_x0020_PZL>
+<Inventaire_x0020_floristique_x0020_PZL>
+<ID>20</ID>
+<Nom_x0020_Scientifique>Dorycnium hirsutum</Nom_x0020_Scientifique>
+<Nom_x0020_Commun>Bonjeanie hirsute</Nom_x0020_Commun>
+<Famille>Fabaceae</Famille>
+<Formation_x0020_végétale>Chaméphytaie</Formation_x0020_végétale>
+<Statut_x0020_de_x0020_protection_x0020_inventaire_x0020__x0028_1999_x0029_>Aucune information disponible concernant le statut de protection</Statut_x0020_de_x0020_protection_x0020_inventaire_x0020__x0028_1999_x0029_>
+<Habitat>Garrigues méditerranéennes occidentales</Habitat>
+<Réserve_x0020__x0020__x0028_biblio_x0029_>1</Réserve_x0020__x0020__x0028_biblio_x0029_>
+<Parc_x0020_Zoologique_x0020_de_x0020_Lunaret_x0020__x0028_observation-_x0020_biblio_x0029_>0</Parc_x0020_Zoologique_x0020_de_x0020_Lunaret_x0020__x0028_observation-_x0020_biblio_x0029_>
+<Strate>Arbuste (sous-arbrisseau)</Strate>
+<Source>Inventaire floristique et statut juridique (M. Perret Vicent, M. Bertrand Michel 1999).</Source>
+</Inventaire_x0020_floristique_x0020_PZL>
+<Inventaire_x0020_floristique_x0020_PZL>
+<ID>21</ID>
+<Nom_x0020_Scientifique>Bupleurum fruticosum L.</Nom_x0020_Scientifique>
+<Nom_x0020_Commun>Buplèvre en arbre, Buplèvre en buisson</Nom_x0020_Commun>
+<Famille>Apiaceae</Famille>
+<Formation_x0020_végétale>Parvophanérophytaie</Formation_x0020_végétale>
+<Statut_x0020_de_x0020_protection_x0020_inventaire_x0020__x0028_1999_x0029_>Aucune information disponible concernant le statut de protection</Statut_x0020_de_x0020_protection_x0020_inventaire_x0020__x0028_1999_x0029_>
+<Habitat>Garrigues, matorrals mésoméditerranéens, héliophiles et acidoclines.</Habitat>
+<Réserve_x0020__x0020__x0028_biblio_x0029_>1</Réserve_x0020__x0020__x0028_biblio_x0029_>
+<Parc_x0020_Zoologique_x0020_de_x0020_Lunaret_x0020__x0028_observation-_x0020_biblio_x0029_>1</Parc_x0020_Zoologique_x0020_de_x0020_Lunaret_x0020__x0028_observation-_x0020_biblio_x0029_>
+<Strate>Arbuste</Strate>
+<Source>Inventaire floristique et statut juridique (M. Perret Vicent, M. Bertrand Michel 1999).</Source>
+</Inventaire_x0020_floristique_x0020_PZL>
+<Inventaire_x0020_floristique_x0020_PZL>
+<ID>22</ID>
+<Nom_x0020_Scientifique>Buxus sempervirens L.</Nom_x0020_Scientifique>
+<Nom_x0020_Commun>Bois béni, Bois d&apos;Artois,  Buis commun</Nom_x0020_Commun>
+<Famille>Buxaceae</Famille>
+<Formation_x0020_végétale>Parvophanérophytaie</Formation_x0020_végétale>
+<Statut_x0020_de_x0020_Protection_x0020_Régional>Autres régions</Statut_x0020_de_x0020_Protection_x0020_Régional>
+<Statut_x0020_de_x0020_protection_x0020_inventaire_x0020__x0028_1999_x0029_>N76: arrêtés protégeants les spp citées en vertu de la loi de 1976;</Statut_x0020_de_x0020_protection_x0020_inventaire_x0020__x0028_1999_x0029_>
+<Habitat>Fourrés arbustifs médioeuropéens, montagnards, mésotrophiles, basophiles, xérophiles</Habitat>
+<Réserve_x0020__x0020__x0028_biblio_x0029_>1</Réserve_x0020__x0020__x0028_biblio_x0029_>
+<Parc_x0020_Zoologique_x0020_de_x0020_Lunaret_x0020__x0028_observation-_x0020_biblio_x0029_>1</Parc_x0020_Zoologique_x0020_de_x0020_Lunaret_x0020__x0028_observation-_x0020_biblio_x0029_>
+<Statut_x0020_ZNIEFF_x0020_à_x0020_l_x0027_échelle_x0020_régionale>Au niveau régional, Lorraine 41;</Statut_x0020_ZNIEFF_x0020_à_x0020_l_x0027_échelle_x0020_régionale>
+<Strate>Arbuste</Strate>
+<Source>Inventaire floristique et statut juridique (M. Perret Vicent, M. Bertrand Michel 1999).</Source>
+</Inventaire_x0020_floristique_x0020_PZL>
+<Inventaire_x0020_floristique_x0020_PZL>
+<ID>23</ID>
+<Nom_x0020_Scientifique>Calamintha nepeta (L.) Savi</Nom_x0020_Scientifique>
+<Nom_x0020_Commun>Baume sauvage, Calament de montagne, Calament glanduleux.</Nom_x0020_Commun>
+<Famille>Lamiaceae</Famille>
+<Formation_x0020_végétale>Hémicryptophytaie</Formation_x0020_végétale>
+<Statut_x0020_de_x0020_protection_x0020_inventaire_x0020__x0028_1999_x0029_>Aucune information disponible concernant le statut de protection</Statut_x0020_de_x0020_protection_x0020_inventaire_x0020__x0028_1999_x0029_>
+<Habitat>Lieux secs et pierreux, éboulis fins médioeuropéens,basophiles,montagnards</Habitat>
+<Réserve_x0020__x0020__x0028_biblio_x0029_>1</Réserve_x0020__x0020__x0028_biblio_x0029_>
+<Parc_x0020_Zoologique_x0020_de_x0020_Lunaret_x0020__x0028_observation-_x0020_biblio_x0029_>0</Parc_x0020_Zoologique_x0020_de_x0020_Lunaret_x0020__x0028_observation-_x0020_biblio_x0029_>
+<Strate>Herbacée</Strate>
+<Source>Inventaire floristique et statut juridique (M. Perret Vicent, M. Bertrand Michel 1999).</Source>
+</Inventaire_x0020_floristique_x0020_PZL>
+<Inventaire_x0020_floristique_x0020_PZL>
+<ID>24</ID>
+<Nom_x0020_Scientifique>Celtis australis L.</Nom_x0020_Scientifique>
+<Nom_x0020_Commun>Falabreguier, Micocoulier austral, Micocoulier de Provence</Nom_x0020_Commun>
+<Famille>Ulmaceae</Famille>
+<Formation_x0020_végétale>Magnophanérophytaie</Formation_x0020_végétale>
+<Statut_x0020_de_x0020_protection_x0020_inventaire_x0020__x0028_1999_x0029_>Aucune information disponible concernant le statut de protection</Statut_x0020_de_x0020_protection_x0020_inventaire_x0020__x0028_1999_x0029_>
+<Habitat>Haies et coteaux, bois caducifoliés médioeuropéens, basophiles, occidentaux.</Habitat>
+<Réserve_x0020__x0020__x0028_biblio_x0029_>1</Réserve_x0020__x0020__x0028_biblio_x0029_>
+<Parc_x0020_Zoologique_x0020_de_x0020_Lunaret_x0020__x0028_observation-_x0020_biblio_x0029_>1</Parc_x0020_Zoologique_x0020_de_x0020_Lunaret_x0020__x0028_observation-_x0020_biblio_x0029_>
+<Strate>Arbre</Strate>
+<Source>Observation par Vincent Perret (juin 2011); Observation sur le terrain, juin 2011.</Source>
+</Inventaire_x0020_floristique_x0020_PZL>
+<Inventaire_x0020_floristique_x0020_PZL>
+<ID>25</ID>
+<Nom_x0020_Scientifique>Ceratophyllum demersum L.</Nom_x0020_Scientifique>
+<Nom_x0020_Commun>Cornifle immergé, Cornifle nageant, Cératophylle immergé</Nom_x0020_Commun>
+<Famille>Ceratophyllaceae</Famille>
+<Formation_x0020_végétale>Hémicryptophytaie</Formation_x0020_végétale>
+<Statut_x0020_de_x0020_protection_x0020_inventaire_x0020__x0028_1999_x0029_>Aucune information disponible concernant le statut de protection</Statut_x0020_de_x0020_protection_x0020_inventaire_x0020__x0028_1999_x0029_>
+<Habitat>Marais, fossés, ruisseaux, herbiers vivaces enracinés dulcaquicoles</Habitat>
+<Réserve_x0020__x0020__x0028_biblio_x0029_>1</Réserve_x0020__x0020__x0028_biblio_x0029_>
+<Parc_x0020_Zoologique_x0020_de_x0020_Lunaret_x0020__x0028_observation-_x0020_biblio_x0029_>0</Parc_x0020_Zoologique_x0020_de_x0020_Lunaret_x0020__x0028_observation-_x0020_biblio_x0029_>
+<Strate>Herbacée</Strate>
+<Source>Inventaire floristique et statut juridique (M. Perret Vicent, M. Bertrand Michel 1999).</Source>
+</Inventaire_x0020_floristique_x0020_PZL>
+<Inventaire_x0020_floristique_x0020_PZL>
+<ID>26</ID>
+<Nom_x0020_Scientifique>Centaurea cyanus L.</Nom_x0020_Scientifique>
+<Nom_x0020_Commun>Centaurea, Audifoin, Barbeau, Blavelle, Bleuet</Nom_x0020_Commun>
+<Famille>Asteraceae</Famille>
+<Formation_x0020_végétale>Thérophytaie</Formation_x0020_végétale>
+<Statut_x0020_de_x0020_protection_x0020_inventaire_x0020__x0028_1999_x0029_>Aucune information disponible concernant le statut de protection</Statut_x0020_de_x0020_protection_x0020_inventaire_x0020__x0028_1999_x0029_>
+<Habitat>Annuelles commensales des cultures
+acidophiles, mésohydriques, mésothermes</Habitat>
+<Réserve_x0020__x0020__x0028_biblio_x0029_>1</Réserve_x0020__x0020__x0028_biblio_x0029_>
+<Parc_x0020_Zoologique_x0020_de_x0020_Lunaret_x0020__x0028_observation-_x0020_biblio_x0029_>0</Parc_x0020_Zoologique_x0020_de_x0020_Lunaret_x0020__x0028_observation-_x0020_biblio_x0029_>
+<Strate>Herbacée</Strate>
+<Source>Inventaire floristique et statut juridique (M. Perret Vicent, M. Bertrand Michel 1999).</Source>
+</Inventaire_x0020_floristique_x0020_PZL>
+<Inventaire_x0020_floristique_x0020_PZL>
+<ID>27</ID>
+<Nom_x0020_Scientifique>Cercis siliquastrum L.</Nom_x0020_Scientifique>
+<Nom_x0020_Commun>Arbre de Judée, Gainier, Gainier commun</Nom_x0020_Commun>
+<Famille>Fabaceae</Famille>
+<Formation_x0020_végétale>Magnophanérophytaie</Formation_x0020_végétale>
+<Statut_x0020_de_x0020_protection_x0020_inventaire_x0020__x0028_1999_x0029_>Aucune information disponible concernant le statut de protection.</Statut_x0020_de_x0020_protection_x0020_inventaire_x0020__x0028_1999_x0029_>
+<Habitat>Coteaux secs et boisés, matorrals méditerranéens</Habitat>
+<Réserve_x0020__x0020__x0028_biblio_x0029_>1</Réserve_x0020__x0020__x0028_biblio_x0029_>
+<Parc_x0020_Zoologique_x0020_de_x0020_Lunaret_x0020__x0028_observation-_x0020_biblio_x0029_>1</Parc_x0020_Zoologique_x0020_de_x0020_Lunaret_x0020__x0028_observation-_x0020_biblio_x0029_>
+<Strate>Abre</Strate>
+<Source>Inventaire floristique et statut juridique (M. Perret Vicent, M. Bertrand Michel 1999); Observation sur le terrain, juin 2011.</Source>
+</Inventaire_x0020_floristique_x0020_PZL>
+<Inventaire_x0020_floristique_x0020_PZL>
+<ID>28</ID>
+<Nom_x0020_Scientifique>Ceterach officinarum Willd.</Nom_x0020_Scientifique>
+<Nom_x0020_Commun>Cétérac, Cétérach officinal, Doradille</Nom_x0020_Commun>
+<Famille>Aspleniaceae</Famille>
+<Formation_x0020_végétale>Hémicryptophytaie</Formation_x0020_végétale>
+<Statut_x0020_de_x0020_protection_x0020_inventaire_x0020__x0028_1999_x0029_>Aucune information disponible concernant le statut de protection.</Statut_x0020_de_x0020_protection_x0020_inventaire_x0020__x0028_1999_x0029_>
+<Habitat>Rochers et les vieux murs secs et calcaires</Habitat>
+<Réserve_x0020__x0020__x0028_biblio_x0029_>1</Réserve_x0020__x0020__x0028_biblio_x0029_>
+<Parc_x0020_Zoologique_x0020_de_x0020_Lunaret_x0020__x0028_observation-_x0020_biblio_x0029_>0</Parc_x0020_Zoologique_x0020_de_x0020_Lunaret_x0020__x0028_observation-_x0020_biblio_x0029_>
+<Strate>Herbacée</Strate>
+<Source>Inventaire floristique et statut juridique (M. Perret Vicent, M. Bertrand Michel 1999).</Source>
+</Inventaire_x0020_floristique_x0020_PZL>
+<Inventaire_x0020_floristique_x0020_PZL>
+<ID>29</ID>
+<Nom_x0020_Scientifique>Cistus albidus L.</Nom_x0020_Scientifique>
+<Nom_x0020_Commun>Arbre de Judée, Gainier, Gainier commun, Génisté.</Nom_x0020_Commun>
+<Famille>Cistaceae</Famille>
+<Statut_x0020_de_x0020_protection_x0020_inventaire_x0020__x0028_1999_x0029_>Aucune information disponible concernant le statut de protection.</Statut_x0020_de_x0020_protection_x0020_inventaire_x0020__x0028_1999_x0029_>
+<Habitat>Coteaux secs et boisés.</Habitat>
+<Réserve_x0020__x0020__x0028_biblio_x0029_>1</Réserve_x0020__x0020__x0028_biblio_x0029_>
+<Parc_x0020_Zoologique_x0020_de_x0020_Lunaret_x0020__x0028_observation-_x0020_biblio_x0029_>1</Parc_x0020_Zoologique_x0020_de_x0020_Lunaret_x0020__x0028_observation-_x0020_biblio_x0029_>
+<Strate>Arbre</Strate>
+<Source>Inventaire floristique et statut juridique (M. Perret Vicent, M. Bertrand Michel 1999).</Source>
+</Inventaire_x0020_floristique_x0020_PZL>
+<Inventaire_x0020_floristique_x0020_PZL>
+<ID>30</ID>
+<Nom_x0020_Scientifique>Cistus monspeliensis L.</Nom_x0020_Scientifique>
+<Nom_x0020_Commun>Ciste de Montpellier</Nom_x0020_Commun>
+<Famille>Cistaceae</Famille>
+<Formation_x0020_végétale>Chaméphytaie</Formation_x0020_végétale>
+<Statut_x0020_de_x0020_protection_x0020_inventaire_x0020__x0028_1999_x0029_>Aucune information disponible concernant le statut de protection</Statut_x0020_de_x0020_protection_x0020_inventaire_x0020__x0028_1999_x0029_>
+<Habitat>Garrigues et coteaux secs, landes mésoméditerranéennes occidentales.</Habitat>
+<Réserve_x0020__x0020__x0028_biblio_x0029_>1</Réserve_x0020__x0020__x0028_biblio_x0029_>
+<Parc_x0020_Zoologique_x0020_de_x0020_Lunaret_x0020__x0028_observation-_x0020_biblio_x0029_>1</Parc_x0020_Zoologique_x0020_de_x0020_Lunaret_x0020__x0028_observation-_x0020_biblio_x0029_>
+<Strate>Arbuste</Strate>
+<Source>Inventaire floristique et statut juridique (M. Perret Vicent, M. Bertrand Michel 1999); Observation sur le terrain, juin 2011.</Source>
+</Inventaire_x0020_floristique_x0020_PZL>
+<Inventaire_x0020_floristique_x0020_PZL>
+<ID>31</ID>
+<Nom_x0020_Scientifique>Cladium mariscus (L.) Pohl</Nom_x0020_Scientifique>
+<Nom_x0020_Commun>Cladium des marais, Marisque</Nom_x0020_Commun>
+<Famille>Cyperaceae</Famille>
+<Formation_x0020_végétale>Hémicryptophytaie</Formation_x0020_végétale>
+<Statut_x0020_de_x0020_Protection_x0020_Régional>Autres régions. Rare selon VP</Statut_x0020_de_x0020_Protection_x0020_Régional>
+<Statut_x0020_de_x0020_protection_x0020_inventaire_x0020__x0028_1999_x0029_>Rare, Au niveau départemental (Ardennes 08); Au niveau régional (région Alsace; Champagne Ardenne; Lorraine)</Statut_x0020_de_x0020_protection_x0020_inventaire_x0020__x0028_1999_x0029_>
+<Habitat>Marais, grandes cariçaies tourbeuse.</Habitat>
+<Réserve_x0020__x0020__x0028_biblio_x0029_>1</Réserve_x0020__x0020__x0028_biblio_x0029_>
+<Parc_x0020_Zoologique_x0020_de_x0020_Lunaret_x0020__x0028_observation-_x0020_biblio_x0029_>0</Parc_x0020_Zoologique_x0020_de_x0020_Lunaret_x0020__x0028_observation-_x0020_biblio_x0029_>
+<Statut_x0020_ZNIEFF_x0020_à_x0020_l_x0027_échelle_x0020_régionale>Autres régions.</Statut_x0020_ZNIEFF_x0020_à_x0020_l_x0027_échelle_x0020_régionale>
+<Strate>Herbacée</Strate>
+<Source>Inventaire floristique et statut juridique (M. Perret Vicent, M. Bertrand Michel 1999).</Source>
+</Inventaire_x0020_floristique_x0020_PZL>
+<Inventaire_x0020_floristique_x0020_PZL>
+<ID>32</ID>
+<Nom_x0020_Scientifique>Clematis flammula L.</Nom_x0020_Scientifique>
+<Nom_x0020_Commun>Clématite brûlante, Clématite flamme,  Clématite odorante.</Nom_x0020_Commun>
+<Famille>Ranunculaceae</Famille>
+<Formation_x0020_végétale>Parvophanérophytaie</Formation_x0020_végétale>
+<Statut_x0020_de_x0020_Protection_x0020_Régional>Autres régions</Statut_x0020_de_x0020_Protection_x0020_Régional>
+<Statut_x0020_de_x0020_protection_x0020_inventaire_x0020__x0028_1999_x0029_>Protection française niveau régional (région Basse- Normandie)</Statut_x0020_de_x0020_protection_x0020_inventaire_x0020__x0028_1999_x0029_>
+<Habitat>Lieux incultes de la région méditerranéenne.</Habitat>
+<Réserve_x0020__x0020__x0028_biblio_x0029_>1</Réserve_x0020__x0020__x0028_biblio_x0029_>
+<Parc_x0020_Zoologique_x0020_de_x0020_Lunaret_x0020__x0028_observation-_x0020_biblio_x0029_>1</Parc_x0020_Zoologique_x0020_de_x0020_Lunaret_x0020__x0028_observation-_x0020_biblio_x0029_>
+<Strate>Liane</Strate>
+<Source>Inventaire floristique et statut juridique (M. Perret Vicent, M. Bertrand Michel 1999).</Source>
+</Inventaire_x0020_floristique_x0020_PZL>
+<Inventaire_x0020_floristique_x0020_PZL>
+<ID>33</ID>
+<Nom_x0020_Scientifique>Clematis vitalba L.</Nom_x0020_Scientifique>
+<Nom_x0020_Commun>Clématite des haies, Clématite vigne-blanche</Nom_x0020_Commun>
+<Famille>Ranunculaceae</Famille>
+<Formation_x0020_végétale>Parvophanérophytaie</Formation_x0020_végétale>
+<Statut_x0020_de_x0020_protection_x0020_inventaire_x0020__x0028_1999_x0029_>Aucune information disponible concernant le statut de protection.</Statut_x0020_de_x0020_protection_x0020_inventaire_x0020__x0028_1999_x0029_>
+<Habitat>Haies, bois et buissons, lianes grimpantes sur parois et arbres.</Habitat>
+<Réserve_x0020__x0020__x0028_biblio_x0029_>1</Réserve_x0020__x0020__x0028_biblio_x0029_>
+<Parc_x0020_Zoologique_x0020_de_x0020_Lunaret_x0020__x0028_observation-_x0020_biblio_x0029_>1</Parc_x0020_Zoologique_x0020_de_x0020_Lunaret_x0020__x0028_observation-_x0020_biblio_x0029_>
+<Strate>Liane</Strate>
+<Source>Inventaire floristique et statut juridique (M. Perret Vicent, M. Bertrand Michel 1999); Observation sur le terrain, juin 2011.</Source>
+</Inventaire_x0020_floristique_x0020_PZL>
+<Inventaire_x0020_floristique_x0020_PZL>
+<ID>34</ID>
+<Nom_x0020_Scientifique>Colchicum neapolitanum (Ten.) Ten.</Nom_x0020_Scientifique>
+<Nom_x0020_Commun>Colchique de Naples</Nom_x0020_Commun>
+<Famille>Colchicaceae</Famille>
+<Formation_x0020_végétale>Hémicryptophytaie</Formation_x0020_végétale>
+<Statut_x0020_de_x0020_protection_x0020_inventaire_x0020__x0028_1999_x0029_>PN76: arrêtés protégeants les spp citées en vertu de la loi de 1976</Statut_x0020_de_x0020_protection_x0020_inventaire_x0020__x0028_1999_x0029_>
+<Habitat>Lieux secs et sablonneux, pelouses acidophiles méditerranéennes.</Habitat>
+<Réserve_x0020__x0020__x0028_biblio_x0029_>1</Réserve_x0020__x0020__x0028_biblio_x0029_>
+<Parc_x0020_Zoologique_x0020_de_x0020_Lunaret_x0020__x0028_observation-_x0020_biblio_x0029_>0</Parc_x0020_Zoologique_x0020_de_x0020_Lunaret_x0020__x0028_observation-_x0020_biblio_x0029_>
+<Strate>Herbacée</Strate>
+<Source>Inventaire floristique et statut juridique (M. Perret Vicent, M. Bertrand Michel 1999).</Source>
+</Inventaire_x0020_floristique_x0020_PZL>
+<Inventaire_x0020_floristique_x0020_PZL>
+<ID>35</ID>
+<Nom_x0020_Scientifique>Convolvulus siculus L.</Nom_x0020_Scientifique>
+<Nom_x0020_Commun>Liseron de Sicile</Nom_x0020_Commun>
+<Famille>Convolvulaceae</Famille>
+<Formation_x0020_végétale>Thérophytaie</Formation_x0020_végétale>
+<Statut_x0020_de_x0020_Protection_x0020_Régional>Protection Régionale - Liste des espèces végétales protégées en Languedoc-Roussillon, arrêté du  29 octobre 1997 complètant l&apos;arrêté du 20 janvier 1982.</Statut_x0020_de_x0020_Protection_x0020_Régional>
+<Statut_x0020_de_x0020_protection_x0020_inventaire_x0020__x0028_1999_x0029_>Aucune information disponible concernant le statut de protection.</Statut_x0020_de_x0020_protection_x0020_inventaire_x0020__x0028_1999_x0029_>
+<Habitat>Rochers et coteaux pierreux du littoral méditerranéen.</Habitat>
+<Réserve_x0020__x0020__x0028_biblio_x0029_>1</Réserve_x0020__x0020__x0028_biblio_x0029_>
+<Parc_x0020_Zoologique_x0020_de_x0020_Lunaret_x0020__x0028_observation-_x0020_biblio_x0029_>1</Parc_x0020_Zoologique_x0020_de_x0020_Lunaret_x0020__x0028_observation-_x0020_biblio_x0029_>
+<Statut_x0020_ZNIEFF_x0020_à_x0020_l_x0027_échelle_x0020_régionale>Déterminante</Statut_x0020_ZNIEFF_x0020_à_x0020_l_x0027_échelle_x0020_régionale>
+<Strate>Herbacée</Strate>
+<Source>Inventaire floristique et statut juridique (M. Perret Vicent, M. Bertrand Michel 1999).</Source>
+</Inventaire_x0020_floristique_x0020_PZL>
+<Inventaire_x0020_floristique_x0020_PZL>
+<ID>36</ID>
+<Nom_x0020_Scientifique>Coriaria myrtifolia L.</Nom_x0020_Scientifique>
+<Nom_x0020_Commun>Corroyère, Corroyère à feuilles de myrte</Nom_x0020_Commun>
+<Famille>Coriariaceae</Famille>
+<Formation_x0020_végétale>Parvophanérophytaie</Formation_x0020_végétale>
+<Statut_x0020_de_x0020_protection_x0020_inventaire_x0020__x0028_1999_x0029_>Aucune information disponible concernant le statut de protection.</Statut_x0020_de_x0020_protection_x0020_inventaire_x0020__x0028_1999_x0029_>
+<Habitat>Coteaux et bois secs, dans toute la région méditerranéenne, ourrés arbustifs médioeuropéens</Habitat>
+<Réserve_x0020__x0020__x0028_biblio_x0029_>1</Réserve_x0020__x0020__x0028_biblio_x0029_>
+<Parc_x0020_Zoologique_x0020_de_x0020_Lunaret_x0020__x0028_observation-_x0020_biblio_x0029_>0</Parc_x0020_Zoologique_x0020_de_x0020_Lunaret_x0020__x0028_observation-_x0020_biblio_x0029_>
+<Strate>Arbuste</Strate>
+<Source>Inventaire floristique et statut juridique (M. Perret Vicent, M. Bertrand Michel 1999).</Source>
+</Inventaire_x0020_floristique_x0020_PZL>
+<Inventaire_x0020_floristique_x0020_PZL>
+<ID>37</ID>
+<Nom_x0020_Scientifique>Cornus sanguinea L.</Nom_x0020_Scientifique>
+<Nom_x0020_Commun>Bois puant, Bois punais, Cornouiller femelle</Nom_x0020_Commun>
+<Famille>Cornaceae</Famille>
+<Statut_x0020_de_x0020_protection_x0020_inventaire_x0020__x0028_1999_x0029_>Aucune information disponible concernant le statut de protection</Statut_x0020_de_x0020_protection_x0020_inventaire_x0020__x0028_1999_x0029_>
+<Habitat>Bois et haies</Habitat>
+<Réserve_x0020__x0020__x0028_biblio_x0029_>1</Réserve_x0020__x0020__x0028_biblio_x0029_>
+<Parc_x0020_Zoologique_x0020_de_x0020_Lunaret_x0020__x0028_observation-_x0020_biblio_x0029_>0</Parc_x0020_Zoologique_x0020_de_x0020_Lunaret_x0020__x0028_observation-_x0020_biblio_x0029_>
+<Strate>Arbuste</Strate>
+<Source>Observation par Vincent Perret (juin 2011)</Source>
+</Inventaire_x0020_floristique_x0020_PZL>
+<Inventaire_x0020_floristique_x0020_PZL>
+<ID>38</ID>
+<Nom_x0020_Scientifique>Hippocrepis emerus subsp. Emerus</Nom_x0020_Scientifique>
+<Nom_x0020_Commun>Coronille arbrisseau, Coronille des jardins</Nom_x0020_Commun>
+<Famille>Fabaceae</Famille>
+<Formation_x0020_végétale>Parvophanérophytaie</Formation_x0020_végétale>
+<Statut_x0020_de_x0020_Protection_x0020_Régional>Autres régions</Statut_x0020_de_x0020_Protection_x0020_Régional>
+<Statut_x0020_de_x0020_protection_x0020_inventaire_x0020__x0028_1999_x0029_>Au niveau régional,  Bourgone 26; Région Lorraine 41.</Statut_x0020_de_x0020_protection_x0020_inventaire_x0020__x0028_1999_x0029_>
+<Habitat>Bois et coteaux, surtout calcaires, ourrés arbustifs médioeuropéens, planitiaires-montagnards</Habitat>
+<Réserve_x0020__x0020__x0028_biblio_x0029_>1</Réserve_x0020__x0020__x0028_biblio_x0029_>
+<Parc_x0020_Zoologique_x0020_de_x0020_Lunaret_x0020__x0028_observation-_x0020_biblio_x0029_>1</Parc_x0020_Zoologique_x0020_de_x0020_Lunaret_x0020__x0028_observation-_x0020_biblio_x0029_>
+<Strate>Arbuste</Strate>
+<Source>Inventaire floristique et statut juridique (M. Perret Vicent, M. Bertrand Michel 1999); Observation sur le terrain, juin 2011.</Source>
+</Inventaire_x0020_floristique_x0020_PZL>
+<Inventaire_x0020_floristique_x0020_PZL>
+<ID>39</ID>
+<Nom_x0020_Scientifique>Crataegus azarolus L.</Nom_x0020_Scientifique>
+<Nom_x0020_Commun>Azarolier, Azérolier, Épine d&apos;Espagne</Nom_x0020_Commun>
+<Famille>Rosaceae</Famille>
+<Formation_x0020_végétale>Parvophanérophytaie</Formation_x0020_végétale>
+<Statut_x0020_de_x0020_protection_x0020_inventaire_x0020__x0028_1999_x0029_>Aucune information disponible concernant le statut de protection.</Statut_x0020_de_x0020_protection_x0020_inventaire_x0020__x0028_1999_x0029_>
+<Habitat>Matorrals méditerranéens, héliophiles</Habitat>
+<Réserve_x0020__x0020__x0028_biblio_x0029_>1</Réserve_x0020__x0020__x0028_biblio_x0029_>
+<Parc_x0020_Zoologique_x0020_de_x0020_Lunaret_x0020__x0028_observation-_x0020_biblio_x0029_>1</Parc_x0020_Zoologique_x0020_de_x0020_Lunaret_x0020__x0028_observation-_x0020_biblio_x0029_>
+<Strate>Arbre/arbuste</Strate>
+<Source>Observation par Vincent Perret (juin 2011)</Source>
+</Inventaire_x0020_floristique_x0020_PZL>
+<Inventaire_x0020_floristique_x0020_PZL>
+<ID>40</ID>
+<Nom_x0020_Scientifique>Crataegus monogyna Jacq.</Nom_x0020_Scientifique>
+<Nom_x0020_Commun>Aubépine monogyne, Bois de mai, Noble Épine.</Nom_x0020_Commun>
+<Famille>Rosaceae</Famille>
+<Formation_x0020_végétale>Parvophanérophytaie</Formation_x0020_végétale>
+<Statut_x0020_de_x0020_protection_x0020_inventaire_x0020__x0028_1999_x0029_>Aucune information disponible concernant le statut de protection.</Statut_x0020_de_x0020_protection_x0020_inventaire_x0020__x0028_1999_x0029_>
+<Habitat>Haies et bois, fourrés arbustifs médioeuropéens,
+planitiaires-montagnards, méso à eutrophiles</Habitat>
+<Réserve_x0020__x0020__x0028_biblio_x0029_>1</Réserve_x0020__x0020__x0028_biblio_x0029_>
+<Parc_x0020_Zoologique_x0020_de_x0020_Lunaret_x0020__x0028_observation-_x0020_biblio_x0029_>1</Parc_x0020_Zoologique_x0020_de_x0020_Lunaret_x0020__x0028_observation-_x0020_biblio_x0029_>
+<Strate>Arbuste</Strate>
+<Source>Inventaire floristique et statut juridique (M. Perret Vicent, M. Bertrand Michel 1999).</Source>
+</Inventaire_x0020_floristique_x0020_PZL>
+<Inventaire_x0020_floristique_x0020_PZL>
+<ID>41</ID>
+<Nom_x0020_Scientifique>Cupressus sempervirens L.</Nom_x0020_Scientifique>
+<Nom_x0020_Commun>Cyprès d&apos;Italie, Cyprès sempervirent</Nom_x0020_Commun>
+<Famille>Cupressaceae</Famille>
+<Formation_x0020_végétale>Magnophanérophytaie</Formation_x0020_végétale>
+<Statut_x0020_de_x0020_protection_x0020_inventaire_x0020__x0028_1999_x0029_>Aucune information disponible concernant le statut de protection.</Statut_x0020_de_x0020_protection_x0020_inventaire_x0020__x0028_1999_x0029_>
+<Habitat>Bois méditerranéens sempervirents.</Habitat>
+<Réserve_x0020__x0020__x0028_biblio_x0029_>1</Réserve_x0020__x0020__x0028_biblio_x0029_>
+<Parc_x0020_Zoologique_x0020_de_x0020_Lunaret_x0020__x0028_observation-_x0020_biblio_x0029_>1</Parc_x0020_Zoologique_x0020_de_x0020_Lunaret_x0020__x0028_observation-_x0020_biblio_x0029_>
+<Strate>Arbre</Strate>
+<Source>Inventaire floristique et statut juridique (M. Perret Vicent, M. Bertrand Michel 1999); Observation sur le terrain, juin 2011.</Source>
+</Inventaire_x0020_floristique_x0020_PZL>
+<Inventaire_x0020_floristique_x0020_PZL>
+<ID>42</ID>
+<Nom_x0020_Scientifique>Crocus corsicus Vanucchi ex Maw</Nom_x0020_Scientifique>
+<Nom_x0020_Commun>Crocus de Corse, Safran de Corse</Nom_x0020_Commun>
+<Famille>Iridaceae</Famille>
+<Formation_x0020_végétale>Hémicryptophytaie</Formation_x0020_végétale>
+<Statut_x0020_de_x0020_protection_x0020_inventaire_x0020__x0028_1999_x0029_>Aucune information disponible concernant le statut de protection.</Statut_x0020_de_x0020_protection_x0020_inventaire_x0020__x0028_1999_x0029_>
+<Habitat>Pâturages des hautes montagnes,  pelouses acidophiles supra à oroméditerranéennes</Habitat>
+<Réserve_x0020__x0020__x0028_biblio_x0029_>1</Réserve_x0020__x0020__x0028_biblio_x0029_>
+<Parc_x0020_Zoologique_x0020_de_x0020_Lunaret_x0020__x0028_observation-_x0020_biblio_x0029_>0</Parc_x0020_Zoologique_x0020_de_x0020_Lunaret_x0020__x0028_observation-_x0020_biblio_x0029_>
+<Strate>Herbacée</Strate>
+<Source>Inventaire floristique et statut juridique (M. Perret Vicent, M. Bertrand Michel 1999).</Source>
+</Inventaire_x0020_floristique_x0020_PZL>
+<Inventaire_x0020_floristique_x0020_PZL>
+<ID>43</ID>
+<Nom_x0020_Scientifique>Daucus carota L.</Nom_x0020_Scientifique>
+<Nom_x0020_Commun>Carotte, Carotte sauvage, Daucus carotte</Nom_x0020_Commun>
+<Famille>Apiaceae</Famille>
+<Formation_x0020_végétale>Hémicryptophytaie</Formation_x0020_végétale>
+<Statut_x0020_de_x0020_protection_x0020_inventaire_x0020__x0028_1999_x0029_>Aucune information disponible concernant le statut de protection.</Statut_x0020_de_x0020_protection_x0020_inventaire_x0020__x0028_1999_x0029_>
+<Habitat>Champs et coteaux, pelouses aérohalines submaritimes atlantiques, thermophiles, fermées des replats</Habitat>
+<Réserve_x0020__x0020__x0028_biblio_x0029_>1</Réserve_x0020__x0020__x0028_biblio_x0029_>
+<Parc_x0020_Zoologique_x0020_de_x0020_Lunaret_x0020__x0028_observation-_x0020_biblio_x0029_>1</Parc_x0020_Zoologique_x0020_de_x0020_Lunaret_x0020__x0028_observation-_x0020_biblio_x0029_>
+<Statut_x0020_ZNIEFF_x0020_à_x0020_l_x0027_échelle_x0020_régionale>Autres régions.</Statut_x0020_ZNIEFF_x0020_à_x0020_l_x0027_échelle_x0020_régionale>
+<Strate>Herbacée</Strate>
+<Source>Inventaire floristique et statut juridique (M. Perret Vicent, M. Bertrand Michel 1999).</Source>
+</Inventaire_x0020_floristique_x0020_PZL>
+<Inventaire_x0020_floristique_x0020_PZL>
+<ID>44</ID>
+<Nom_x0020_Scientifique>Dianthus sylvestris Wulfen</Nom_x0020_Scientifique>
+<Nom_x0020_Commun>Oeillet des rochers, Oeillet sauvage.</Nom_x0020_Commun>
+<Famille>Caryophyllaceae</Famille>
+<Formation_x0020_végétale>Hémicryptophytaie</Formation_x0020_végétale>
+<Statut_x0020_de_x0020_Protection_x0020_Régional>Autres régions</Statut_x0020_de_x0020_Protection_x0020_Régional>
+<Statut_x0020_de_x0020_protection_x0020_inventaire_x0020__x0028_1999_x0029_>Au niveau départemental (L&apos;isère 38)</Statut_x0020_de_x0020_protection_x0020_inventaire_x0020__x0028_1999_x0029_>
+<Habitat>Pelouses basophiles médioeuropéennes
+occidentales, xérophiles, montagnardes</Habitat>
+<Réserve_x0020__x0020__x0028_biblio_x0029_>1</Réserve_x0020__x0020__x0028_biblio_x0029_>
+<Parc_x0020_Zoologique_x0020_de_x0020_Lunaret_x0020__x0028_observation-_x0020_biblio_x0029_>1</Parc_x0020_Zoologique_x0020_de_x0020_Lunaret_x0020__x0028_observation-_x0020_biblio_x0029_>
+<Strate>Herbacée</Strate>
+<Source>Inventaire floristique et statut juridique (M. Perret Vicent, M. Bertrand Michel 1999).</Source>
+</Inventaire_x0020_floristique_x0020_PZL>
+<Inventaire_x0020_floristique_x0020_PZL>
+<ID>45</ID>
+<Nom_x0020_Scientifique>Pinus halepensis</Nom_x0020_Scientifique>
+<Nom_x0020_Commun>Pin blanc de Provence, Pin d&apos;Alep</Nom_x0020_Commun>
+<Famille>Pinaceae</Famille>
+<Formation_x0020_végétale>Magnophanérophytai</Formation_x0020_végétale>
+<Statut_x0020_de_x0020_protection_x0020_inventaire_x0020__x0028_1999_x0029_>Acune information disponible concernant le statut de protection</Statut_x0020_de_x0020_protection_x0020_inventaire_x0020__x0028_1999_x0029_>
+<Habitat>Plaines et basses montagnes de la région méditerranéenne.</Habitat>
+<Réserve_x0020__x0020__x0028_biblio_x0029_>1</Réserve_x0020__x0020__x0028_biblio_x0029_>
+<Parc_x0020_Zoologique_x0020_de_x0020_Lunaret_x0020__x0028_observation-_x0020_biblio_x0029_>1</Parc_x0020_Zoologique_x0020_de_x0020_Lunaret_x0020__x0028_observation-_x0020_biblio_x0029_>
+<Strate>Arbre</Strate>
+<Source>Inventaire floristique et statut juridique (M. Perret Vicent, M. Bertrand Michel 1999); Observation sur le terrain, juin 2011.</Source>
+</Inventaire_x0020_floristique_x0020_PZL>
+<Inventaire_x0020_floristique_x0020_PZL>
+<ID>46</ID>
+<Nom_x0020_Scientifique>Pinus pinea</Nom_x0020_Scientifique>
+<Nom_x0020_Commun>Pin parasol, Pin pignon</Nom_x0020_Commun>
+<Famille>Pinaceae</Famille>
+<Formation_x0020_végétale>Magnophanérophytai</Formation_x0020_végétale>
+<Statut_x0020_de_x0020_protection_x0020_inventaire_x0020__x0028_1999_x0029_>Aucune information disponible concernant le statut de protection</Statut_x0020_de_x0020_protection_x0020_inventaire_x0020__x0028_1999_x0029_>
+<Habitat>Bois méditerranéens sempervirents</Habitat>
+<Réserve_x0020__x0020__x0028_biblio_x0029_>1</Réserve_x0020__x0020__x0028_biblio_x0029_>
+<Parc_x0020_Zoologique_x0020_de_x0020_Lunaret_x0020__x0028_observation-_x0020_biblio_x0029_>1</Parc_x0020_Zoologique_x0020_de_x0020_Lunaret_x0020__x0028_observation-_x0020_biblio_x0029_>
+<Strate>Arbre</Strate>
+<Source>Inventaire floristique et statut juridique (M. Perret Vicent, M. Bertrand Michel 1999); Observation sur le terrain, juin 2011.</Source>
+</Inventaire_x0020_floristique_x0020_PZL>
+<Inventaire_x0020_floristique_x0020_PZL>
+<ID>47</ID>
+<Nom_x0020_Scientifique>Pistacia lentiscus L.</Nom_x0020_Scientifique>
+<Nom_x0020_Commun>Arbre au mastic, Pistachier lentisque</Nom_x0020_Commun>
+<Famille>Anacardiaceae</Famille>
+<Formation_x0020_végétale>Parvophanérophytaie</Formation_x0020_végétale>
+<Statut_x0020_de_x0020_protection_x0020_inventaire_x0020__x0028_1999_x0029_>Aucune information disponible concernant le statut de protection.</Statut_x0020_de_x0020_protection_x0020_inventaire_x0020__x0028_1999_x0029_>
+<Habitat>Lieux arides, matorrals méditerranéens</Habitat>
+<Réserve_x0020__x0020__x0028_biblio_x0029_>1</Réserve_x0020__x0020__x0028_biblio_x0029_>
+<Parc_x0020_Zoologique_x0020_de_x0020_Lunaret_x0020__x0028_observation-_x0020_biblio_x0029_>1</Parc_x0020_Zoologique_x0020_de_x0020_Lunaret_x0020__x0028_observation-_x0020_biblio_x0029_>
+<Strate>Arbuste</Strate>
+<Source>Inventaire floristique et statut juridique (M. Perret Vicent, M. Bertrand Michel 1999).</Source>
+</Inventaire_x0020_floristique_x0020_PZL>
+<Inventaire_x0020_floristique_x0020_PZL>
+<ID>48</ID>
+<Nom_x0020_Scientifique>Pistacia terebinthus L.</Nom_x0020_Scientifique>
+<Nom_x0020_Commun>Pistachier térébinth</Nom_x0020_Commun>
+<Famille>Anacardiaceae</Famille>
+<Formation_x0020_végétale>Parvophanérophytaie</Formation_x0020_végétale>
+<Statut_x0020_de_x0020_protection_x0020_inventaire_x0020__x0028_1999_x0029_>Aucune information disponible concernant le statut de protection</Statut_x0020_de_x0020_protection_x0020_inventaire_x0020__x0028_1999_x0029_>
+<Habitat>Rochers et coteaux, matorrals thermoméditerranéens, héliophiles</Habitat>
+<Réserve_x0020__x0020__x0028_biblio_x0029_>1</Réserve_x0020__x0020__x0028_biblio_x0029_>
+<Parc_x0020_Zoologique_x0020_de_x0020_Lunaret_x0020__x0028_observation-_x0020_biblio_x0029_>1</Parc_x0020_Zoologique_x0020_de_x0020_Lunaret_x0020__x0028_observation-_x0020_biblio_x0029_>
+<Strate>Arbuste</Strate>
+<Source>Compte, Aurelia., Mémoire de maîtrise. 1999.</Source>
+</Inventaire_x0020_floristique_x0020_PZL>
+<Inventaire_x0020_floristique_x0020_PZL>
+<ID>49</ID>
+<Nom_x0020_Scientifique>Plantago lanceolata L.</Nom_x0020_Scientifique>
+<Nom_x0020_Commun>Plantain lancéolé, Plantain étroit</Nom_x0020_Commun>
+<Famille>Plantaginaceae</Famille>
+<Formation_x0020_végétale>Hémicryptophytaie</Formation_x0020_végétale>
+<Statut_x0020_de_x0020_protection_x0020_inventaire_x0020__x0028_1999_x0029_>Aucune information disponible concernant le statut de protection</Statut_x0020_de_x0020_protection_x0020_inventaire_x0020__x0028_1999_x0029_>
+<Habitat>Prés et pâturages,  prairies</Habitat>
+<Réserve_x0020__x0020__x0028_biblio_x0029_>1</Réserve_x0020__x0020__x0028_biblio_x0029_>
+<Parc_x0020_Zoologique_x0020_de_x0020_Lunaret_x0020__x0028_observation-_x0020_biblio_x0029_>1</Parc_x0020_Zoologique_x0020_de_x0020_Lunaret_x0020__x0028_observation-_x0020_biblio_x0029_>
+<Strate>Herbacée</Strate>
+<Source>Inventaire floristique et statut juridique (M. Perret Vicent, M. Bertrand Michel 1999).</Source>
+</Inventaire_x0020_floristique_x0020_PZL>
+<Inventaire_x0020_floristique_x0020_PZL>
+<ID>50</ID>
+<Nom_x0020_Scientifique>Polypodium vulgare L.</Nom_x0020_Scientifique>
+<Nom_x0020_Commun>Polypode commun</Nom_x0020_Commun>
+<Famille>Polypodiaceae</Famille>
+<Formation_x0020_végétale>Hémicryptophytaie</Formation_x0020_végétale>
+<Statut_x0020_de_x0020_protection_x0020_inventaire_x0020__x0028_1999_x0029_>Aucune information disponible concernant le statut de protection</Statut_x0020_de_x0020_protection_x0020_inventaire_x0020__x0028_1999_x0029_>
+<Habitat>Murs, rochers, troncs d&apos;arbres, acidophiles</Habitat>
+<Réserve_x0020__x0020__x0028_biblio_x0029_>1</Réserve_x0020__x0020__x0028_biblio_x0029_>
+<Parc_x0020_Zoologique_x0020_de_x0020_Lunaret_x0020__x0028_observation-_x0020_biblio_x0029_>1</Parc_x0020_Zoologique_x0020_de_x0020_Lunaret_x0020__x0028_observation-_x0020_biblio_x0029_>
+<Strate>Liane</Strate>
+<Source>Inventaire floristique et statut juridique (M. Perret Vicent, M. Bertrand Michel 1999).</Source>
+</Inventaire_x0020_floristique_x0020_PZL>
+<Inventaire_x0020_floristique_x0020_PZL>
+<ID>51</ID>
+<Nom_x0020_Scientifique>Populus alba L.</Nom_x0020_Scientifique>
+<Nom_x0020_Commun>Peuplier blanc, Peuplier de Holland</Nom_x0020_Commun>
+<Famille>Salicaceae</Famille>
+<Formation_x0020_végétale>Magnophanérophytaie</Formation_x0020_végétale>
+<Statut_x0020_de_x0020_protection_x0020_inventaire_x0020__x0028_1999_x0029_>Aucune information disponible concernant le statut de protection</Statut_x0020_de_x0020_protection_x0020_inventaire_x0020__x0028_1999_x0029_>
+<Habitat>Rivières et lieux humides.</Habitat>
+<Réserve_x0020__x0020__x0028_biblio_x0029_>1</Réserve_x0020__x0020__x0028_biblio_x0029_>
+<Parc_x0020_Zoologique_x0020_de_x0020_Lunaret_x0020__x0028_observation-_x0020_biblio_x0029_>0</Parc_x0020_Zoologique_x0020_de_x0020_Lunaret_x0020__x0028_observation-_x0020_biblio_x0029_>
+<Strate>Abre</Strate>
+<Source>Inventaire floristique et statut juridique (M. Perret Vicent, M. Bertrand Michel 1999).</Source>
+</Inventaire_x0020_floristique_x0020_PZL>
+<Inventaire_x0020_floristique_x0020_PZL>
+<ID>52</ID>
+<Nom_x0020_Scientifique>Populus nigra L.</Nom_x0020_Scientifique>
+<Nom_x0020_Commun>Peuplier noir</Nom_x0020_Commun>
+<Famille>Salicaceae</Famille>
+<Formation_x0020_végétale>Magnophanérophytaie</Formation_x0020_végétale>
+<Statut_x0020_de_x0020_protection_x0020_inventaire_x0020__x0028_1999_x0029_>Aucune information disponible concernant le statut de protection</Statut_x0020_de_x0020_protection_x0020_inventaire_x0020__x0028_1999_x0029_>
+<Habitat>Rivières et lieux humides.</Habitat>
+<Réserve_x0020__x0020__x0028_biblio_x0029_>1</Réserve_x0020__x0020__x0028_biblio_x0029_>
+<Parc_x0020_Zoologique_x0020_de_x0020_Lunaret_x0020__x0028_observation-_x0020_biblio_x0029_>0</Parc_x0020_Zoologique_x0020_de_x0020_Lunaret_x0020__x0028_observation-_x0020_biblio_x0029_>
+<Strate>Arbre</Strate>
+<Source>Inventaire floristique et statut juridique (M. Perret Vicent, M. Bertrand Michel 1999).</Source>
+</Inventaire_x0020_floristique_x0020_PZL>
+<Inventaire_x0020_floristique_x0020_PZL>
+<ID>53</ID>
+<Nom_x0020_Scientifique>Prunus dulcis</Nom_x0020_Scientifique>
+<Nom_x0020_Commun>Amandier, Amandier amer</Nom_x0020_Commun>
+<Famille>Rosaceae</Famille>
+<Formation_x0020_végétale>Parvophanérophytai</Formation_x0020_végétale>
+<Statut_x0020_de_x0020_protection_x0020_inventaire_x0020__x0028_1999_x0029_>Aucune information disponible concernant le statut de protection</Statut_x0020_de_x0020_protection_x0020_inventaire_x0020__x0028_1999_x0029_>
+<Habitat>Matorrals méditerranéens</Habitat>
+<Réserve_x0020__x0020__x0028_biblio_x0029_>1</Réserve_x0020__x0020__x0028_biblio_x0029_>
+<Parc_x0020_Zoologique_x0020_de_x0020_Lunaret_x0020__x0028_observation-_x0020_biblio_x0029_>1</Parc_x0020_Zoologique_x0020_de_x0020_Lunaret_x0020__x0028_observation-_x0020_biblio_x0029_>
+<Strate>Arbre</Strate>
+<Source>Observation par Vincent Perret (juin 2011)</Source>
+</Inventaire_x0020_floristique_x0020_PZL>
+<Inventaire_x0020_floristique_x0020_PZL>
+<ID>54</ID>
+<Nom_x0020_Scientifique>Pteridium aquilinum</Nom_x0020_Scientifique>
+<Nom_x0020_Commun>Fougère-aigle, Grande Fougère</Nom_x0020_Commun>
+<Famille>Dennstaedtiaceae</Famille>
+<Statut_x0020_de_x0020_protection_x0020_inventaire_x0020__x0028_1999_x0029_>Aucune information disponible concernant le statut de protection</Statut_x0020_de_x0020_protection_x0020_inventaire_x0020__x0028_1999_x0029_>
+<Habitat>Pleine lumière ou semi-ombragées, sur des sols pierreux ou sableux et acides et assez profonds</Habitat>
+<Réserve_x0020__x0020__x0028_biblio_x0029_>1</Réserve_x0020__x0020__x0028_biblio_x0029_>
+<Parc_x0020_Zoologique_x0020_de_x0020_Lunaret_x0020__x0028_observation-_x0020_biblio_x0029_>0</Parc_x0020_Zoologique_x0020_de_x0020_Lunaret_x0020__x0028_observation-_x0020_biblio_x0029_>
+<Strate>Fougère</Strate>
+<Source>Inventaire floristique et statut juridique (M. Perret Vicent, M. Bertrand Michel 1999).</Source>
+</Inventaire_x0020_floristique_x0020_PZL>
+<Inventaire_x0020_floristique_x0020_PZL>
+<ID>55</ID>
+<Nom_x0020_Scientifique>Quercus coccifera L.</Nom_x0020_Scientifique>
+<Nom_x0020_Commun>Chêne des garrigues, Chêne kermès</Nom_x0020_Commun>
+<Famille>Fagaceae</Famille>
+<Formation_x0020_végétale>Parvophanérophytaie</Formation_x0020_végétale>
+<Statut_x0020_de_x0020_protection_x0020_inventaire_x0020__x0028_1999_x0029_>Aucune information disponible concernant le statut de protection</Statut_x0020_de_x0020_protection_x0020_inventaire_x0020__x0028_1999_x0029_>
+<Habitat>Lieux secs et arides, surtout calcaires, matorrals méditerranéens,héliophiles</Habitat>
+<Réserve_x0020__x0020__x0028_biblio_x0029_>1</Réserve_x0020__x0020__x0028_biblio_x0029_>
+<Parc_x0020_Zoologique_x0020_de_x0020_Lunaret_x0020__x0028_observation-_x0020_biblio_x0029_>1</Parc_x0020_Zoologique_x0020_de_x0020_Lunaret_x0020__x0028_observation-_x0020_biblio_x0029_>
+<Strate>Arbuste</Strate>
+<Source>Inventaire floristique et statut juridique (M. Perret Vicent, M. Bertrand Michel 1999).</Source>
+</Inventaire_x0020_floristique_x0020_PZL>
+<Inventaire_x0020_floristique_x0020_PZL>
+<ID>56</ID>
+<Nom_x0020_Scientifique>Quercus ilex L.</Nom_x0020_Scientifique>
+<Nom_x0020_Commun>Chêne vert, Yeuse</Nom_x0020_Commun>
+<Famille>Fagaceae</Famille>
+<Formation_x0020_végétale>Parvophanérophytaie</Formation_x0020_végétale>
+<Statut_x0020_de_x0020_protection_x0020_inventaire_x0020__x0028_1999_x0029_>Aucune information disponible concernant le statut de protection.</Statut_x0020_de_x0020_protection_x0020_inventaire_x0020__x0028_1999_x0029_>
+<Habitat>Bois et coteaux, surtout calcaires.</Habitat>
+<Réserve_x0020__x0020__x0028_biblio_x0029_>1</Réserve_x0020__x0020__x0028_biblio_x0029_>
+<Parc_x0020_Zoologique_x0020_de_x0020_Lunaret_x0020__x0028_observation-_x0020_biblio_x0029_>1</Parc_x0020_Zoologique_x0020_de_x0020_Lunaret_x0020__x0028_observation-_x0020_biblio_x0029_>
+<Strate>Arbre/ arbuste</Strate>
+<Source>Inventaire floristique et statut juridique (M. Perret Vicent, M. Bertrand Michel 1999); Obervation sur le terrain, juin 2011.</Source>
+</Inventaire_x0020_floristique_x0020_PZL>
+<Inventaire_x0020_floristique_x0020_PZL>
+<ID>57</ID>
+<Nom_x0020_Scientifique>Quercus pubescens</Nom_x0020_Scientifique>
+<Nom_x0020_Commun>Chêne pubescen, Chêne blanc</Nom_x0020_Commun>
+<Famille>Fagaceae</Famille>
+<Formation_x0020_végétale>Parvophanérophytaie</Formation_x0020_végétale>
+<Statut_x0020_de_x0020_protection_x0020_inventaire_x0020__x0028_1999_x0029_>Aucune information disponible concernant le statut de protection</Statut_x0020_de_x0020_protection_x0020_inventaire_x0020__x0028_1999_x0029_>
+<Habitat>Bois et coteaux secs, surtout calcaires.</Habitat>
+<Réserve_x0020__x0020__x0028_biblio_x0029_>1</Réserve_x0020__x0020__x0028_biblio_x0029_>
+<Parc_x0020_Zoologique_x0020_de_x0020_Lunaret_x0020__x0028_observation-_x0020_biblio_x0029_>1</Parc_x0020_Zoologique_x0020_de_x0020_Lunaret_x0020__x0028_observation-_x0020_biblio_x0029_>
+<Strate>Arbre</Strate>
+<Source>Inventaire floristique et statut juridique (M. Perret Vicent, M. Bertrand Michel 1999).</Source>
+</Inventaire_x0020_floristique_x0020_PZL>
+<Inventaire_x0020_floristique_x0020_PZL>
+<ID>58</ID>
+<Nom_x0020_Scientifique>Reseda phyteuma L.</Nom_x0020_Scientifique>
+<Nom_x0020_Commun>Réséda raiponce</Nom_x0020_Commun>
+<Famille>Resedaceae</Famille>
+<Statut_x0020_de_x0020_protection_x0020_inventaire_x0020__x0028_1999_x0029_>A93,1: arrête du 9 septembre 1993 fixant la liste des spp protégées sur l&apos;ensemble du territoire.</Statut_x0020_de_x0020_protection_x0020_inventaire_x0020__x0028_1999_x0029_>
+<Habitat>Champs sablonneux ou rocailleux.</Habitat>
+<Réserve_x0020__x0020__x0028_biblio_x0029_>1</Réserve_x0020__x0020__x0028_biblio_x0029_>
+<Parc_x0020_Zoologique_x0020_de_x0020_Lunaret_x0020__x0028_observation-_x0020_biblio_x0029_>1</Parc_x0020_Zoologique_x0020_de_x0020_Lunaret_x0020__x0028_observation-_x0020_biblio_x0029_>
+<Strate>Herbacée</Strate>
+<Source>Inventaire floristique et statut juridique (M. Perret Vicent, M. Bertrand Michel 1999).</Source>
+</Inventaire_x0020_floristique_x0020_PZL>
+<Inventaire_x0020_floristique_x0020_PZL>
+<ID>59</ID>
+<Nom_x0020_Scientifique>Rhamnus alaternus L.</Nom_x0020_Scientifique>
+<Nom_x0020_Commun>Alaterne, Nerprun alaterne</Nom_x0020_Commun>
+<Famille>Rhamnaceae</Famille>
+<Formation_x0020_végétale>Parvophanérophytaie</Formation_x0020_végétale>
+<Statut_x0020_de_x0020_protection_x0020_inventaire_x0020__x0028_1999_x0029_>Aucune information disponible concernant le statut de protection</Statut_x0020_de_x0020_protection_x0020_inventaire_x0020__x0028_1999_x0029_>
+<Habitat>Rochers et coteaux calcaires, matorrals méditerranéens, héliophiles</Habitat>
+<Réserve_x0020__x0020__x0028_biblio_x0029_>1</Réserve_x0020__x0020__x0028_biblio_x0029_>
+<Parc_x0020_Zoologique_x0020_de_x0020_Lunaret_x0020__x0028_observation-_x0020_biblio_x0029_>1</Parc_x0020_Zoologique_x0020_de_x0020_Lunaret_x0020__x0028_observation-_x0020_biblio_x0029_>
+<Strate>Arbuste</Strate>
+<Source>Inventaire floristique et statut juridique (M. Perret Vicent, M. Bertrand Michel 1999).</Source>
+</Inventaire_x0020_floristique_x0020_PZL>
+<Inventaire_x0020_floristique_x0020_PZL>
+<ID>60</ID>
+<Nom_x0020_Scientifique>Rhus coriaria L.</Nom_x0020_Scientifique>
+<Nom_x0020_Commun>Sumac des corroyeurs, Vinaigrier</Nom_x0020_Commun>
+<Famille>Anacardiaceae</Famille>
+<Formation_x0020_végétale>Parvophanérophytaie</Formation_x0020_végétale>
+<Statut_x0020_de_x0020_Protection_x0020_Régional>Autres régions</Statut_x0020_de_x0020_Protection_x0020_Régional>
+<Statut_x0020_de_x0020_protection_x0020_inventaire_x0020__x0028_1999_x0029_>Au niveau régional, Poitou-Charentes (54)</Statut_x0020_de_x0020_protection_x0020_inventaire_x0020__x0028_1999_x0029_>
+<Habitat>Lieux arides, surtout calcaires, matorrals mésoméditerranéens</Habitat>
+<Réserve_x0020__x0020__x0028_biblio_x0029_>1</Réserve_x0020__x0020__x0028_biblio_x0029_>
+<Parc_x0020_Zoologique_x0020_de_x0020_Lunaret_x0020__x0028_observation-_x0020_biblio_x0029_>1</Parc_x0020_Zoologique_x0020_de_x0020_Lunaret_x0020__x0028_observation-_x0020_biblio_x0029_>
+<Strate>Arbuste</Strate>
+<Source>Inventaire floristique et statut juridique (M. Perret Vicent, M. Bertrand Michel 1999).</Source>
+</Inventaire_x0020_floristique_x0020_PZL>
+<Inventaire_x0020_floristique_x0020_PZL>
+<ID>61</ID>
+<Nom_x0020_Scientifique>Robinia pseudoacacia L</Nom_x0020_Scientifique>
+<Nom_x0020_Commun>Acacia, Robinier faux acacia</Nom_x0020_Commun>
+<Famille>Fabaceae</Famille>
+<Formation_x0020_végétale>Magnophanérophytaie</Formation_x0020_végétale>
+<Statut_x0020_de_x0020_protection_x0020_inventaire_x0020__x0028_1999_x0029_>Aucune information disponible concernant le statut de protection</Statut_x0020_de_x0020_protection_x0020_inventaire_x0020__x0028_1999_x0029_>
+<Habitat>Bois caducifoliés médioeuropéens,
+planitiaires-collinéens</Habitat>
+<Réserve_x0020__x0020__x0028_biblio_x0029_>1</Réserve_x0020__x0020__x0028_biblio_x0029_>
+<Parc_x0020_Zoologique_x0020_de_x0020_Lunaret_x0020__x0028_observation-_x0020_biblio_x0029_>0</Parc_x0020_Zoologique_x0020_de_x0020_Lunaret_x0020__x0028_observation-_x0020_biblio_x0029_>
+<Strate>Arbre</Strate>
+<Source>Inventaire floristique et statut juridique (M. Perret Vicent, M. Bertrand Michel 1999).</Source>
+</Inventaire_x0020_floristique_x0020_PZL>
+<Inventaire_x0020_floristique_x0020_PZL>
+<ID>62</ID>
+<Nom_x0020_Scientifique>Rosa sp.</Nom_x0020_Scientifique>
+<Nom_x0020_Commun>Rosier, Églantier</Nom_x0020_Commun>
+<Famille>	Rosaceae</Famille>
+<Statut_x0020_de_x0020_protection_x0020_inventaire_x0020__x0028_1999_x0029_>Aucune information disponible concernant le statut de protection</Statut_x0020_de_x0020_protection_x0020_inventaire_x0020__x0028_1999_x0029_>
+<Réserve_x0020__x0020__x0028_biblio_x0029_>1</Réserve_x0020__x0020__x0028_biblio_x0029_>
+<Parc_x0020_Zoologique_x0020_de_x0020_Lunaret_x0020__x0028_observation-_x0020_biblio_x0029_>1</Parc_x0020_Zoologique_x0020_de_x0020_Lunaret_x0020__x0028_observation-_x0020_biblio_x0029_>
+<Strate>Arbuste</Strate>
+<Source>Inventaire floristique et statut juridique (M. Perret Vicent, M. Bertrand Michel 1999).</Source>
+</Inventaire_x0020_floristique_x0020_PZL>
+<Inventaire_x0020_floristique_x0020_PZL>
+<ID>63</ID>
+<Nom_x0020_Scientifique>Rosmarinus officinalis L.</Nom_x0020_Scientifique>
+<Nom_x0020_Commun>Romarin, Romarin officinal</Nom_x0020_Commun>
+<Famille>Lamiaceae</Famille>
+<Formation_x0020_végétale>Chaméphytai</Formation_x0020_végétale>
+<Statut_x0020_de_x0020_protection_x0020_inventaire_x0020__x0028_1999_x0029_>Aucune information disponible concernant le statut de protection</Statut_x0020_de_x0020_protection_x0020_inventaire_x0020__x0028_1999_x0029_>
+<Habitat>Lieux secs et arides, garrigues méditerranéennes</Habitat>
+<Réserve_x0020__x0020__x0028_biblio_x0029_>1</Réserve_x0020__x0020__x0028_biblio_x0029_>
+<Parc_x0020_Zoologique_x0020_de_x0020_Lunaret_x0020__x0028_observation-_x0020_biblio_x0029_>1</Parc_x0020_Zoologique_x0020_de_x0020_Lunaret_x0020__x0028_observation-_x0020_biblio_x0029_>
+<Strate>Arbuste</Strate>
+<Source>Inventaire floristique et statut juridique (M. Perret Vicent, M. Bertrand Michel 1999).</Source>
+</Inventaire_x0020_floristique_x0020_PZL>
+<Inventaire_x0020_floristique_x0020_PZL>
+<ID>64</ID>
+<Nom_x0020_Scientifique>Rubia peregrina L.</Nom_x0020_Scientifique>
+<Nom_x0020_Commun>Garance sauvage, Garance voyageuse</Nom_x0020_Commun>
+<Famille>Rubiaceae</Famille>
+<Formation_x0020_végétale>Hémicryptophytaie</Formation_x0020_végétale>
+<Statut_x0020_de_x0020_Protection_x0020_Régional>Autres régions</Statut_x0020_de_x0020_Protection_x0020_Régional>
+<Statut_x0020_de_x0020_protection_x0020_inventaire_x0020__x0028_1999_x0029_>Au niveau départemental (Limousin)</Statut_x0020_de_x0020_protection_x0020_inventaire_x0020__x0028_1999_x0029_>
+<Habitat>Haies et bois, ourlets basophiles européens, xérophiles</Habitat>
+<Réserve_x0020__x0020__x0028_biblio_x0029_>1</Réserve_x0020__x0020__x0028_biblio_x0029_>
+<Parc_x0020_Zoologique_x0020_de_x0020_Lunaret_x0020__x0028_observation-_x0020_biblio_x0029_>1</Parc_x0020_Zoologique_x0020_de_x0020_Lunaret_x0020__x0028_observation-_x0020_biblio_x0029_>
+<Strate>Liane</Strate>
+<Source>Inventaire floristique et statut juridique (M. Perret Vicent, M. Bertrand Michel 1999).</Source>
+</Inventaire_x0020_floristique_x0020_PZL>
+<Inventaire_x0020_floristique_x0020_PZL>
+<ID>65</ID>
+<Nom_x0020_Scientifique>Rubus ulmifolius</Nom_x0020_Scientifique>
+<Nom_x0020_Commun>Ronce à feuilles d&apos;orme</Nom_x0020_Commun>
+<Famille>Rosaceae</Famille>
+<Formation_x0020_végétale>Parvophanérophytaie</Formation_x0020_végétale>
+<Statut_x0020_de_x0020_protection_x0020_inventaire_x0020__x0028_1999_x0029_>Aucune information disponible concernant le statut de protection</Statut_x0020_de_x0020_protection_x0020_inventaire_x0020__x0028_1999_x0029_>
+<Habitat>Fourrés arbustifs, planitiaires, thermophiles</Habitat>
+<Réserve_x0020__x0020__x0028_biblio_x0029_>1</Réserve_x0020__x0020__x0028_biblio_x0029_>
+<Parc_x0020_Zoologique_x0020_de_x0020_Lunaret_x0020__x0028_observation-_x0020_biblio_x0029_>0</Parc_x0020_Zoologique_x0020_de_x0020_Lunaret_x0020__x0028_observation-_x0020_biblio_x0029_>
+<Strate>Arbuste</Strate>
+<Source>Inventaire floristique et statut juridique (M. Perret Vicent, M. Bertrand Michel 1999).</Source>
+</Inventaire_x0020_floristique_x0020_PZL>
+<Inventaire_x0020_floristique_x0020_PZL>
+<ID>66</ID>
+<Nom_x0020_Scientifique>Ruscus aculeatus L.</Nom_x0020_Scientifique>
+<Nom_x0020_Commun>Fragon faux houx, Petit-houx</Nom_x0020_Commun>
+<Famille>	Ruscaceae</Famille>
+<Formation_x0020_végétale>Hémicrytophytaie</Formation_x0020_végétale>
+<Statut_x0020_de_x0020_protection_x0020_inventaire_x0020__x0028_1999_x0029_>PN76/A89/DH92,5 (PN76: arrêtés protégeants les spp citées en vertu de la loi de 1976; DH92: directive habitat concernant la conservation de l&apos;habitat de la faune et de la flore sauvage</Statut_x0020_de_x0020_protection_x0020_inventaire_x0020__x0028_1999_x0029_>
+<Habitat>Bois et coteaux arides, sous-bois herbacés, basopphiles</Habitat>
+<Réserve_x0020__x0020__x0028_biblio_x0029_>1</Réserve_x0020__x0020__x0028_biblio_x0029_>
+<Parc_x0020_Zoologique_x0020_de_x0020_Lunaret_x0020__x0028_observation-_x0020_biblio_x0029_>1</Parc_x0020_Zoologique_x0020_de_x0020_Lunaret_x0020__x0028_observation-_x0020_biblio_x0029_>
+<Strate>Arbuste</Strate>
+<Source>Inventaire floristique et statut juridique (M. Perret Vicent, M. Bertrand Michel 1999).</Source>
+</Inventaire_x0020_floristique_x0020_PZL>
+<Inventaire_x0020_floristique_x0020_PZL>
+<ID>67</ID>
+<Nom_x0020_Scientifique>Scirpoides holoschoenus</Nom_x0020_Scientifique>
+<Nom_x0020_Commun>Scirpe-jonc</Nom_x0020_Commun>
+<Famille>Cyperaceae</Famille>
+<Formation_x0020_végétale>Hémicryptophytaie</Formation_x0020_végétale>
+<Statut_x0020_de_x0020_protection_x0020_inventaire_x0020__x0028_1999_x0029_>Aucune information disponible concernant le statut de protection</Statut_x0020_de_x0020_protection_x0020_inventaire_x0020__x0028_1999_x0029_>
+<Habitat>Lieux sablonneux humides,  prés paratourbeux méditerrnéens</Habitat>
+<Réserve_x0020__x0020__x0028_biblio_x0029_>1</Réserve_x0020__x0020__x0028_biblio_x0029_>
+<Parc_x0020_Zoologique_x0020_de_x0020_Lunaret_x0020__x0028_observation-_x0020_biblio_x0029_>0</Parc_x0020_Zoologique_x0020_de_x0020_Lunaret_x0020__x0028_observation-_x0020_biblio_x0029_>
+<Strate>Herbacée</Strate>
+<Source>Inventaire floristique et statut juridique (M. Perret Vicent, M. Bertrand Michel 1999).</Source>
+</Inventaire_x0020_floristique_x0020_PZL>
+<Inventaire_x0020_floristique_x0020_PZL>
+<ID>68</ID>
+<Nom_x0020_Scientifique>Senecio doria</Nom_x0020_Scientifique>
+<Nom_x0020_Commun>Séneçon doria</Nom_x0020_Commun>
+<Famille>Asteraceae</Famille>
+<Statut_x0020_de_x0020_Protection_x0020_Régional>Protection Régionale - Liste des espèces végétales protégées en Languedoc-Roussillon, arrêté du  29 octobre 1997 complètant l&apos;arrêté du 20 janvier 1982 .</Statut_x0020_de_x0020_Protection_x0020_Régional>
+<Statut_x0020_de_x0020_protection_x0020_inventaire_x0020__x0028_1999_x0029_>A97,1: arrête du  29 octobre 1997 relaitf à la liste des spp végétales protégées en languedic Roussillon.  Rare.</Statut_x0020_de_x0020_protection_x0020_inventaire_x0020__x0028_1999_x0029_>
+<Habitat>Lieux humides, bords des eaux.</Habitat>
+<Réserve_x0020__x0020__x0028_biblio_x0029_>1</Réserve_x0020__x0020__x0028_biblio_x0029_>
+<Parc_x0020_Zoologique_x0020_de_x0020_Lunaret_x0020__x0028_observation-_x0020_biblio_x0029_>0</Parc_x0020_Zoologique_x0020_de_x0020_Lunaret_x0020__x0028_observation-_x0020_biblio_x0029_>
+<Statut_x0020_ZNIEFF_x0020_à_x0020_l_x0027_échelle_x0020_régionale>Rare. Determinante.</Statut_x0020_ZNIEFF_x0020_à_x0020_l_x0027_échelle_x0020_régionale>
+<Strate>Herbacée</Strate>
+<Source>Inventaire floristique et statut juridique (M. Perret Vicent, M. Bertrand Michel 1999).</Source>
+</Inventaire_x0020_floristique_x0020_PZL>
+<Inventaire_x0020_floristique_x0020_PZL>
+<ID>69</ID>
+<Nom_x0020_Scientifique>Silene gallica</Nom_x0020_Scientifique>
+<Nom_x0020_Commun>Silène d&apos;Angleterre, Silène de France</Nom_x0020_Commun>
+<Famille>Caryophyllaceae</Famille>
+<Formation_x0020_végétale>Thérophytaie</Formation_x0020_végétale>
+<Statut_x0020_de_x0020_protection_x0020_inventaire_x0020__x0028_1999_x0029_>Aucune information disponible concernant le statut de protection</Statut_x0020_de_x0020_protection_x0020_inventaire_x0020__x0028_1999_x0029_>
+<Habitat>Tonsures annuelles acidophiles, mésothermes, mésoméditerranéennes, xérophiles, mésitrophiles</Habitat>
+<Réserve_x0020__x0020__x0028_biblio_x0029_>1</Réserve_x0020__x0020__x0028_biblio_x0029_>
+<Parc_x0020_Zoologique_x0020_de_x0020_Lunaret_x0020__x0028_observation-_x0020_biblio_x0029_>1</Parc_x0020_Zoologique_x0020_de_x0020_Lunaret_x0020__x0028_observation-_x0020_biblio_x0029_>
+<Strate>Herbacée</Strate>
+<Source>Inventaire floristique et statut juridique (M. Perret Vicent, M. Bertrand Michel 1999).</Source>
+</Inventaire_x0020_floristique_x0020_PZL>
+<Inventaire_x0020_floristique_x0020_PZL>
+<ID>70</ID>
+<Nom_x0020_Scientifique>Silene vulgaris</Nom_x0020_Scientifique>
+<Nom_x0020_Commun>Silène commun, Silène enflé</Nom_x0020_Commun>
+<Famille>Caryophyllaceae</Famille>
+<Formation_x0020_végétale>Hémicryptophytaie</Formation_x0020_végétale>
+<Statut_x0020_de_x0020_protection_x0020_inventaire_x0020__x0028_1999_x0029_>Aucune information disponible concernant le statut de protection</Statut_x0020_de_x0020_protection_x0020_inventaire_x0020__x0028_1999_x0029_>
+<Habitat>Eboulis fins médioeuropéens, basophiles, planitiaires à montagnards, héliophiles</Habitat>
+<Réserve_x0020__x0020__x0028_biblio_x0029_>1</Réserve_x0020__x0020__x0028_biblio_x0029_>
+<Parc_x0020_Zoologique_x0020_de_x0020_Lunaret_x0020__x0028_observation-_x0020_biblio_x0029_>1</Parc_x0020_Zoologique_x0020_de_x0020_Lunaret_x0020__x0028_observation-_x0020_biblio_x0029_>
+<Strate>Herbacée</Strate>
+<Source>Inventaire floristique et statut juridique (M. Perret Vicent, M. Bertrand Michel 1999).</Source>
+</Inventaire_x0020_floristique_x0020_PZL>
+<Inventaire_x0020_floristique_x0020_PZL>
+<ID>71</ID>
+<Nom_x0020_Scientifique>Salvia officinalis</Nom_x0020_Scientifique>
+<Nom_x0020_Commun>Sauge officinale</Nom_x0020_Commun>
+<Famille>Lamiaceae</Famille>
+<Formation_x0020_végétale> Hémicryptophytai</Formation_x0020_végétale>
+<Statut_x0020_de_x0020_Protection_x0020_Régional>Rare selon VP</Statut_x0020_de_x0020_Protection_x0020_Régional>
+<Statut_x0020_de_x0020_protection_x0020_inventaire_x0020__x0028_1999_x0029_>Rare</Statut_x0020_de_x0020_protection_x0020_inventaire_x0020__x0028_1999_x0029_>
+<Habitat>Lieux secs et arides, pelouses basophiles</Habitat>
+<Réserve_x0020__x0020__x0028_biblio_x0029_>1</Réserve_x0020__x0020__x0028_biblio_x0029_>
+<Parc_x0020_Zoologique_x0020_de_x0020_Lunaret_x0020__x0028_observation-_x0020_biblio_x0029_>1</Parc_x0020_Zoologique_x0020_de_x0020_Lunaret_x0020__x0028_observation-_x0020_biblio_x0029_>
+<Strate>Arbuste</Strate>
+<Source>Inventaire floristique et statut juridique (M. Perret Vicent, M. Bertrand Michel 1999).</Source>
+</Inventaire_x0020_floristique_x0020_PZL>
+<Inventaire_x0020_floristique_x0020_PZL>
+<ID>72</ID>
+<Nom_x0020_Scientifique>Smilax aspera</Nom_x0020_Scientifique>
+<Nom_x0020_Commun>Salsepareille, Salsepareille d&apos;Europe</Nom_x0020_Commun>
+<Famille>Smilacaceae</Famille>
+<Formation_x0020_végétale>Parvophanérophytaie</Formation_x0020_végétale>
+<Statut_x0020_de_x0020_Protection_x0020_Régional>Autres régions</Statut_x0020_de_x0020_Protection_x0020_Régional>
+<Statut_x0020_de_x0020_protection_x0020_inventaire_x0020__x0028_1999_x0029_>Au niveau régional (Pays de la Loire 52)</Statut_x0020_de_x0020_protection_x0020_inventaire_x0020__x0028_1999_x0029_>
+<Habitat>Haies et bois, matorrals méditerranéens</Habitat>
+<Réserve_x0020__x0020__x0028_biblio_x0029_>1</Réserve_x0020__x0020__x0028_biblio_x0029_>
+<Parc_x0020_Zoologique_x0020_de_x0020_Lunaret_x0020__x0028_observation-_x0020_biblio_x0029_>1</Parc_x0020_Zoologique_x0020_de_x0020_Lunaret_x0020__x0028_observation-_x0020_biblio_x0029_>
+<Strate>Arbuste</Strate>
+<Source>Inventaire floristique et statut juridique (M. Perret Vicent, M. Bertrand Michel 1999); Observation sur le terrain, juin 2011.</Source>
+</Inventaire_x0020_floristique_x0020_PZL>
+<Inventaire_x0020_floristique_x0020_PZL>
+<ID>73</ID>
+<Nom_x0020_Scientifique>Sorbus domestica</Nom_x0020_Scientifique>
+<Nom_x0020_Commun>Cormier, Sorbier domestique</Nom_x0020_Commun>
+<Famille>Rosaceae</Famille>
+<Formation_x0020_végétale>Magnophanérophytaie</Formation_x0020_végétale>
+<Statut_x0020_de_x0020_protection_x0020_inventaire_x0020__x0028_1999_x0029_>Aucune information disponible concernant le statut de protection</Statut_x0020_de_x0020_protection_x0020_inventaire_x0020__x0028_1999_x0029_>
+<Habitat>Haies et bois, surtout calcaires, bois caducifoliés médioeuropéens,basophiles,oligotrophiles</Habitat>
+<Réserve_x0020__x0020__x0028_biblio_x0029_>1</Réserve_x0020__x0020__x0028_biblio_x0029_>
+<Parc_x0020_Zoologique_x0020_de_x0020_Lunaret_x0020__x0028_observation-_x0020_biblio_x0029_>1</Parc_x0020_Zoologique_x0020_de_x0020_Lunaret_x0020__x0028_observation-_x0020_biblio_x0029_>
+<Strate>Arbre</Strate>
+<Source>Inventaire floristique et statut juridique (M. Perret Vicent, M. Bertrand Michel 1999).</Source>
+</Inventaire_x0020_floristique_x0020_PZL>
+<Inventaire_x0020_floristique_x0020_PZL>
+<ID>74</ID>
+<Nom_x0020_Scientifique>Potamogeton</Nom_x0020_Scientifique>
+<Nom_x0020_Commun>Potamot</Nom_x0020_Commun>
+<Famille>Potamogetonaceae</Famille>
+<Statut_x0020_de_x0020_protection_x0020_inventaire_x0020__x0028_1999_x0029_>Aucune information disponible concernant le statut de protection</Statut_x0020_de_x0020_protection_x0020_inventaire_x0020__x0028_1999_x0029_>
+<Réserve_x0020__x0020__x0028_biblio_x0029_>1</Réserve_x0020__x0020__x0028_biblio_x0029_>
+<Parc_x0020_Zoologique_x0020_de_x0020_Lunaret_x0020__x0028_observation-_x0020_biblio_x0029_>0</Parc_x0020_Zoologique_x0020_de_x0020_Lunaret_x0020__x0028_observation-_x0020_biblio_x0029_>
+<Strate>Herbacée</Strate>
+<Source>Inventaire floristique et statut juridique (M. Perret Vicent, M. Bertrand Michel 1999).</Source>
+</Inventaire_x0020_floristique_x0020_PZL>
+<Inventaire_x0020_floristique_x0020_PZL>
+<ID>75</ID>
+<Nom_x0020_Scientifique>Spartium junceum</Nom_x0020_Scientifique>
+<Nom_x0020_Commun>Spartier, Spartier à tiges de jonc</Nom_x0020_Commun>
+<Famille>Fabaceae</Famille>
+<Formation_x0020_végétale>Parvophanérophytaie</Formation_x0020_végétale>
+<Statut_x0020_de_x0020_protection_x0020_inventaire_x0020__x0028_1999_x0029_>Aucune information disponible concernant le statut de protection</Statut_x0020_de_x0020_protection_x0020_inventaire_x0020__x0028_1999_x0029_>
+<Habitat>Coteaux arides, matorrals mésoméditerranéens,héliophiles,acidoclines</Habitat>
+<Réserve_x0020__x0020__x0028_biblio_x0029_>1</Réserve_x0020__x0020__x0028_biblio_x0029_>
+<Parc_x0020_Zoologique_x0020_de_x0020_Lunaret_x0020__x0028_observation-_x0020_biblio_x0029_>1</Parc_x0020_Zoologique_x0020_de_x0020_Lunaret_x0020__x0028_observation-_x0020_biblio_x0029_>
+<Strate>Arbuste</Strate>
+<Source>Inventaire floristique et statut juridique (M. Perret Vicent, M. Bertrand Michel 1999).</Source>
+</Inventaire_x0020_floristique_x0020_PZL>
+<Inventaire_x0020_floristique_x0020_PZL>
+<ID>76</ID>
+<Nom_x0020_Scientifique>Staehelina dubia</Nom_x0020_Scientifique>
+<Nom_x0020_Commun>Stéhéline, Stéhéline douteuse</Nom_x0020_Commun>
+<Famille>Asteraceae</Famille>
+<Formation_x0020_végétale>Chaméphytaie</Formation_x0020_végétale>
+<Statut_x0020_de_x0020_Protection_x0020_Régional>Autres régions</Statut_x0020_de_x0020_Protection_x0020_Régional>
+<Statut_x0020_de_x0020_protection_x0020_inventaire_x0020__x0028_1999_x0029_>Au niveau régional - Limousin (74)</Statut_x0020_de_x0020_protection_x0020_inventaire_x0020__x0028_1999_x0029_>
+<Habitat>Coteaux secs, garrigues mésoméditerranéennes
+occidentales</Habitat>
+<Réserve_x0020__x0020__x0028_biblio_x0029_>1</Réserve_x0020__x0020__x0028_biblio_x0029_>
+<Parc_x0020_Zoologique_x0020_de_x0020_Lunaret_x0020__x0028_observation-_x0020_biblio_x0029_>1</Parc_x0020_Zoologique_x0020_de_x0020_Lunaret_x0020__x0028_observation-_x0020_biblio_x0029_>
+<Strate>Arbuste</Strate>
+<Source>Inventaire floristique et statut juridique (M. Perret Vicent, M. Bertrand Michel 1999).</Source>
+</Inventaire_x0020_floristique_x0020_PZL>
+<Inventaire_x0020_floristique_x0020_PZL>
+<ID>77</ID>
+<Nom_x0020_Scientifique>Taxodium distichum</Nom_x0020_Scientifique>
+<Nom_x0020_Commun>Cyprès chauve, Cyprès de Louisiane</Nom_x0020_Commun>
+<Famille>Taxodiaceae</Famille>
+<Formation_x0020_végétale>Magnophanérophytaie</Formation_x0020_végétale>
+<Statut_x0020_de_x0020_protection_x0020_inventaire_x0020__x0028_1999_x0029_>Aucune information disponible concernant le statut de protection.</Statut_x0020_de_x0020_protection_x0020_inventaire_x0020__x0028_1999_x0029_>
+<Habitat>Bois caducifoliés médioeuropéens,
+hydrophiles, médioeuropéens</Habitat>
+<Réserve_x0020__x0020__x0028_biblio_x0029_>1</Réserve_x0020__x0020__x0028_biblio_x0029_>
+<Parc_x0020_Zoologique_x0020_de_x0020_Lunaret_x0020__x0028_observation-_x0020_biblio_x0029_>0</Parc_x0020_Zoologique_x0020_de_x0020_Lunaret_x0020__x0028_observation-_x0020_biblio_x0029_>
+<Strate>Arbre</Strate>
+<Source>Inventaire floristique et statut juridique (M. Perret Vicent, M. Bertrand Michel 1999).</Source>
+</Inventaire_x0020_floristique_x0020_PZL>
+<Inventaire_x0020_floristique_x0020_PZL>
+<ID>78</ID>
+<Nom_x0020_Scientifique>Taxus baccata</Nom_x0020_Scientifique>
+<Nom_x0020_Commun>If, If commun</Nom_x0020_Commun>
+<Famille>Taxaceae</Famille>
+<Formation_x0020_végétale>Magnophanérophytaie</Formation_x0020_végétale>
+<Statut_x0020_de_x0020_protection_x0020_inventaire_x0020__x0028_1999_x0029_>PN76: arrêtés protégeants les spp citées en vertu de la loi de 1976</Statut_x0020_de_x0020_protection_x0020_inventaire_x0020__x0028_1999_x0029_>
+<Habitat>Rochers et bois des montagnes, bois caducifoliés médioeuropéens,
+basophiles, oligotrophiles</Habitat>
+<Réserve_x0020__x0020__x0028_biblio_x0029_>1</Réserve_x0020__x0020__x0028_biblio_x0029_>
+<Parc_x0020_Zoologique_x0020_de_x0020_Lunaret_x0020__x0028_observation-_x0020_biblio_x0029_>0</Parc_x0020_Zoologique_x0020_de_x0020_Lunaret_x0020__x0028_observation-_x0020_biblio_x0029_>
+<Strate>Arbre/ arbuste</Strate>
+<Source>Inventaire floristique et statut juridique (M. Perret Vicent, M. Bertrand Michel 1999).</Source>
+</Inventaire_x0020_floristique_x0020_PZL>
+<Inventaire_x0020_floristique_x0020_PZL>
+<ID>79</ID>
+<Nom_x0020_Scientifique>Thymus vulgaris</Nom_x0020_Scientifique>
+<Nom_x0020_Commun>Farigoule, Thym commun, Thym cultivé</Nom_x0020_Commun>
+<Famille>Lamiaceae</Famille>
+<Formation_x0020_végétale>Hémicryptophytaie</Formation_x0020_végétale>
+<Statut_x0020_de_x0020_protection_x0020_inventaire_x0020__x0028_1999_x0029_>Aucune information disponible concernant le statut de protection.</Statut_x0020_de_x0020_protection_x0020_inventaire_x0020__x0028_1999_x0029_>
+<Habitat>Lieux secs et arides,  pelouses basophiles méditerranéennes</Habitat>
+<Réserve_x0020__x0020__x0028_biblio_x0029_>1</Réserve_x0020__x0020__x0028_biblio_x0029_>
+<Parc_x0020_Zoologique_x0020_de_x0020_Lunaret_x0020__x0028_observation-_x0020_biblio_x0029_>1</Parc_x0020_Zoologique_x0020_de_x0020_Lunaret_x0020__x0028_observation-_x0020_biblio_x0029_>
+<Strate>Arbuste</Strate>
+<Source>Inventaire floristique et statut juridique (M. Perret Vicent, M. Bertrand Michel 1999).</Source>
+</Inventaire_x0020_floristique_x0020_PZL>
+<Inventaire_x0020_floristique_x0020_PZL>
+<ID>80</ID>
+<Nom_x0020_Scientifique>Thymus serpyllum</Nom_x0020_Scientifique>
+<Nom_x0020_Commun>Serpolet, Thym serpolet</Nom_x0020_Commun>
+<Famille>Lamiaceae</Famille>
+<Formation_x0020_végétale>Hémicryptophytaie</Formation_x0020_végétale>
+<Statut_x0020_de_x0020_protection_x0020_inventaire_x0020__x0028_1999_x0029_>Aucune information disponible concernant le statut de protection</Statut_x0020_de_x0020_protection_x0020_inventaire_x0020__x0028_1999_x0029_>
+<Habitat>Lieux secs et arides, surtout calcaires, pelouses sabulicoles mobiles
+médioeuropéennes, acidophiles</Habitat>
+<Réserve_x0020__x0020__x0028_biblio_x0029_>1</Réserve_x0020__x0020__x0028_biblio_x0029_>
+<Parc_x0020_Zoologique_x0020_de_x0020_Lunaret_x0020__x0028_observation-_x0020_biblio_x0029_>0</Parc_x0020_Zoologique_x0020_de_x0020_Lunaret_x0020__x0028_observation-_x0020_biblio_x0029_>
+<Strate>Arbuste</Strate>
+<Source>Inventaire floristique et statut juridique (M. Perret Vicent, M. Bertrand Michel 1999).</Source>
+</Inventaire_x0020_floristique_x0020_PZL>
+<Inventaire_x0020_floristique_x0020_PZL>
+<ID>81</ID>
+<Nom_x0020_Scientifique>Typha latifolia</Nom_x0020_Scientifique>
+<Nom_x0020_Commun>Massette à larges feuilles, Quenouille à larges feuilles</Nom_x0020_Commun>
+<Famille>Typhaceae</Famille>
+<Formation_x0020_végétale>Hémicryptophytaie</Formation_x0020_végétale>
+<Statut_x0020_de_x0020_protection_x0020_inventaire_x0020__x0028_1999_x0029_>Aucune information disponible concernant le statut de protection</Statut_x0020_de_x0020_protection_x0020_inventaire_x0020__x0028_1999_x0029_>
+<Habitat>Mares, étangs, rivières.</Habitat>
+<Réserve_x0020__x0020__x0028_biblio_x0029_>1</Réserve_x0020__x0020__x0028_biblio_x0029_>
+<Parc_x0020_Zoologique_x0020_de_x0020_Lunaret_x0020__x0028_observation-_x0020_biblio_x0029_>0</Parc_x0020_Zoologique_x0020_de_x0020_Lunaret_x0020__x0028_observation-_x0020_biblio_x0029_>
+<Strate>Herbacée</Strate>
+<Source>Inventaire floristique et statut juridique (M. Perret Vicent, M. Bertrand Michel 1999).</Source>
+</Inventaire_x0020_floristique_x0020_PZL>
+<Inventaire_x0020_floristique_x0020_PZL>
+<ID>82</ID>
+<Nom_x0020_Scientifique>Tragopogon porrifolius</Nom_x0020_Scientifique>
+<Nom_x0020_Commun>Salsifis blanc, Salsifis à feuilles de poireau</Nom_x0020_Commun>
+<Famille>Asteraceae</Famille>
+<Formation_x0020_végétale>Hémicryptophytai</Formation_x0020_végétale>
+<Statut_x0020_de_x0020_protection_x0020_inventaire_x0020__x0028_1999_x0029_>Aucune information disponible concernant le statut de protection</Statut_x0020_de_x0020_protection_x0020_inventaire_x0020__x0028_1999_x0029_>
+<Habitat>Prairies  médioeuropéennes, hygrophiles
+de niveau topographique moyen, thermoatlantiques, fauchée</Habitat>
+<Réserve_x0020__x0020__x0028_biblio_x0029_>1</Réserve_x0020__x0020__x0028_biblio_x0029_>
+<Parc_x0020_Zoologique_x0020_de_x0020_Lunaret_x0020__x0028_observation-_x0020_biblio_x0029_>0</Parc_x0020_Zoologique_x0020_de_x0020_Lunaret_x0020__x0028_observation-_x0020_biblio_x0029_>
+<Strate>Herbacée</Strate>
+<Source>Inventaire floristique et statut juridique (M. Perret Vicent, M. Bertrand Michel 1999).</Source>
+</Inventaire_x0020_floristique_x0020_PZL>
+<Inventaire_x0020_floristique_x0020_PZL>
+<ID>83</ID>
+<Nom_x0020_Scientifique>Trifolium stellatum</Nom_x0020_Scientifique>
+<Nom_x0020_Commun>Trèfle étoilé</Nom_x0020_Commun>
+<Famille>Fabaceae</Famille>
+<Formation_x0020_végétale>Thérophytaie</Formation_x0020_végétale>
+<Statut_x0020_de_x0020_Protection_x0020_Régional>Autres régions</Statut_x0020_de_x0020_Protection_x0020_Régional>
+<Statut_x0020_de_x0020_protection_x0020_inventaire_x0020__x0028_1999_x0029_>Au niveau régional - Poitou-Charentes (54)</Statut_x0020_de_x0020_protection_x0020_inventaire_x0020__x0028_1999_x0029_>
+<Habitat>Champs et coteaux.</Habitat>
+<Réserve_x0020__x0020__x0028_biblio_x0029_>1</Réserve_x0020__x0020__x0028_biblio_x0029_>
+<Parc_x0020_Zoologique_x0020_de_x0020_Lunaret_x0020__x0028_observation-_x0020_biblio_x0029_>1</Parc_x0020_Zoologique_x0020_de_x0020_Lunaret_x0020__x0028_observation-_x0020_biblio_x0029_>
+<Strate>Herbacée</Strate>
+<Source>Inventaire floristique et statut juridique (M. Perret Vicent, M. Bertrand Michel 1999).</Source>
+</Inventaire_x0020_floristique_x0020_PZL>
+<Inventaire_x0020_floristique_x0020_PZL>
+<ID>84</ID>
+<Nom_x0020_Scientifique>Trifolium tomentosum</Nom_x0020_Scientifique>
+<Nom_x0020_Commun>Trèfle cotonneux, Trèfle tomenteux</Nom_x0020_Commun>
+<Famille>Fabaceae</Famille>
+<Formation_x0020_végétale>Thérophytaie</Formation_x0020_végétale>
+<Statut_x0020_de_x0020_protection_x0020_inventaire_x0020__x0028_1999_x0029_>Aucune information disponible concernant le statut de protection</Statut_x0020_de_x0020_protection_x0020_inventaire_x0020__x0028_1999_x0029_>
+<Habitat>Lieux secs et sablonneux, tonsures annuelles acidophiles,mésothermes</Habitat>
+<Réserve_x0020__x0020__x0028_biblio_x0029_>1</Réserve_x0020__x0020__x0028_biblio_x0029_>
+<Parc_x0020_Zoologique_x0020_de_x0020_Lunaret_x0020__x0028_observation-_x0020_biblio_x0029_>0</Parc_x0020_Zoologique_x0020_de_x0020_Lunaret_x0020__x0028_observation-_x0020_biblio_x0029_>
+<Strate>Herbacée</Strate>
+<Source>Inventaire floristique et statut juridique (M. Perret Vicent, M. Bertrand Michel 1999).</Source>
+</Inventaire_x0020_floristique_x0020_PZL>
+<Inventaire_x0020_floristique_x0020_PZL>
+<ID>85</ID>
+<Nom_x0020_Scientifique>Ulmus minor</Nom_x0020_Scientifique>
+<Nom_x0020_Commun>Orme champêtre, Ormeau, Petit Orme</Nom_x0020_Commun>
+<Famille>Ulmaceae</Famille>
+<Formation_x0020_végétale>Magnophanérophytaie</Formation_x0020_végétale>
+<Statut_x0020_de_x0020_protection_x0020_inventaire_x0020__x0028_1999_x0029_>Aucune information disponible concernant le statut de protection</Statut_x0020_de_x0020_protection_x0020_inventaire_x0020__x0028_1999_x0029_>
+<Habitat>Bois caducifoliés médioeuropéens,
+planitiaires-collinéens</Habitat>
+<Réserve_x0020__x0020__x0028_biblio_x0029_>1</Réserve_x0020__x0020__x0028_biblio_x0029_>
+<Parc_x0020_Zoologique_x0020_de_x0020_Lunaret_x0020__x0028_observation-_x0020_biblio_x0029_>1</Parc_x0020_Zoologique_x0020_de_x0020_Lunaret_x0020__x0028_observation-_x0020_biblio_x0029_>
+<Strate>Arbre/arbuste</Strate>
+<Source>Inventaire floristique et statut juridique (M. Perret Vicent, M. Bertrand Michel 1999).</Source>
+</Inventaire_x0020_floristique_x0020_PZL>
+<Inventaire_x0020_floristique_x0020_PZL>
+<ID>86</ID>
+<Nom_x0020_Scientifique>Urospermum dalechampii</Nom_x0020_Scientifique>
+<Nom_x0020_Commun>Urosperme de Daléchamps</Nom_x0020_Commun>
+<Famille>Asteraceae</Famille>
+<Formation_x0020_végétale> Hémicryptophytai</Formation_x0020_végétale>
+<Habitat> Pelouses basophiles méditerranéenne</Habitat>
+<Réserve_x0020__x0020__x0028_biblio_x0029_>1</Réserve_x0020__x0020__x0028_biblio_x0029_>
+<Parc_x0020_Zoologique_x0020_de_x0020_Lunaret_x0020__x0028_observation-_x0020_biblio_x0029_>1</Parc_x0020_Zoologique_x0020_de_x0020_Lunaret_x0020__x0028_observation-_x0020_biblio_x0029_>
+<Strate>Herbacée</Strate>
+<Source>Inventaire floristique et statut juridique (M. Perret Vicent, M. Bertrand Michel 1999).</Source>
+</Inventaire_x0020_floristique_x0020_PZL>
+<Inventaire_x0020_floristique_x0020_PZL>
+<ID>87</ID>
+<Nom_x0020_Scientifique>Utricularia vulgaris</Nom_x0020_Scientifique>
+<Nom_x0020_Commun>Utriculaire commune</Nom_x0020_Commun>
+<Famille>Lentibulariaceae</Famille>
+<Formation_x0020_végétale>Thérophytaie</Formation_x0020_végétale>
+<Statut_x0020_de_x0020_Protection_x0020_Régional>Autres régions. Rare selon VP</Statut_x0020_de_x0020_Protection_x0020_Régional>
+<Statut_x0020_de_x0020_protection_x0020_inventaire_x0020__x0028_1999_x0029_>A93,1: arrête du 9 septembre 1993 fixant la liste des spp protégées sur l&apos;ensemble du territoire. Rare. Au niveau régional - Alsace (42), Provence-Alpes-Côte d&apos;Azur (93), Limousin (74), Rhône-Alpes (82), Picardie (22), Centre (24)</Statut_x0020_de_x0020_protection_x0020_inventaire_x0020__x0028_1999_x0029_>
+<Habitat>Etangs, marais, tourbières, voiles de lentille aquatiques annuelles, mésotrophiles</Habitat>
+<Réserve_x0020__x0020__x0028_biblio_x0029_>1</Réserve_x0020__x0020__x0028_biblio_x0029_>
+<Parc_x0020_Zoologique_x0020_de_x0020_Lunaret_x0020__x0028_observation-_x0020_biblio_x0029_>0</Parc_x0020_Zoologique_x0020_de_x0020_Lunaret_x0020__x0028_observation-_x0020_biblio_x0029_>
+<Statut_x0020_ZNIEFF_x0020_à_x0020_l_x0027_échelle_x0020_régionale>Déterminante au Pyrénées.</Statut_x0020_ZNIEFF_x0020_à_x0020_l_x0027_échelle_x0020_régionale>
+<Strate>Herbacée</Strate>
+<Source>Inventaire floristique et statut juridique (M. Perret Vicent, M. Bertrand Michel 1999).</Source>
+</Inventaire_x0020_floristique_x0020_PZL>
+<Inventaire_x0020_floristique_x0020_PZL>
+<ID>88</ID>
+<Nom_x0020_Scientifique>Vallisneria spiralis</Nom_x0020_Scientifique>
+<Nom_x0020_Commun>Vallisnérie, Vallisnérie en spirale</Nom_x0020_Commun>
+<Famille>Hydrocharitaceae</Famille>
+<Formation_x0020_végétale>Hémicryptophytaie</Formation_x0020_végétale>
+<Statut_x0020_de_x0020_Protection_x0020_Régional>Rare selon VP</Statut_x0020_de_x0020_Protection_x0020_Régional>
+<Statut_x0020_de_x0020_protection_x0020_inventaire_x0020__x0028_1999_x0029_>Rare. Au niveau régional - Provence-Alpes-Côte d&apos;Azur (93) et Lorraine (41)</Statut_x0020_de_x0020_protection_x0020_inventaire_x0020__x0028_1999_x0029_>
+<Habitat>herbiers vivaces enracinés dulcaquicoles, des eaux courantes peu profondes</Habitat>
+<Réserve_x0020__x0020__x0028_biblio_x0029_>1</Réserve_x0020__x0020__x0028_biblio_x0029_>
+<Parc_x0020_Zoologique_x0020_de_x0020_Lunaret_x0020__x0028_observation-_x0020_biblio_x0029_>0</Parc_x0020_Zoologique_x0020_de_x0020_Lunaret_x0020__x0028_observation-_x0020_biblio_x0029_>
+<Statut_x0020_ZNIEFF_x0020_à_x0020_l_x0027_échelle_x0020_régionale>Autres régions.</Statut_x0020_ZNIEFF_x0020_à_x0020_l_x0027_échelle_x0020_régionale>
+<Strate>Herbacée</Strate>
+<Source>Inventaire floristique et statut juridique (M. Perret Vicent, M. Bertrand Michel 1999).</Source>
+</Inventaire_x0020_floristique_x0020_PZL>
+<Inventaire_x0020_floristique_x0020_PZL>
+<ID>89</ID>
+<Nom_x0020_Scientifique>Verbascum densiflorum</Nom_x0020_Scientifique>
+<Nom_x0020_Commun>Molène faux bouillon blanc, Molène à fleurs denses</Nom_x0020_Commun>
+<Famille>Scrophulariaceae</Famille>
+<Formation_x0020_végétale>Hémicryptophytaie</Formation_x0020_végétale>
+<Statut_x0020_de_x0020_protection_x0020_inventaire_x0020__x0028_1999_x0029_>Aucune information disponible concernant le statut de protection</Statut_x0020_de_x0020_protection_x0020_inventaire_x0020__x0028_1999_x0029_>
+<Habitat>Friches vivaces xérophiles, médioeuropéennes, mésothermes.</Habitat>
+<Réserve_x0020__x0020__x0028_biblio_x0029_>1</Réserve_x0020__x0020__x0028_biblio_x0029_>
+<Parc_x0020_Zoologique_x0020_de_x0020_Lunaret_x0020__x0028_observation-_x0020_biblio_x0029_>1</Parc_x0020_Zoologique_x0020_de_x0020_Lunaret_x0020__x0028_observation-_x0020_biblio_x0029_>
+<Source>Inventaire floristique et statut juridique (M. Perret Vicent, M. Bertrand Michel 1999).</Source>
+</Inventaire_x0020_floristique_x0020_PZL>
+<Inventaire_x0020_floristique_x0020_PZL>
+<ID>90</ID>
+<Nom_x0020_Scientifique>Verbascum sinuatum</Nom_x0020_Scientifique>
+<Nom_x0020_Commun>Molène sinuée</Nom_x0020_Commun>
+<Famille>Scrophulariaceae</Famille>
+<Formation_x0020_végétale>Hémicryptophytaie</Formation_x0020_végétale>
+<Statut_x0020_de_x0020_protection_x0020_inventaire_x0020__x0028_1999_x0029_>Aucune information disponible concernant le statut de protection</Statut_x0020_de_x0020_protection_x0020_inventaire_x0020__x0028_1999_x0029_>
+<Habitat>Friches vivaces xérophiles,
+méditerranéenne</Habitat>
+<Réserve_x0020__x0020__x0028_biblio_x0029_>1</Réserve_x0020__x0020__x0028_biblio_x0029_>
+<Parc_x0020_Zoologique_x0020_de_x0020_Lunaret_x0020__x0028_observation-_x0020_biblio_x0029_>1</Parc_x0020_Zoologique_x0020_de_x0020_Lunaret_x0020__x0028_observation-_x0020_biblio_x0029_>
+<Strate>Herbacée</Strate>
+<Source>Inventaire floristique et statut juridique (M. Perret Vicent, M. Bertrand Michel 1999).</Source>
+</Inventaire_x0020_floristique_x0020_PZL>
+<Inventaire_x0020_floristique_x0020_PZL>
+<ID>91</ID>
+<Nom_x0020_Scientifique>Viburnum tinus</Nom_x0020_Scientifique>
+<Nom_x0020_Commun>Laurier-tin, Viorne-tin</Nom_x0020_Commun>
+<Famille>Caprifoliaceae</Famille>
+<Formation_x0020_végétale>Parvophanérophytaie</Formation_x0020_végétale>
+<Statut_x0020_de_x0020_protection_x0020_inventaire_x0020__x0028_1999_x0029_>Aucune information disponible concernant le statut de protection</Statut_x0020_de_x0020_protection_x0020_inventaire_x0020__x0028_1999_x0029_>
+<Habitat>Bois et garrigues, matorrals méditerranéens, sciaphiles</Habitat>
+<Réserve_x0020__x0020__x0028_biblio_x0029_>1</Réserve_x0020__x0020__x0028_biblio_x0029_>
+<Parc_x0020_Zoologique_x0020_de_x0020_Lunaret_x0020__x0028_observation-_x0020_biblio_x0029_>1</Parc_x0020_Zoologique_x0020_de_x0020_Lunaret_x0020__x0028_observation-_x0020_biblio_x0029_>
+<Strate>Arbuste</Strate>
+<Source>Inventaire floristique et statut juridique (M. Perret Vicent, M. Bertrand Michel 1999). Observation sur le terrain, juin 2011.</Source>
+</Inventaire_x0020_floristique_x0020_PZL>
+<Inventaire_x0020_floristique_x0020_PZL>
+<ID>92</ID>
+<Nom_x0020_Scientifique>Vicia hybrida</Nom_x0020_Scientifique>
+<Nom_x0020_Commun>Vesce bâtarde, Vesce hybride</Nom_x0020_Commun>
+<Famille>Fabaceae</Famille>
+<Formation_x0020_végétale> Thérophytaie</Formation_x0020_végétale>
+<Statut_x0020_de_x0020_protection_x0020_inventaire_x0020__x0028_1999_x0029_>Aucune information disponible concernant le statut de protection</Statut_x0020_de_x0020_protection_x0020_inventaire_x0020__x0028_1999_x0029_>
+<Habitat>Tonsures annuelles basophiles,
+Aéromésohydriques, méso à subméditerranéennes</Habitat>
+<Réserve_x0020__x0020__x0028_biblio_x0029_>1</Réserve_x0020__x0020__x0028_biblio_x0029_>
+<Parc_x0020_Zoologique_x0020_de_x0020_Lunaret_x0020__x0028_observation-_x0020_biblio_x0029_>1</Parc_x0020_Zoologique_x0020_de_x0020_Lunaret_x0020__x0028_observation-_x0020_biblio_x0029_>
+<Strate>Herbacée</Strate>
+<Source>Inventaire floristique et statut juridique (M. Perret Vicent, M. Bertrand Michel 1999).</Source>
+</Inventaire_x0020_floristique_x0020_PZL>
+<Inventaire_x0020_floristique_x0020_PZL>
+<ID>93</ID>
+<Nom_x0020_Scientifique>Vinca minor</Nom_x0020_Scientifique>
+<Nom_x0020_Commun>Petite Pervenche</Nom_x0020_Commun>
+<Famille>Apocynaceae</Famille>
+<Formation_x0020_végétale>Hémicryptophytaie</Formation_x0020_végétale>
+<Statut_x0020_de_x0020_protection_x0020_inventaire_x0020__x0028_1999_x0029_>Aucune information disponible concernant le statut de protection</Statut_x0020_de_x0020_protection_x0020_inventaire_x0020__x0028_1999_x0029_>
+<Habitat>Sous-bois herbacés médioeuropéens,
+planitiaires à montagnards</Habitat>
+<Réserve_x0020__x0020__x0028_biblio_x0029_>1</Réserve_x0020__x0020__x0028_biblio_x0029_>
+<Parc_x0020_Zoologique_x0020_de_x0020_Lunaret_x0020__x0028_observation-_x0020_biblio_x0029_>0</Parc_x0020_Zoologique_x0020_de_x0020_Lunaret_x0020__x0028_observation-_x0020_biblio_x0029_>
+<Strate>Herbacée</Strate>
+<Source>Inventaire floristique et statut juridique (M. Perret Vicent, M. Bertrand Michel 1999).</Source>
+</Inventaire_x0020_floristique_x0020_PZL>
+<Inventaire_x0020_floristique_x0020_PZL>
+<ID>94</ID>
+<Nom_x0020_Scientifique>Vitis vinifera</Nom_x0020_Scientifique>
+<Nom_x0020_Commun>Vigne, Vigne cultivée</Nom_x0020_Commun>
+<Famille>Vitaceae</Famille>
+<Formation_x0020_végétale>Parvophanérophytaie</Formation_x0020_végétale>
+<Statut_x0020_de_x0020_protection_x0020_inventaire_x0020__x0028_1999_x0029_>A93,1: arrête du 9 septembre 1993 fixant la liste des spp protégées sur l&apos;ensemble du territoire. Rare. Pas la même sub-espèce: Vitis vinifera L. subsp. Sylvestris</Statut_x0020_de_x0020_protection_x0020_inventaire_x0020__x0028_1999_x0029_>
+<Habitat>Lianes grimpantes sur parois et arbres</Habitat>
+<Réserve_x0020__x0020__x0028_biblio_x0029_>1</Réserve_x0020__x0020__x0028_biblio_x0029_>
+<Parc_x0020_Zoologique_x0020_de_x0020_Lunaret_x0020__x0028_observation-_x0020_biblio_x0029_>1</Parc_x0020_Zoologique_x0020_de_x0020_Lunaret_x0020__x0028_observation-_x0020_biblio_x0029_>
+<Strate>Liane</Strate>
+<Source>Inventaire floristique et statut juridique (M. Perret Vicent, M. Bertrand Michel 1999).</Source>
+</Inventaire_x0020_floristique_x0020_PZL>
+<Inventaire_x0020_floristique_x0020_PZL>
+<ID>95</ID>
+<Nom_x0020_Scientifique>Sedum sp</Nom_x0020_Scientifique>
+<Nom_x0020_Commun>Sedum</Nom_x0020_Commun>
+<Famille>Crassulaceae</Famille>
+<Formation_x0020_végétale>Hémicryptophytaie</Formation_x0020_végétale>
+<Statut_x0020_de_x0020_protection_x0020_inventaire_x0020__x0028_1999_x0029_>Aucune information disponible concernant le statut de protection</Statut_x0020_de_x0020_protection_x0020_inventaire_x0020__x0028_1999_x0029_>
+<Réserve_x0020__x0020__x0028_biblio_x0029_>1</Réserve_x0020__x0020__x0028_biblio_x0029_>
+<Parc_x0020_Zoologique_x0020_de_x0020_Lunaret_x0020__x0028_observation-_x0020_biblio_x0029_>1</Parc_x0020_Zoologique_x0020_de_x0020_Lunaret_x0020__x0028_observation-_x0020_biblio_x0029_>
+<Source>Inventaire floristique et statut juridique (M. Perret Vicent, M. Bertrand Michel 1999).</Source>
+</Inventaire_x0020_floristique_x0020_PZL>
+<Inventaire_x0020_floristique_x0020_PZL>
+<ID>96</ID>
+<Nom_x0020_Scientifique>Sequoia cf. sempervirens</Nom_x0020_Scientifique>
+<Nom_x0020_Commun>Sequoia</Nom_x0020_Commun>
+<Famille>Taxodiaceae</Famille>
+<Statut_x0020_de_x0020_protection_x0020_inventaire_x0020__x0028_1999_x0029_>Aucune information disponible concernant le statut de protection</Statut_x0020_de_x0020_protection_x0020_inventaire_x0020__x0028_1999_x0029_>
+<Réserve_x0020__x0020__x0028_biblio_x0029_>1</Réserve_x0020__x0020__x0028_biblio_x0029_>
+<Parc_x0020_Zoologique_x0020_de_x0020_Lunaret_x0020__x0028_observation-_x0020_biblio_x0029_>0</Parc_x0020_Zoologique_x0020_de_x0020_Lunaret_x0020__x0028_observation-_x0020_biblio_x0029_>
+<Strate>Arbre</Strate>
+<Source>Inventaire floristique et statut juridique (M. Perret Vicent, M. Bertrand Michel 1999).</Source>
+</Inventaire_x0020_floristique_x0020_PZL>
+<Inventaire_x0020_floristique_x0020_PZL>
+<ID>97</ID>
+<Nom_x0020_Scientifique>Platanus x hispanica</Nom_x0020_Scientifique>
+<Nom_x0020_Commun>Platane, Platane commun, Platane à feuilles d&apos;érable</Nom_x0020_Commun>
+<Famille>Platanaceae</Famille>
+<Formation_x0020_végétale>Magnophanérophytaie</Formation_x0020_végétale>
+<Statut_x0020_de_x0020_protection_x0020_inventaire_x0020__x0028_1999_x0029_>Aucune information disponible concernant le statut de protection</Statut_x0020_de_x0020_protection_x0020_inventaire_x0020__x0028_1999_x0029_>
+<Habitat>Bois caducifoliés médioeuropéens, hydrophiles</Habitat>
+<Réserve_x0020__x0020__x0028_biblio_x0029_>1</Réserve_x0020__x0020__x0028_biblio_x0029_>
+<Parc_x0020_Zoologique_x0020_de_x0020_Lunaret_x0020__x0028_observation-_x0020_biblio_x0029_>0</Parc_x0020_Zoologique_x0020_de_x0020_Lunaret_x0020__x0028_observation-_x0020_biblio_x0029_>
+<Strate>Abre</Strate>
+<Source>Inventaire floristique et statut juridique (M. Perret Vicent, M. Bertrand Michel 1999).</Source>
+</Inventaire_x0020_floristique_x0020_PZL>
+<Inventaire_x0020_floristique_x0020_PZL>
+<ID>98</ID>
+<Nom_x0020_Scientifique>Euphorbia helioscopia L.</Nom_x0020_Scientifique>
+<Nom_x0020_Commun>Euphorbe réveil-matin,  Herbe aux verrues, Petite Éclaire</Nom_x0020_Commun>
+<Famille>Euphorbiaceae</Famille>
+<Formation_x0020_végétale>Thérophytaie</Formation_x0020_végétale>
+<Statut_x0020_de_x0020_protection_x0020_inventaire_x0020__x0028_1999_x0029_>Aucune information disponible concernant le statut de protection.</Statut_x0020_de_x0020_protection_x0020_inventaire_x0020__x0028_1999_x0029_>
+<Habitat>Annuelles commensales des cultures sarclées basophiles, médioeuropéennes, mésothermes</Habitat>
+<Réserve_x0020__x0020__x0028_biblio_x0029_>1</Réserve_x0020__x0020__x0028_biblio_x0029_>
+<Parc_x0020_Zoologique_x0020_de_x0020_Lunaret_x0020__x0028_observation-_x0020_biblio_x0029_>1</Parc_x0020_Zoologique_x0020_de_x0020_Lunaret_x0020__x0028_observation-_x0020_biblio_x0029_>
+<Strate>Herbacée</Strate>
+<Source>Inventaire floristique et statut juridique (M. Perret Vicent, M. Bertrand Michel 1999).</Source>
+</Inventaire_x0020_floristique_x0020_PZL>
+<Inventaire_x0020_floristique_x0020_PZL>
+<ID>99</ID>
+<Nom_x0020_Scientifique>Euphorbia palustris L.</Nom_x0020_Scientifique>
+<Nom_x0020_Commun>Euphorbe des marais</Nom_x0020_Commun>
+<Famille>Euphorbiaceae</Famille>
+<Formation_x0020_végétale>Hémicryptophytaie</Formation_x0020_végétale>
+<Statut_x0020_de_x0020_Protection_x0020_Régional>Autres régions</Statut_x0020_de_x0020_Protection_x0020_Régional>
+<Statut_x0020_de_x0020_protection_x0020_inventaire_x0020__x0028_1999_x0029_>Au niveau régional Alsace (42); Bourgogne (26); Pays de la Loire (52); Rhône-Alpes (82); Franche-Comté (43); Lorraine (41); Picardie (22);</Statut_x0020_de_x0020_protection_x0020_inventaire_x0020__x0028_1999_x0029_>
+<Habitat>Marais, lieux humides, mégaphorbiaies
+planitiaires-collinéennes</Habitat>
+<Réserve_x0020__x0020__x0028_biblio_x0029_>1</Réserve_x0020__x0020__x0028_biblio_x0029_>
+<Parc_x0020_Zoologique_x0020_de_x0020_Lunaret_x0020__x0028_observation-_x0020_biblio_x0029_>1</Parc_x0020_Zoologique_x0020_de_x0020_Lunaret_x0020__x0028_observation-_x0020_biblio_x0029_>
+<Strate>Herbacée</Strate>
+<Source>Inventaire floristique et statut juridique (M. Perret Vicent, M. Bertrand Michel 1999).</Source>
+</Inventaire_x0020_floristique_x0020_PZL>
+<Inventaire_x0020_floristique_x0020_PZL>
+<ID>100</ID>
+<Nom_x0020_Scientifique>Festuca  cf. arundinacea</Nom_x0020_Scientifique>
+<Nom_x0020_Commun>Fétuque</Nom_x0020_Commun>
+<Famille>Poaceae</Famille>
+<Formation_x0020_végétale>Hémicryptophytai</Formation_x0020_végétale>
+<Habitat>Friches vivaces xérophiles, méditerranéennes</Habitat>
+<Réserve_x0020__x0020__x0028_biblio_x0029_>1</Réserve_x0020__x0020__x0028_biblio_x0029_>
+<Parc_x0020_Zoologique_x0020_de_x0020_Lunaret_x0020__x0028_observation-_x0020_biblio_x0029_>1</Parc_x0020_Zoologique_x0020_de_x0020_Lunaret_x0020__x0028_observation-_x0020_biblio_x0029_>
+<Strate>Herbacée</Strate>
+<Source>Inventaire floristique et statut juridique (M. Perret Vicent, M. Bertrand Michel 1999).</Source>
+</Inventaire_x0020_floristique_x0020_PZL>
+<Inventaire_x0020_floristique_x0020_PZL>
+<ID>101</ID>
+<Nom_x0020_Scientifique>Ranunculus ficaria L.</Nom_x0020_Scientifique>
+<Nom_x0020_Commun>Ficaire fausse renoncule, Renoncule ficaire</Nom_x0020_Commun>
+<Famille>Ranunculaceae</Famille>
+<Formation_x0020_végétale>Hémicryptophytaie</Formation_x0020_végétale>
+<Statut_x0020_de_x0020_protection_x0020_inventaire_x0020__x0028_1999_x0029_>Aucune information disponible concernant le statut de protection.</Statut_x0020_de_x0020_protection_x0020_inventaire_x0020__x0028_1999_x0029_>
+<Habitat>Sous-bois herbacés médioeuropéens, basophiles, hygrophiles</Habitat>
+<Réserve_x0020__x0020__x0028_biblio_x0029_>1</Réserve_x0020__x0020__x0028_biblio_x0029_>
+<Parc_x0020_Zoologique_x0020_de_x0020_Lunaret_x0020__x0028_observation-_x0020_biblio_x0029_>0</Parc_x0020_Zoologique_x0020_de_x0020_Lunaret_x0020__x0028_observation-_x0020_biblio_x0029_>
+<Strate>Herbacée</Strate>
+<Source>Inventaire floristique et statut juridique (M. Perret Vicent, M. Bertrand Michel 1999).</Source>
+</Inventaire_x0020_floristique_x0020_PZL>
+<Inventaire_x0020_floristique_x0020_PZL>
+<ID>104</ID>
+<Nom_x0020_Scientifique>Ficus carica L</Nom_x0020_Scientifique>
+<Nom_x0020_Commun>Figuier</Nom_x0020_Commun>
+<Famille>Moraceae</Famille>
+<Formation_x0020_végétale>Parvophanérophytaie</Formation_x0020_végétale>
+<Statut_x0020_de_x0020_protection_x0020_inventaire_x0020__x0028_1999_x0029_>Aucune information disponible concernant le statut de protection.</Statut_x0020_de_x0020_protection_x0020_inventaire_x0020__x0028_1999_x0029_>
+<Habitat>Matorrals mésoméditerranéens, héliophiles, neutroclines</Habitat>
+<Réserve_x0020__x0020__x0028_biblio_x0029_>1</Réserve_x0020__x0020__x0028_biblio_x0029_>
+<Parc_x0020_Zoologique_x0020_de_x0020_Lunaret_x0020__x0028_observation-_x0020_biblio_x0029_>1</Parc_x0020_Zoologique_x0020_de_x0020_Lunaret_x0020__x0028_observation-_x0020_biblio_x0029_>
+<Strate>Arbre</Strate>
+<Source>Inventaire floristique et statut juridique (M. Perret Vicent, M. Bertrand Michel 1999).</Source>
+</Inventaire_x0020_floristique_x0020_PZL>
+<Inventaire_x0020_floristique_x0020_PZL>
+<ID>105</ID>
+<Nom_x0020_Scientifique>Foeniculum vulgare Mill.</Nom_x0020_Scientifique>
+<Nom_x0020_Commun>Fenouil, Fenouil commun</Nom_x0020_Commun>
+<Famille>Apiaceae</Famille>
+<Formation_x0020_végétale>Hémicryptophytaie</Formation_x0020_végétale>
+<Statut_x0020_de_x0020_protection_x0020_inventaire_x0020__x0028_1999_x0029_>Aucune information disponible concernant le statut de protection.</Statut_x0020_de_x0020_protection_x0020_inventaire_x0020__x0028_1999_x0029_>
+<Habitat>Friches vivaces xérophiles, médioeuropéennes</Habitat>
+<Réserve_x0020__x0020__x0028_biblio_x0029_>1</Réserve_x0020__x0020__x0028_biblio_x0029_>
+<Parc_x0020_Zoologique_x0020_de_x0020_Lunaret_x0020__x0028_observation-_x0020_biblio_x0029_>1</Parc_x0020_Zoologique_x0020_de_x0020_Lunaret_x0020__x0028_observation-_x0020_biblio_x0029_>
+<Strate>Herbacée</Strate>
+<Source>Inventaire floristique et statut juridique (M. Perret Vicent, M. Bertrand Michel 1999).</Source>
+</Inventaire_x0020_floristique_x0020_PZL>
+<Inventaire_x0020_floristique_x0020_PZL>
+<ID>106</ID>
+<Nom_x0020_Scientifique>Fraxinus angustifolia</Nom_x0020_Scientifique>
+<Nom_x0020_Commun>Frêne du Midi, Frêne à feuilles étroites</Nom_x0020_Commun>
+<Famille>Oleaceae</Famille>
+<Formation_x0020_végétale>Magnophanérophytaie</Formation_x0020_végétale>
+<Statut_x0020_de_x0020_Protection_x0020_Régional>Autres régions</Statut_x0020_de_x0020_Protection_x0020_Régional>
+<Statut_x0020_de_x0020_protection_x0020_inventaire_x0020__x0028_1999_x0029_>Au niveau régional Auvergne (83)</Statut_x0020_de_x0020_protection_x0020_inventaire_x0020__x0028_1999_x0029_>
+<Habitat>Bois, haies, ravins, bois caducifoliés médioeuropéens, hydrophiles, subméditerranéens</Habitat>
+<Réserve_x0020__x0020__x0028_biblio_x0029_>1</Réserve_x0020__x0020__x0028_biblio_x0029_>
+<Parc_x0020_Zoologique_x0020_de_x0020_Lunaret_x0020__x0028_observation-_x0020_biblio_x0029_>0</Parc_x0020_Zoologique_x0020_de_x0020_Lunaret_x0020__x0028_observation-_x0020_biblio_x0029_>
+<Strate>Arbre</Strate>
+<Source>Observation par Vincent Perret (juin 2011)</Source>
+</Inventaire_x0020_floristique_x0020_PZL>
+<Inventaire_x0020_floristique_x0020_PZL>
+<ID>107</ID>
+<Nom_x0020_Scientifique>Fraxinus ornus L</Nom_x0020_Scientifique>
+<Nom_x0020_Commun>Frêne orne, Frêne à fleurs, Frêne à manne, Orne</Nom_x0020_Commun>
+<Famille>Oleaceae</Famille>
+<Statut_x0020_de_x0020_protection_x0020_inventaire_x0020__x0028_1999_x0029_>Aucune information disponible concernant le statut de protection</Statut_x0020_de_x0020_protection_x0020_inventaire_x0020__x0028_1999_x0029_>
+<Habitat>Haies et bois frais.</Habitat>
+<Réserve_x0020__x0020__x0028_biblio_x0029_>1</Réserve_x0020__x0020__x0028_biblio_x0029_>
+<Parc_x0020_Zoologique_x0020_de_x0020_Lunaret_x0020__x0028_observation-_x0020_biblio_x0029_>1</Parc_x0020_Zoologique_x0020_de_x0020_Lunaret_x0020__x0028_observation-_x0020_biblio_x0029_>
+<Strate>Arbre</Strate>
+<Source>Inventaire floristique et statut juridique (M. Perret Vicent, M. Bertrand Michel 1999).</Source>
+</Inventaire_x0020_floristique_x0020_PZL>
+<Inventaire_x0020_floristique_x0020_PZL>
+<ID>108</ID>
+<Nom_x0020_Scientifique>Galium aparine L.</Nom_x0020_Scientifique>
+<Nom_x0020_Commun>Gaillet accrochant, Gaillet gratteron, Herbe collante</Nom_x0020_Commun>
+<Famille>Rubiaceae</Famille>
+<Formation_x0020_végétale>Thérophytaie</Formation_x0020_végétale>
+<Statut_x0020_de_x0020_protection_x0020_inventaire_x0020__x0028_1999_x0029_>Aucune information disponible concernant le statut de protection.</Statut_x0020_de_x0020_protection_x0020_inventaire_x0020__x0028_1999_x0029_>
+<Habitat>Haies, buissons, champs cultivés</Habitat>
+<Réserve_x0020__x0020__x0028_biblio_x0029_>1</Réserve_x0020__x0020__x0028_biblio_x0029_>
+<Parc_x0020_Zoologique_x0020_de_x0020_Lunaret_x0020__x0028_observation-_x0020_biblio_x0029_>1</Parc_x0020_Zoologique_x0020_de_x0020_Lunaret_x0020__x0028_observation-_x0020_biblio_x0029_>
+<Strate>Herbacée</Strate>
+<Source>Inventaire floristique et statut juridique (M. Perret Vicent, M. Bertrand Michel 1999).</Source>
+</Inventaire_x0020_floristique_x0020_PZL>
+<Inventaire_x0020_floristique_x0020_PZL>
+<ID>109</ID>
+<Nom_x0020_Scientifique>Genista scorpius (L.) DC.</Nom_x0020_Scientifique>
+<Nom_x0020_Commun>Genêt scorpion, Genêt épineux,  Épine fleuri</Nom_x0020_Commun>
+<Famille>Fabaceae</Famille>
+<Formation_x0020_végétale>Chaméphytaie</Formation_x0020_végétale>
+<Statut_x0020_de_x0020_protection_x0020_inventaire_x0020__x0028_1999_x0029_>Aucune information disponible concernant le statut de protection</Statut_x0020_de_x0020_protection_x0020_inventaire_x0020__x0028_1999_x0029_>
+<Habitat>Garrigues méditerranéennes occidentale</Habitat>
+<Réserve_x0020__x0020__x0028_biblio_x0029_>1</Réserve_x0020__x0020__x0028_biblio_x0029_>
+<Parc_x0020_Zoologique_x0020_de_x0020_Lunaret_x0020__x0028_observation-_x0020_biblio_x0029_>0</Parc_x0020_Zoologique_x0020_de_x0020_Lunaret_x0020__x0028_observation-_x0020_biblio_x0029_>
+<Strate>Arbuste</Strate>
+<Source>Inventaire floristique et statut juridique (M. Perret Vicent, M. Bertrand Michel 1999).</Source>
+</Inventaire_x0020_floristique_x0020_PZL>
+<Inventaire_x0020_floristique_x0020_PZL>
+<ID>110</ID>
+<Nom_x0020_Scientifique>Galium verum L.</Nom_x0020_Scientifique>
+<Nom_x0020_Commun>Caille-lait jaune, Gaillet jaune, Gaillet vrai</Nom_x0020_Commun>
+<Famille>Rubiaceae</Famille>
+<Formation_x0020_végétale>Hémicryptophytaie</Formation_x0020_végétale>
+<Statut_x0020_de_x0020_protection_x0020_inventaire_x0020__x0028_1999_x0029_>Aucune information disponible concernant le statut de protection</Statut_x0020_de_x0020_protection_x0020_inventaire_x0020__x0028_1999_x0029_>
+<Habitat>Prairies et pelouses, pelouses basophiles médioeuropéennes</Habitat>
+<Réserve_x0020__x0020__x0028_biblio_x0029_>1</Réserve_x0020__x0020__x0028_biblio_x0029_>
+<Parc_x0020_Zoologique_x0020_de_x0020_Lunaret_x0020__x0028_observation-_x0020_biblio_x0029_>1</Parc_x0020_Zoologique_x0020_de_x0020_Lunaret_x0020__x0028_observation-_x0020_biblio_x0029_>
+<Strate>Herbacée</Strate>
+<Source>Inventaire floristique et statut juridique (M. Perret Vicent, M. Bertrand Michel 1999).</Source>
+</Inventaire_x0020_floristique_x0020_PZL>
+<Inventaire_x0020_floristique_x0020_PZL>
+<ID>111</ID>
+<Nom_x0020_Scientifique>Hedera helix L</Nom_x0020_Scientifique>
+<Nom_x0020_Commun>Bourreau-des-arbres,  Herbe de saint Jean,</Nom_x0020_Commun>
+<Famille>Araliaceae</Famille>
+<Formation_x0020_végétale>Hémicryptophytaie</Formation_x0020_végétale>
+<Statut_x0020_de_x0020_protection_x0020_inventaire_x0020__x0028_1999_x0029_>Aucune information disponible concernant le statut de protection</Statut_x0020_de_x0020_protection_x0020_inventaire_x0020__x0028_1999_x0029_>
+<Habitat>Bois, murs, rochers, sous-bois herbacés médioeuropéens, planitiaires à montagnards</Habitat>
+<Réserve_x0020__x0020__x0028_biblio_x0029_>1</Réserve_x0020__x0020__x0028_biblio_x0029_>
+<Parc_x0020_Zoologique_x0020_de_x0020_Lunaret_x0020__x0028_observation-_x0020_biblio_x0029_>1</Parc_x0020_Zoologique_x0020_de_x0020_Lunaret_x0020__x0028_observation-_x0020_biblio_x0029_>
+<Strate>Arbuste</Strate>
+<Source>Inventaire floristique et statut juridique (M. Perret Vicent, M. Bertrand Michel 1999).</Source>
+</Inventaire_x0020_floristique_x0020_PZL>
+<Inventaire_x0020_floristique_x0020_PZL>
+<ID>112</ID>
+<Nom_x0020_Scientifique>Helianthemum syriacum</Nom_x0020_Scientifique>
+<Nom_x0020_Commun>Hélianthème de Syrie, Hélianthème à feuilles de lavande</Nom_x0020_Commun>
+<Famille> Cistacea</Famille>
+<Formation_x0020_végétale>Chaméphytaie</Formation_x0020_végétale>
+<Statut_x0020_de_x0020_Protection_x0020_National>Annexe 1: Arrêté du 20 janvier 1982 relatif à la liste des espèces végétales protégées sur l&apos;ensemble du territoire, modifié par l&apos;arrêté du 31 août 1995.</Statut_x0020_de_x0020_Protection_x0020_National>
+<Statut_x0020_de_x0020_protection_x0020_inventaire_x0020__x0028_1999_x0029_>PN76: arrêtés protégeants les spp citées en vertu de la loi de 1976</Statut_x0020_de_x0020_protection_x0020_inventaire_x0020__x0028_1999_x0029_>
+<Habitat>Bois et lieux sablonneux, garrigues méditerranéennes occidentales</Habitat>
+<Réserve_x0020__x0020__x0028_biblio_x0029_>1</Réserve_x0020__x0020__x0028_biblio_x0029_>
+<Parc_x0020_Zoologique_x0020_de_x0020_Lunaret_x0020__x0028_observation-_x0020_biblio_x0029_>0</Parc_x0020_Zoologique_x0020_de_x0020_Lunaret_x0020__x0028_observation-_x0020_biblio_x0029_>
+<Strate>Herbacée</Strate>
+<Source>Inventaire floristique et statut juridique (M. Perret Vicent, M. Bertrand Michel 1999).</Source>
+</Inventaire_x0020_floristique_x0020_PZL>
+<Inventaire_x0020_floristique_x0020_PZL>
+<ID>113</ID>
+<Nom_x0020_Scientifique>Himantoglossum hircinum</Nom_x0020_Scientifique>
+<Nom_x0020_Commun>Barbe-de-bouc, BouquinHimantoglosse à
+odeur de bouc</Nom_x0020_Commun>
+<Famille>Orchidaceae</Famille>
+<Formation_x0020_végétale>Hémicryptophytaie</Formation_x0020_végétale>
+<Statut_x0020_de_x0020_Protection_x0020_Régional>Autres régions</Statut_x0020_de_x0020_Protection_x0020_Régional>
+<Statut_x0020_de_x0020_protection_x0020_inventaire_x0020__x0028_1999_x0029_>Au niveau départemental Loire (42); Rhône-Alpes</Statut_x0020_de_x0020_protection_x0020_inventaire_x0020__x0028_1999_x0029_>
+<Habitat>Pelouses basophiles médioeuropéennes occidentales</Habitat>
+<Réserve_x0020__x0020__x0028_biblio_x0029_>1</Réserve_x0020__x0020__x0028_biblio_x0029_>
+<Parc_x0020_Zoologique_x0020_de_x0020_Lunaret_x0020__x0028_observation-_x0020_biblio_x0029_>1</Parc_x0020_Zoologique_x0020_de_x0020_Lunaret_x0020__x0028_observation-_x0020_biblio_x0029_>
+<Strate>Herbacée</Strate>
+<Source>Inventaire floristique et statut juridique (M. Perret Vicent, M. Bertrand Michel 1999).</Source>
+</Inventaire_x0020_floristique_x0020_PZL>
+<Inventaire_x0020_floristique_x0020_PZL>
+<ID>114</ID>
+<Nom_x0020_Scientifique>Ilex aquifolium L.</Nom_x0020_Scientifique>
+<Nom_x0020_Commun> Houx</Nom_x0020_Commun>
+<Famille>Aquifoliaceae</Famille>
+<Formation_x0020_végétale>Parvophanérophytaie</Formation_x0020_végétale>
+<Statut_x0020_de_x0020_Protection_x0020_Régional>Autres régions</Statut_x0020_de_x0020_Protection_x0020_Régional>
+<Statut_x0020_de_x0020_protection_x0020_inventaire_x0020__x0028_1999_x0029_>Au au niveau départemental Isère (38)</Statut_x0020_de_x0020_protection_x0020_inventaire_x0020__x0028_1999_x0029_>
+<Habitat>Haies et bois, fourrés arbustifs médioeuropéens</Habitat>
+<Réserve_x0020__x0020__x0028_biblio_x0029_>1</Réserve_x0020__x0020__x0028_biblio_x0029_>
+<Parc_x0020_Zoologique_x0020_de_x0020_Lunaret_x0020__x0028_observation-_x0020_biblio_x0029_>0</Parc_x0020_Zoologique_x0020_de_x0020_Lunaret_x0020__x0028_observation-_x0020_biblio_x0029_>
+<Strate>Arbuste</Strate>
+<Source>Inventaire floristique et statut juridique (M. Perret Vicent, M. Bertrand Michel 1999).</Source>
+</Inventaire_x0020_floristique_x0020_PZL>
+<Inventaire_x0020_floristique_x0020_PZL>
+<ID>115</ID>
+<Nom_x0020_Scientifique>Lonicera implexa Aiton</Nom_x0020_Scientifique>
+<Nom_x0020_Commun>Chèvrefeuille des Baléares, Chèvrefeuille</Nom_x0020_Commun>
+<Famille>Caprifoliaceae</Famille>
+<Formation_x0020_végétale>Parvophanérophytaie</Formation_x0020_végétale>
+<Statut_x0020_de_x0020_protection_x0020_inventaire_x0020__x0028_1999_x0029_>Aucune information disponible concernant le statut de protection</Statut_x0020_de_x0020_protection_x0020_inventaire_x0020__x0028_1999_x0029_>
+<Habitat>Haies, bois, matorrals méditerranéens</Habitat>
+<Réserve_x0020__x0020__x0028_biblio_x0029_>1</Réserve_x0020__x0020__x0028_biblio_x0029_>
+<Parc_x0020_Zoologique_x0020_de_x0020_Lunaret_x0020__x0028_observation-_x0020_biblio_x0029_>0</Parc_x0020_Zoologique_x0020_de_x0020_Lunaret_x0020__x0028_observation-_x0020_biblio_x0029_>
+<Strate>Arbuste</Strate>
+<Source>Inventaire floristique et statut juridique (M. Perret Vicent, M. Bertrand Michel 1999).</Source>
+</Inventaire_x0020_floristique_x0020_PZL>
+<Inventaire_x0020_floristique_x0020_PZL>
+<ID>116</ID>
+<Nom_x0020_Scientifique>Dittrichia viscosa</Nom_x0020_Scientifique>
+<Nom_x0020_Commun> Inule visqueus</Nom_x0020_Commun>
+<Famille>Asteraceae</Famille>
+<Statut_x0020_de_x0020_protection_x0020_inventaire_x0020__x0028_1999_x0029_>Aucune information disponible concernant le statut de protection</Statut_x0020_de_x0020_protection_x0020_inventaire_x0020__x0028_1999_x0029_>
+<Réserve_x0020__x0020__x0028_biblio_x0029_>1</Réserve_x0020__x0020__x0028_biblio_x0029_>
+<Parc_x0020_Zoologique_x0020_de_x0020_Lunaret_x0020__x0028_observation-_x0020_biblio_x0029_>1</Parc_x0020_Zoologique_x0020_de_x0020_Lunaret_x0020__x0028_observation-_x0020_biblio_x0029_>
+<Strate>Herbacée</Strate>
+<Source>Inventaire floristique et statut juridique (M. Perret Vicent, M. Bertrand Michel 1999).</Source>
+</Inventaire_x0020_floristique_x0020_PZL>
+<Inventaire_x0020_floristique_x0020_PZL>
+<ID>117</ID>
+<Nom_x0020_Scientifique>Iris pseudacorus L.</Nom_x0020_Scientifique>
+<Nom_x0020_Commun>Flambe d&apos;eau, Glaïeul des marais, Grande Laiche, Grande Laîche</Nom_x0020_Commun>
+<Famille>Iridaceae</Famille>
+<Formation_x0020_végétale>Hémicryptophytaie</Formation_x0020_végétale>
+<Statut_x0020_de_x0020_protection_x0020_inventaire_x0020__x0028_1999_x0029_>Aucune information disponible concernant le statut de protection</Statut_x0020_de_x0020_protection_x0020_inventaire_x0020__x0028_1999_x0029_>
+<Habitat>Roselières et grandes cariçaies eurasiatiques</Habitat>
+<Réserve_x0020__x0020__x0028_biblio_x0029_>1</Réserve_x0020__x0020__x0028_biblio_x0029_>
+<Parc_x0020_Zoologique_x0020_de_x0020_Lunaret_x0020__x0028_observation-_x0020_biblio_x0029_>0</Parc_x0020_Zoologique_x0020_de_x0020_Lunaret_x0020__x0028_observation-_x0020_biblio_x0029_>
+<Strate>Herbacée</Strate>
+<Source>Inventaire floristique et statut juridique (M. Perret Vicent, M. Bertrand Michel 1999).</Source>
+</Inventaire_x0020_floristique_x0020_PZL>
+<Inventaire_x0020_floristique_x0020_PZL>
+<ID>118</ID>
+<Nom_x0020_Scientifique>Lathyrus cicera L</Nom_x0020_Scientifique>
+<Nom_x0020_Commun> Gesse chiche, Gessette, Jarosse</Nom_x0020_Commun>
+<Famille>Fabaceae</Famille>
+<Formation_x0020_végétale>Thérophytaie</Formation_x0020_végétale>
+<Statut_x0020_de_x0020_protection_x0020_inventaire_x0020__x0028_1999_x0029_>Aucune information disponible concernant le statut de protection</Statut_x0020_de_x0020_protection_x0020_inventaire_x0020__x0028_1999_x0029_>
+<Habitat>Moissons et champs, annuelles commensales des moissons basophiles, thermophiles</Habitat>
+<Réserve_x0020__x0020__x0028_biblio_x0029_>1</Réserve_x0020__x0020__x0028_biblio_x0029_>
+<Parc_x0020_Zoologique_x0020_de_x0020_Lunaret_x0020__x0028_observation-_x0020_biblio_x0029_>1</Parc_x0020_Zoologique_x0020_de_x0020_Lunaret_x0020__x0028_observation-_x0020_biblio_x0029_>
+<Strate>Herbacée</Strate>
+<Source>Inventaire floristique et statut juridique (M. Perret Vicent, M. Bertrand Michel 1999).</Source>
+</Inventaire_x0020_floristique_x0020_PZL>
+<Inventaire_x0020_floristique_x0020_PZL>
+<ID>119</ID>
+<Nom_x0020_Scientifique>Juniperus oxycedrus L.</Nom_x0020_Scientifique>
+<Nom_x0020_Commun>Cade, Cèdre piquant, Genévrier cade</Nom_x0020_Commun>
+<Famille>Cupressaceae</Famille>
+<Formation_x0020_végétale>Parvophanérophytaie</Formation_x0020_végétale>
+<Statut_x0020_de_x0020_protection_x0020_inventaire_x0020__x0028_1999_x0029_>Aucune information disponible concernant le statut de protection</Statut_x0020_de_x0020_protection_x0020_inventaire_x0020__x0028_1999_x0029_>
+<Habitat>Coteaux arides, matorrals thermoméditerranéens, héliophiles, maritimes</Habitat>
+<Réserve_x0020__x0020__x0028_biblio_x0029_>1</Réserve_x0020__x0020__x0028_biblio_x0029_>
+<Parc_x0020_Zoologique_x0020_de_x0020_Lunaret_x0020__x0028_observation-_x0020_biblio_x0029_>1</Parc_x0020_Zoologique_x0020_de_x0020_Lunaret_x0020__x0028_observation-_x0020_biblio_x0029_>
+<Strate>Arbuste</Strate>
+<Source>Observation par Vincent Perret (juin 2011); Observation sur le terrain, juin 2011.</Source>
+</Inventaire_x0020_floristique_x0020_PZL>
+<Inventaire_x0020_floristique_x0020_PZL>
+<ID>120</ID>
+<Nom_x0020_Scientifique>Lathyrus aphaca L.</Nom_x0020_Scientifique>
+<Nom_x0020_Commun>Gesse aphaca,  Gesse sans feuilles, Pois-de-serpent</Nom_x0020_Commun>
+<Famille>Fabaceae</Famille>
+<Formation_x0020_végétale>Thérophytaie</Formation_x0020_végétale>
+<Statut_x0020_de_x0020_protection_x0020_inventaire_x0020__x0028_1999_x0029_>Aucune information disponible concernant le statut de protection</Statut_x0020_de_x0020_protection_x0020_inventaire_x0020__x0028_1999_x0029_>
+<Habitat>Lieux secs et arides, surtout calcaires, annuelles commensales des moissons
+basophiles, mésotherme</Habitat>
+<Réserve_x0020__x0020__x0028_biblio_x0029_>1</Réserve_x0020__x0020__x0028_biblio_x0029_>
+<Parc_x0020_Zoologique_x0020_de_x0020_Lunaret_x0020__x0028_observation-_x0020_biblio_x0029_>1</Parc_x0020_Zoologique_x0020_de_x0020_Lunaret_x0020__x0028_observation-_x0020_biblio_x0029_>
+<Strate>Herbacée</Strate>
+<Source>Inventaire floristique et statut juridique (M. Perret Vicent, M. Bertrand Michel 1999).</Source>
+</Inventaire_x0020_floristique_x0020_PZL>
+<Inventaire_x0020_floristique_x0020_PZL>
+<ID>121</ID>
+<Nom_x0020_Scientifique>Laurus nobilis L.</Nom_x0020_Scientifique>
+<Nom_x0020_Commun>Laurier, Laurier d&apos;Apollon, Laurier noble</Nom_x0020_Commun>
+<Famille>Lauraceae</Famille>
+<Formation_x0020_végétale>Parvophanérophytaie</Formation_x0020_végétale>
+<Statut_x0020_de_x0020_protection_x0020_inventaire_x0020__x0028_1999_x0029_>Aucune information disponible concernant le statut de protection</Statut_x0020_de_x0020_protection_x0020_inventaire_x0020__x0028_1999_x0029_>
+<Habitat>Rochers et bois de la région méditerranéenne, matorrals méditerranéens</Habitat>
+<Réserve_x0020__x0020__x0028_biblio_x0029_>1</Réserve_x0020__x0020__x0028_biblio_x0029_>
+<Parc_x0020_Zoologique_x0020_de_x0020_Lunaret_x0020__x0028_observation-_x0020_biblio_x0029_>1</Parc_x0020_Zoologique_x0020_de_x0020_Lunaret_x0020__x0028_observation-_x0020_biblio_x0029_>
+<Strate>Arbre</Strate>
+<Source>Inventaire floristique et statut juridique (M. Perret Vicent, M. Bertrand Michel 1999).</Source>
+</Inventaire_x0020_floristique_x0020_PZL>
+<Inventaire_x0020_floristique_x0020_PZL>
+<ID>122</ID>
+<Nom_x0020_Scientifique>Ligustrum vulgare L.</Nom_x0020_Scientifique>
+<Nom_x0020_Commun>Raisin de chien, Troène commun</Nom_x0020_Commun>
+<Famille>Oleaceae</Famille>
+<Formation_x0020_végétale>Parvophanérophytaie</Formation_x0020_végétale>
+<Statut_x0020_de_x0020_protection_x0020_inventaire_x0020__x0028_1999_x0029_>Aucune information disponible concernant le statut de protection</Statut_x0020_de_x0020_protection_x0020_inventaire_x0020__x0028_1999_x0029_>
+<Habitat>Haies et bois, fourrés arbustifs médioeuropéens,
+planitiaires-montagnards, méso à eutrophiles</Habitat>
+<Réserve_x0020__x0020__x0028_biblio_x0029_>1</Réserve_x0020__x0020__x0028_biblio_x0029_>
+<Parc_x0020_Zoologique_x0020_de_x0020_Lunaret_x0020__x0028_observation-_x0020_biblio_x0029_>1</Parc_x0020_Zoologique_x0020_de_x0020_Lunaret_x0020__x0028_observation-_x0020_biblio_x0029_>
+<Strate>Arbuste</Strate>
+<Source>Inventaire floristique et statut juridique (M. Perret Vicent, M. Bertrand Michel 1999).</Source>
+</Inventaire_x0020_floristique_x0020_PZL>
+<Inventaire_x0020_floristique_x0020_PZL>
+<ID>123</ID>
+<Nom_x0020_Scientifique>Limodorum abortivum (L.) Sw.</Nom_x0020_Scientifique>
+<Nom_x0020_Commun> Limodore avortée, Limodore sans feuilles,  Limodore à feuilles avortée</Nom_x0020_Commun>
+<Famille>Orchidaceae</Famille>
+<Formation_x0020_végétale>Hémicryptophytaie</Formation_x0020_végétale>
+<Statut_x0020_de_x0020_Protection_x0020_Régional>Autres régions</Statut_x0020_de_x0020_Protection_x0020_Régional>
+<Statut_x0020_de_x0020_protection_x0020_inventaire_x0020__x0028_1999_x0029_>Au niveau régional Bourgogne (26); Limousin 74; Pays de la Loire 52; Franche-Comté 43; Lorraine 41: Picardie 22; Centre (24)</Statut_x0020_de_x0020_protection_x0020_inventaire_x0020__x0028_1999_x0029_>
+<Habitat>Clairières des bois montueux, parasite sur les racines des arbres, sous-bois herbacés médioeuropéens,
+basophiles, mésohydriques, planitiaires-collinéens</Habitat>
+<Réserve_x0020__x0020__x0028_biblio_x0029_>1</Réserve_x0020__x0020__x0028_biblio_x0029_>
+<Parc_x0020_Zoologique_x0020_de_x0020_Lunaret_x0020__x0028_observation-_x0020_biblio_x0029_>0</Parc_x0020_Zoologique_x0020_de_x0020_Lunaret_x0020__x0028_observation-_x0020_biblio_x0029_>
+<Strate>Herbacée</Strate>
+<Source>Inventaire floristique et statut juridique (M. Perret Vicent, M. Bertrand Michel 1999).</Source>
+</Inventaire_x0020_floristique_x0020_PZL>
+<Inventaire_x0020_floristique_x0020_PZL>
+<ID>124</ID>
+<Nom_x0020_Scientifique>Lotus cytisoide</Nom_x0020_Scientifique>
+<Nom_x0020_Commun>Lotier faux cytise</Nom_x0020_Commun>
+<Famille>Fabaceae</Famille>
+<Formation_x0020_végétale>Hémicryptophytaie</Formation_x0020_végétale>
+<Statut_x0020_de_x0020_protection_x0020_inventaire_x0020__x0028_1999_x0029_>Aucune information disponible concernant le statut de protection</Statut_x0020_de_x0020_protection_x0020_inventaire_x0020__x0028_1999_x0029_>
+<Habitat>Dunes et falaises, pelouses basophiles thermoméditerranéennes, maritimes</Habitat>
+<Réserve_x0020__x0020__x0028_biblio_x0029_>1</Réserve_x0020__x0020__x0028_biblio_x0029_>
+<Parc_x0020_Zoologique_x0020_de_x0020_Lunaret_x0020__x0028_observation-_x0020_biblio_x0029_>0</Parc_x0020_Zoologique_x0020_de_x0020_Lunaret_x0020__x0028_observation-_x0020_biblio_x0029_>
+<Strate>Herbacée</Strate>
+<Source>Inventaire floristique et statut juridique (M. Perret Vicent, M. Bertrand Michel 1999).</Source>
+</Inventaire_x0020_floristique_x0020_PZL>
+<Inventaire_x0020_floristique_x0020_PZL>
+<ID>125</ID>
+<Nom_x0020_Scientifique>Lonicera etrusca Santi</Nom_x0020_Scientifique>
+<Nom_x0020_Commun>Chèvrefeuille d&apos;Étrurie, Chèvrefeuille de Toscane</Nom_x0020_Commun>
+<Famille>Caprifoliaceae</Famille>
+<Formation_x0020_végétale>Parvophanérophytaie</Formation_x0020_végétale>
+<Statut_x0020_de_x0020_protection_x0020_inventaire_x0020__x0028_1999_x0029_>Aucune information disponible concernant le statut de protection</Statut_x0020_de_x0020_protection_x0020_inventaire_x0020__x0028_1999_x0029_>
+<Habitat>Haies, bois et coteaux, surtout calcaires, matorrals méditerranéen</Habitat>
+<Réserve_x0020__x0020__x0028_biblio_x0029_>1</Réserve_x0020__x0020__x0028_biblio_x0029_>
+<Parc_x0020_Zoologique_x0020_de_x0020_Lunaret_x0020__x0028_observation-_x0020_biblio_x0029_>1</Parc_x0020_Zoologique_x0020_de_x0020_Lunaret_x0020__x0028_observation-_x0020_biblio_x0029_>
+<Strate>Arbuste</Strate>
+<Source>Inventaire floristique et statut juridique (M. Perret Vicent, M. Bertrand Michel 1999).</Source>
+</Inventaire_x0020_floristique_x0020_PZL>
+<Inventaire_x0020_floristique_x0020_PZL>
+<ID>126</ID>
+<Nom_x0020_Scientifique>Malva sylvestris L.</Nom_x0020_Scientifique>
+<Nom_x0020_Commun>Grande Mauve, Mauve des bois, Mauve sauvage, Mauve sylvestre</Nom_x0020_Commun>
+<Famille>Malvaceae</Famille>
+<Statut_x0020_de_x0020_protection_x0020_inventaire_x0020__x0028_1999_x0029_>Aucune information disponible concernant le statut de protection</Statut_x0020_de_x0020_protection_x0020_inventaire_x0020__x0028_1999_x0029_>
+<Habitat>Décombres, haies, chemins, champs</Habitat>
+<Réserve_x0020__x0020__x0028_biblio_x0029_>1</Réserve_x0020__x0020__x0028_biblio_x0029_>
+<Parc_x0020_Zoologique_x0020_de_x0020_Lunaret_x0020__x0028_observation-_x0020_biblio_x0029_>1</Parc_x0020_Zoologique_x0020_de_x0020_Lunaret_x0020__x0028_observation-_x0020_biblio_x0029_>
+<Strate>Herbacée</Strate>
+<Source>Inventaire floristique et statut juridique (M. Perret Vicent, M. Bertrand Michel 1999).</Source>
+</Inventaire_x0020_floristique_x0020_PZL>
+<Inventaire_x0020_floristique_x0020_PZL>
+<ID>127</ID>
+<Nom_x0020_Scientifique>Medicago secundiflora Durieu</Nom_x0020_Scientifique>
+<Nom_x0020_Commun>Luzerne</Nom_x0020_Commun>
+<Famille>Fabaceae</Famille>
+<Formation_x0020_végétale>Thérophytaie</Formation_x0020_végétale>
+<Statut_x0020_de_x0020_Protection_x0020_National>Livre rouge de la Flore menacée en France. Annexe 1: Arrêté du 20 janvier 1982 relatif à la liste des espèces végétales protégées sur l&apos;ensemble du territoire, modifié par l&apos;arrêté du 31 août 1995.</Statut_x0020_de_x0020_Protection_x0020_National>
+<Statut_x0020_de_x0020_Protection_x0020_Régional>Selon VP: Arrête du  29 octobre 1997 relaitf à la liste des spp végétales protégées en languedoc Roussillon.</Statut_x0020_de_x0020_Protection_x0020_Régional>
+<Habitat>Lieux secs, tonsures annuelles basophiles,
+aéroxérophiles, thermophiles, méditerranéennes</Habitat>
+<Réserve_x0020__x0020__x0028_biblio_x0029_>1</Réserve_x0020__x0020__x0028_biblio_x0029_>
+<Parc_x0020_Zoologique_x0020_de_x0020_Lunaret_x0020__x0028_observation-_x0020_biblio_x0029_>1</Parc_x0020_Zoologique_x0020_de_x0020_Lunaret_x0020__x0028_observation-_x0020_biblio_x0029_>
+<Statut_x0020_ZNIEFF_x0020_à_x0020_l_x0027_échelle_x0020_régionale>Déterminante</Statut_x0020_ZNIEFF_x0020_à_x0020_l_x0027_échelle_x0020_régionale>
+<Strate>Herbacée</Strate>
+<Source>Inventaire floristique et statut juridique (M. Perret Vicent, M. Bertrand Michel 1999).</Source>
+</Inventaire_x0020_floristique_x0020_PZL>
+<Inventaire_x0020_floristique_x0020_PZL>
+<ID>128</ID>
+<Nom_x0020_Scientifique>Mentha spicata L.</Nom_x0020_Scientifique>
+<Nom_x0020_Commun>Menthe en grappe, Menthe en épi, Menthe verte</Nom_x0020_Commun>
+<Famille>Lamiaceae</Famille>
+<Formation_x0020_végétale>Hémicryptophytaie</Formation_x0020_végétale>
+<Statut_x0020_de_x0020_protection_x0020_inventaire_x0020__x0028_1999_x0029_>Aucune information disponible concernant le statut de protection.</Statut_x0020_de_x0020_protection_x0020_inventaire_x0020__x0028_1999_x0029_>
+<Habitat>Mégaphorbiaies planitiaires-collinéennes</Habitat>
+<Réserve_x0020__x0020__x0028_biblio_x0029_>1</Réserve_x0020__x0020__x0028_biblio_x0029_>
+<Parc_x0020_Zoologique_x0020_de_x0020_Lunaret_x0020__x0028_observation-_x0020_biblio_x0029_>0</Parc_x0020_Zoologique_x0020_de_x0020_Lunaret_x0020__x0028_observation-_x0020_biblio_x0029_>
+<Strate>Herbacée</Strate>
+<Source>Inventaire floristique et statut juridique (M. Perret Vicent, M. Bertrand Michel 1999).</Source>
+</Inventaire_x0020_floristique_x0020_PZL>
+<Inventaire_x0020_floristique_x0020_PZL>
+<ID>129</ID>
+<Nom_x0020_Scientifique>Myrtus communis L</Nom_x0020_Scientifique>
+<Nom_x0020_Commun>Myrte commun</Nom_x0020_Commun>
+<Famille>Myrtaceae</Famille>
+<Formation_x0020_végétale>Parvophanérophytaie</Formation_x0020_végétale>
+<Habitat>Bois, garigues, maquis, matorrals thermoméditerranéens</Habitat>
+<Réserve_x0020__x0020__x0028_biblio_x0029_>1</Réserve_x0020__x0020__x0028_biblio_x0029_>
+<Parc_x0020_Zoologique_x0020_de_x0020_Lunaret_x0020__x0028_observation-_x0020_biblio_x0029_>0</Parc_x0020_Zoologique_x0020_de_x0020_Lunaret_x0020__x0028_observation-_x0020_biblio_x0029_>
+<Strate>Arbuste</Strate>
+<Source>Inventaire floristique et statut juridique (M. Perret Vicent, M. Bertrand Michel 1999).</Source>
+</Inventaire_x0020_floristique_x0020_PZL>
+<Inventaire_x0020_floristique_x0020_PZL>
+<ID>130</ID>
+<Nom_x0020_Scientifique>Najas minor All.</Nom_x0020_Scientifique>
+<Nom_x0020_Commun>Naïade mineure, Petite Naïade</Nom_x0020_Commun>
+<Famille>Hydrocharitaceae</Famille>
+<Formation_x0020_végétale>Thérophytaie</Formation_x0020_végétale>
+<Statut_x0020_de_x0020_Protection_x0020_Régional>Autres régions</Statut_x0020_de_x0020_Protection_x0020_Régional>
+<Statut_x0020_de_x0020_protection_x0020_inventaire_x0020__x0028_1999_x0029_>Rare. Au niveau régional Alsace (42); Pays de la Loire (52);  Rhône-Alpes 82; Franche-Comté  43</Statut_x0020_de_x0020_protection_x0020_inventaire_x0020__x0028_1999_x0029_>
+<Habitat>Rivières et étangs, herbiers annuels enracinés dulcaquicoles
+européens, pionniers d&apos;eaux profondes</Habitat>
+<Réserve_x0020__x0020__x0028_biblio_x0029_>1</Réserve_x0020__x0020__x0028_biblio_x0029_>
+<Parc_x0020_Zoologique_x0020_de_x0020_Lunaret_x0020__x0028_observation-_x0020_biblio_x0029_>0</Parc_x0020_Zoologique_x0020_de_x0020_Lunaret_x0020__x0028_observation-_x0020_biblio_x0029_>
+<Strate>Herbacée</Strate>
+<Source>Inventaire floristique et statut juridique (M. Perret Vicent, M. Bertrand Michel 1999).</Source>
+</Inventaire_x0020_floristique_x0020_PZL>
+<Inventaire_x0020_floristique_x0020_PZL>
+<ID>131</ID>
+<Nom_x0020_Scientifique>Nuphar lutea (L.) Sm.</Nom_x0020_Scientifique>
+<Nom_x0020_Commun>Aillout d&apos;eau, Nénufar jaune, Nénuphar jaune, Plateau</Nom_x0020_Commun>
+<Famille>Nymphaeaceae</Famille>
+<Formation_x0020_végétale>Hémicryptophytaie</Formation_x0020_végétale>
+<Statut_x0020_de_x0020_Protection_x0020_Régional>Autres régions.</Statut_x0020_de_x0020_Protection_x0020_Régional>
+<Statut_x0020_de_x0020_protection_x0020_inventaire_x0020__x0028_1999_x0029_>PN76: arrêtés protégeants les spp citées en vertu de la loi de 1976. Au niveau régional -Alpes-Côte d&apos;Azur 93.</Statut_x0020_de_x0020_protection_x0020_inventaire_x0020__x0028_1999_x0029_>
+<Habitat>Mares, étangs, lacs, rivières, herbiers vivaces enracinés dulcaquicoles
+européens, des eaux profondes, eutrophiles à oligotrophiles, planitiaire à
+collinéen</Habitat>
+<Réserve_x0020__x0020__x0028_biblio_x0029_>1</Réserve_x0020__x0020__x0028_biblio_x0029_>
+<Parc_x0020_Zoologique_x0020_de_x0020_Lunaret_x0020__x0028_observation-_x0020_biblio_x0029_>0</Parc_x0020_Zoologique_x0020_de_x0020_Lunaret_x0020__x0028_observation-_x0020_biblio_x0029_>
+<Strate>Herbacée</Strate>
+<Source>Inventaire floristique et statut juridique (M. Perret Vicent, M. Bertrand Michel 1999).</Source>
+</Inventaire_x0020_floristique_x0020_PZL>
+<Inventaire_x0020_floristique_x0020_PZL>
+<ID>132</ID>
+<Nom_x0020_Scientifique>Olea europaea L</Nom_x0020_Scientifique>
+<Nom_x0020_Commun> Olivier, Olivier commun, Olivier d&apos;Europ</Nom_x0020_Commun>
+<Famille>Oleaceae</Famille>
+<Formation_x0020_végétale>Parvophanérophytaie</Formation_x0020_végétale>
+<Statut_x0020_de_x0020_protection_x0020_inventaire_x0020__x0028_1999_x0029_>Aucune information disponible concernant le statut de protection</Statut_x0020_de_x0020_protection_x0020_inventaire_x0020__x0028_1999_x0029_>
+<Habitat>Cultivé en grand et sauvage  dans les garrigues de la région
+méditerranéenne;</Habitat>
+<Réserve_x0020__x0020__x0028_biblio_x0029_>1</Réserve_x0020__x0020__x0028_biblio_x0029_>
+<Parc_x0020_Zoologique_x0020_de_x0020_Lunaret_x0020__x0028_observation-_x0020_biblio_x0029_>1</Parc_x0020_Zoologique_x0020_de_x0020_Lunaret_x0020__x0028_observation-_x0020_biblio_x0029_>
+<Strate>Arbre/ arbuste</Strate>
+<Source>Inventaire floristique et statut juridique (M. Perret Vicent, M. Bertrand Michel 1999).</Source>
+</Inventaire_x0020_floristique_x0020_PZL>
+<Inventaire_x0020_floristique_x0020_PZL>
+<ID>133</ID>
+<Nom_x0020_Scientifique>Ophrys lutea Cav.</Nom_x0020_Scientifique>
+<Nom_x0020_Commun>Ophrys jaune</Nom_x0020_Commun>
+<Famille>Orchidaceae</Famille>
+<Formation_x0020_végétale>Hémicryptophytaie</Formation_x0020_végétale>
+<Statut_x0020_de_x0020_protection_x0020_inventaire_x0020__x0028_1999_x0029_>Aucune information disponible concernant le statut de protection</Statut_x0020_de_x0020_protection_x0020_inventaire_x0020__x0028_1999_x0029_>
+<Habitat>Lieux secs et herbeux,  pelouses basophiles
+mésoméditerranéennes, mésoxérophile</Habitat>
+<Réserve_x0020__x0020__x0028_biblio_x0029_>1</Réserve_x0020__x0020__x0028_biblio_x0029_>
+<Parc_x0020_Zoologique_x0020_de_x0020_Lunaret_x0020__x0028_observation-_x0020_biblio_x0029_>1</Parc_x0020_Zoologique_x0020_de_x0020_Lunaret_x0020__x0028_observation-_x0020_biblio_x0029_>
+<Strate>Herbacée</Strate>
+<Source>Observation par Vincent Perret (juin 2011)</Source>
+</Inventaire_x0020_floristique_x0020_PZL>
+<Inventaire_x0020_floristique_x0020_PZL>
+<ID>134</ID>
+<Nom_x0020_Scientifique>Ophrys scolopax Cav.</Nom_x0020_Scientifique>
+<Nom_x0020_Commun>Ophrys bécasse</Nom_x0020_Commun>
+<Famille>Orchidaceae</Famille>
+<Formation_x0020_végétale>Hémicryptophytaie</Formation_x0020_végétale>
+<Statut_x0020_de_x0020_protection_x0020_inventaire_x0020__x0028_1999_x0029_>Aucune information disponible concernant le statut de protection</Statut_x0020_de_x0020_protection_x0020_inventaire_x0020__x0028_1999_x0029_>
+<Habitat>Lieux herbeux ou boisés, pelouses basophiles mésoméditerranéennes</Habitat>
+<Réserve_x0020__x0020__x0028_biblio_x0029_>1</Réserve_x0020__x0020__x0028_biblio_x0029_>
+<Parc_x0020_Zoologique_x0020_de_x0020_Lunaret_x0020__x0028_observation-_x0020_biblio_x0029_>1</Parc_x0020_Zoologique_x0020_de_x0020_Lunaret_x0020__x0028_observation-_x0020_biblio_x0029_>
+<Strate>Herbacée</Strate>
+<Source>Inventaire floristique et statut juridique (M. Perret Vicent, M. Bertrand Michel 1999).</Source>
+</Inventaire_x0020_floristique_x0020_PZL>
+<Inventaire_x0020_floristique_x0020_PZL>
+<ID>135</ID>
+<Nom_x0020_Scientifique>Orobanche crenata Forssk.</Nom_x0020_Scientifique>
+<Nom_x0020_Commun>Orobanche crénelée</Nom_x0020_Commun>
+<Famille>Orobanchaceae</Famille>
+<Formation_x0020_végétale>Thérophytaie</Formation_x0020_végétale>
+<Statut_x0020_de_x0020_protection_x0020_inventaire_x0020__x0028_1999_x0029_>Aucune information disponible concernant le statut de protection</Statut_x0020_de_x0020_protection_x0020_inventaire_x0020__x0028_1999_x0029_>
+<Habitat>Sur les pois, les fèves et les papilionacées annuelles,  annuelles commensales des cultures
+sarclées basophiles, méditerranéennes</Habitat>
+<Réserve_x0020__x0020__x0028_biblio_x0029_>1</Réserve_x0020__x0020__x0028_biblio_x0029_>
+<Parc_x0020_Zoologique_x0020_de_x0020_Lunaret_x0020__x0028_observation-_x0020_biblio_x0029_>1</Parc_x0020_Zoologique_x0020_de_x0020_Lunaret_x0020__x0028_observation-_x0020_biblio_x0029_>
+<Strate>Herbacée</Strate>
+<Source>Inventaire floristique et statut juridique (M. Perret Vicent, M. Bertrand Michel 1999).</Source>
+</Inventaire_x0020_floristique_x0020_PZL>
+<Inventaire_x0020_floristique_x0020_PZL>
+<ID>136</ID>
+<Nom_x0020_Scientifique>Osyris alba L.</Nom_x0020_Scientifique>
+<Nom_x0020_Commun>Osyris blanc, Rouvet, Rouvet blanc</Nom_x0020_Commun>
+<Famille>Santalaceae</Famille>
+<Formation_x0020_végétale>Chaméphytaie</Formation_x0020_végétale>
+<Statut_x0020_de_x0020_protection_x0020_inventaire_x0020__x0028_1999_x0029_>Aucune information disponible concernant le statut de protection</Statut_x0020_de_x0020_protection_x0020_inventaire_x0020__x0028_1999_x0029_>
+<Habitat>Lieux secs et arides, garrigues méditerranéennes occidentales</Habitat>
+<Réserve_x0020__x0020__x0028_biblio_x0029_>1</Réserve_x0020__x0020__x0028_biblio_x0029_>
+<Parc_x0020_Zoologique_x0020_de_x0020_Lunaret_x0020__x0028_observation-_x0020_biblio_x0029_>1</Parc_x0020_Zoologique_x0020_de_x0020_Lunaret_x0020__x0028_observation-_x0020_biblio_x0029_>
+<Strate>Arbuste</Strate>
+<Source>Inventaire floristique et statut juridique (M. Perret Vicent, M. Bertrand Michel 1999).</Source>
+</Inventaire_x0020_floristique_x0020_PZL>
+<Inventaire_x0020_floristique_x0020_PZL>
+<ID>137</ID>
+<Nom_x0020_Scientifique>Papaver rhoeas L.</Nom_x0020_Scientifique>
+<Nom_x0020_Commun>Coquelicot</Nom_x0020_Commun>
+<Famille>Papaveraceae</Famille>
+<Formation_x0020_végétale>Thérophytaie</Formation_x0020_végétale>
+<Statut_x0020_de_x0020_protection_x0020_inventaire_x0020__x0028_1999_x0029_>Aucune information disponible concernant le statut de protection</Statut_x0020_de_x0020_protection_x0020_inventaire_x0020__x0028_1999_x0029_>
+<Habitat>Champs et moissons</Habitat>
+<Réserve_x0020__x0020__x0028_biblio_x0029_>1</Réserve_x0020__x0020__x0028_biblio_x0029_>
+<Parc_x0020_Zoologique_x0020_de_x0020_Lunaret_x0020__x0028_observation-_x0020_biblio_x0029_>1</Parc_x0020_Zoologique_x0020_de_x0020_Lunaret_x0020__x0028_observation-_x0020_biblio_x0029_>
+<Strate>Herbacée</Strate>
+<Source>Inventaire floristique et statut juridique (M. Perret Vicent, M. Bertrand Michel 1999).</Source>
+</Inventaire_x0020_floristique_x0020_PZL>
+<Inventaire_x0020_floristique_x0020_PZL>
+<ID>138</ID>
+<Nom_x0020_Scientifique>Parentucellia latifolia</Nom_x0020_Scientifique>
+<Nom_x0020_Commun>Eufragie à larges feuilles, Parentucelle à feuilles larges</Nom_x0020_Commun>
+<Famille>Scrophulariaceae</Famille>
+<Formation_x0020_végétale>Thérophytaie</Formation_x0020_végétale>
+<Statut_x0020_de_x0020_Protection_x0020_Régional>Autres régions</Statut_x0020_de_x0020_Protection_x0020_Régional>
+<Statut_x0020_de_x0020_protection_x0020_inventaire_x0020__x0028_1999_x0029_>Au niveau régional Bretagne (53)</Statut_x0020_de_x0020_protection_x0020_inventaire_x0020__x0028_1999_x0029_>
+<Habitat>Lieux sablonneux des bords de la Méditerrannee</Habitat>
+<Réserve_x0020__x0020__x0028_biblio_x0029_>1</Réserve_x0020__x0020__x0028_biblio_x0029_>
+<Parc_x0020_Zoologique_x0020_de_x0020_Lunaret_x0020__x0028_observation-_x0020_biblio_x0029_>1</Parc_x0020_Zoologique_x0020_de_x0020_Lunaret_x0020__x0028_observation-_x0020_biblio_x0029_>
+<Strate>Herbacée</Strate>
+<Source>Inventaire floristique et statut juridique (M. Perret Vicent, M. Bertrand Michel 1999).</Source>
+</Inventaire_x0020_floristique_x0020_PZL>
+<Inventaire_x0020_floristique_x0020_PZL>
+<ID>139</ID>
+<Nom_x0020_Scientifique>Phillyrea angustifolia L.</Nom_x0020_Scientifique>
+<Nom_x0020_Commun>Alavert,  Filaria à feuilles étroites</Nom_x0020_Commun>
+<Famille>Oleaceae</Famille>
+<Formation_x0020_végétale>Parvophanérophytaie</Formation_x0020_végétale>
+<Statut_x0020_de_x0020_Protection_x0020_Régional>Autres régions</Statut_x0020_de_x0020_Protection_x0020_Régional>
+<Statut_x0020_de_x0020_protection_x0020_inventaire_x0020__x0028_1999_x0029_>Au niveau régional Poitou-Charentes (54)</Statut_x0020_de_x0020_protection_x0020_inventaire_x0020__x0028_1999_x0029_>
+<Habitat>Bois et coteaux pierreux, matorrals méditerranéens</Habitat>
+<Réserve_x0020__x0020__x0028_biblio_x0029_>1</Réserve_x0020__x0020__x0028_biblio_x0029_>
+<Parc_x0020_Zoologique_x0020_de_x0020_Lunaret_x0020__x0028_observation-_x0020_biblio_x0029_>1</Parc_x0020_Zoologique_x0020_de_x0020_Lunaret_x0020__x0028_observation-_x0020_biblio_x0029_>
+<Strate>Arbuste</Strate>
+<Source>Compte, Aurelia., Mémoire de maîtrise. 1999; Observation sur le terrain, juin 2011.</Source>
+</Inventaire_x0020_floristique_x0020_PZL>
+<Inventaire_x0020_floristique_x0020_PZL>
+<ID>140</ID>
+<Nom_x0020_Scientifique>Phillyrea latifolia L</Nom_x0020_Scientifique>
+<Nom_x0020_Commun>Filaire à larges feuille</Nom_x0020_Commun>
+<Famille>Oleaceae</Famille>
+<Formation_x0020_végétale>Parvophanérophytai</Formation_x0020_végétale>
+<Statut_x0020_de_x0020_Protection_x0020_Régional>Autres régions</Statut_x0020_de_x0020_Protection_x0020_Régional>
+<Statut_x0020_de_x0020_protection_x0020_inventaire_x0020__x0028_1999_x0029_>Au niveau régional Poitou-Charentes (54)</Statut_x0020_de_x0020_protection_x0020_inventaire_x0020__x0028_1999_x0029_>
+<Habitat>Bois et coteaux pierreux, matorrals méditerranéens</Habitat>
+<Réserve_x0020__x0020__x0028_biblio_x0029_>1</Réserve_x0020__x0020__x0028_biblio_x0029_>
+<Parc_x0020_Zoologique_x0020_de_x0020_Lunaret_x0020__x0028_observation-_x0020_biblio_x0029_>1</Parc_x0020_Zoologique_x0020_de_x0020_Lunaret_x0020__x0028_observation-_x0020_biblio_x0029_>
+<Strate>Arbuste</Strate>
+<Source>Inventaire floristique et statut juridique (M. Perret Vicent, M. Bertrand Michel 1999).</Source>
+</Inventaire_x0020_floristique_x0020_PZL>
+<Inventaire_x0020_floristique_x0020_PZL>
+<ID>141</ID>
+<Nom_x0020_Scientifique>Echium plantagineum L.</Nom_x0020_Scientifique>
+<Nom_x0020_Commun>Vipérine faux plantain, Vipérine à feuilles de plantain</Nom_x0020_Commun>
+<Famille>Boraginaceae</Famille>
+<Formation_x0020_végétale>Hémicryptophytaie</Formation_x0020_végétale>
+<Statut_x0020_de_x0020_Protection_x0020_Régional>Autres régions</Statut_x0020_de_x0020_Protection_x0020_Régional>
+<Statut_x0020_de_x0020_protection_x0020_inventaire_x0020__x0028_1999_x0029_>Au niveau régional Poitou-Charentes (54)</Statut_x0020_de_x0020_protection_x0020_inventaire_x0020__x0028_1999_x0029_>
+<Habitat>Lieux sablonneux, friches vivaces xérophiles,
+méditerranéennes, provençales</Habitat>
+<Réserve_x0020__x0020__x0028_biblio_x0029_>1</Réserve_x0020__x0020__x0028_biblio_x0029_>
+<Parc_x0020_Zoologique_x0020_de_x0020_Lunaret_x0020__x0028_observation-_x0020_biblio_x0029_>1</Parc_x0020_Zoologique_x0020_de_x0020_Lunaret_x0020__x0028_observation-_x0020_biblio_x0029_>
+<Strate>Herbacée</Strate>
+<Source>Inventaire floristique et statut juridique (M. Perret Vicent, M. Bertrand Michel 1999).</Source>
+</Inventaire_x0020_floristique_x0020_PZL>
+<Inventaire_x0020_floristique_x0020_PZL>
+<ID>142</ID>
+<Nom_x0020_Scientifique>Epipactis muelleri</Nom_x0020_Scientifique>
+<Nom_x0020_Commun>Elléborine de Müller, Helléborine de Müller, Épipactis de Müller</Nom_x0020_Commun>
+<Famille>Orchidaceae</Famille>
+<Formation_x0020_végétale>Hémicryptophytaie</Formation_x0020_végétale>
+<Statut_x0020_de_x0020_Protection_x0020_Régional>Autre régions. Rare selon VP.</Statut_x0020_de_x0020_Protection_x0020_Régional>
+<Statut_x0020_de_x0020_protection_x0020_inventaire_x0020__x0028_1999_x0029_>Rare. Au niveau régional Alsace (42); Pays de la Loire (52); Lorraine (41); Poitou-Charentes (54)</Statut_x0020_de_x0020_protection_x0020_inventaire_x0020__x0028_1999_x0029_>
+<Habitat>Ourlets basophiles médioeuropéens,
+xérophiles, occidentaux</Habitat>
+<Réserve_x0020__x0020__x0028_biblio_x0029_>1</Réserve_x0020__x0020__x0028_biblio_x0029_>
+<Parc_x0020_Zoologique_x0020_de_x0020_Lunaret_x0020__x0028_observation-_x0020_biblio_x0029_>0</Parc_x0020_Zoologique_x0020_de_x0020_Lunaret_x0020__x0028_observation-_x0020_biblio_x0029_>
+<Strate>Herbacée</Strate>
+<Source>Inventaire floristique et statut juridique (M. Perret Vicent, M. Bertrand Michel 1999).</Source>
+</Inventaire_x0020_floristique_x0020_PZL>
+<Inventaire_x0020_floristique_x0020_PZL>
+<ID>143</ID>
+<Nom_x0020_Scientifique>Euphorbia characias L.</Nom_x0020_Scientifique>
+<Nom_x0020_Commun>Euphorbe characias, Euphorbe des garrigues, Euphorbe des vallons</Nom_x0020_Commun>
+<Famille>Euphorbiaceae</Famille>
+<Statut_x0020_de_x0020_protection_x0020_inventaire_x0020__x0028_1999_x0029_>Aucune information disponible concernant le statut de protection</Statut_x0020_de_x0020_protection_x0020_inventaire_x0020__x0028_1999_x0029_>
+<Habitat>Lieux secs et arides, garrigues méditerranéennes occidentales</Habitat>
+<Réserve_x0020__x0020__x0028_biblio_x0029_>1</Réserve_x0020__x0020__x0028_biblio_x0029_>
+<Parc_x0020_Zoologique_x0020_de_x0020_Lunaret_x0020__x0028_observation-_x0020_biblio_x0029_>1</Parc_x0020_Zoologique_x0020_de_x0020_Lunaret_x0020__x0028_observation-_x0020_biblio_x0029_>
+<Strate>Herbacée</Strate>
+<Source>Inventaire floristique et statut juridique (M. Perret Vicent, M. Bertrand Michel 1999).</Source>
+</Inventaire_x0020_floristique_x0020_PZL>
+<Inventaire_x0020_floristique_x0020_PZL>
+<ID>144</ID>
+<Nom_x0020_Scientifique>Eryngium maritimum L.</Nom_x0020_Scientifique>
+<Nom_x0020_Commun>Chardon bleu, Chardon des dunes, Panicaut de mer, Panicaut des dunes</Nom_x0020_Commun>
+<Famille>Apiaceae</Famille>
+<Formation_x0020_végétale>Hémicryptophytaie</Formation_x0020_végétale>
+<Statut_x0020_de_x0020_Protection_x0020_Régional>Autres régions</Statut_x0020_de_x0020_Protection_x0020_Régional>
+<Statut_x0020_de_x0020_protection_x0020_inventaire_x0020__x0028_1999_x0029_>Au niveau régional Provence-Alpes-Côte d&apos;Azur (93); Bretagne (53)</Statut_x0020_de_x0020_protection_x0020_inventaire_x0020__x0028_1999_x0029_>
+<Habitat>Dunes submaritimes vivaces thermophiles</Habitat>
+<Réserve_x0020__x0020__x0028_biblio_x0029_>1</Réserve_x0020__x0020__x0028_biblio_x0029_>
+<Parc_x0020_Zoologique_x0020_de_x0020_Lunaret_x0020__x0028_observation-_x0020_biblio_x0029_>1</Parc_x0020_Zoologique_x0020_de_x0020_Lunaret_x0020__x0028_observation-_x0020_biblio_x0029_>
+<Strate>Herbacée</Strate>
+<Source>Inventaire floristique et statut juridique (M. Perret Vicent, M. Bertrand Michel 1999).</Source>
+</Inventaire_x0020_floristique_x0020_PZL>
+<Inventaire_x0020_floristique_x0020_PZL>
+<ID>145</ID>
+<Nom_x0020_Scientifique>Cedrus atlantica</Nom_x0020_Scientifique>
+<Nom_x0020_Commun>Cèdre de l&apos;Atlas</Nom_x0020_Commun>
+<Famille>Pinaceae</Famille>
+<Formation_x0020_végétale>Magnophanérophytaie</Formation_x0020_végétale>
+<Statut_x0020_de_x0020_protection_x0020_inventaire_x0020__x0028_1999_x0029_>Aucune information disponible concernant le statut de protection.</Statut_x0020_de_x0020_protection_x0020_inventaire_x0020__x0028_1999_x0029_>
+<Habitat>Bois méditerranéens sempervirents,
+occidentaux</Habitat>
+<Réserve_x0020__x0020__x0028_biblio_x0029_>0</Réserve_x0020__x0020__x0028_biblio_x0029_>
+<Parc_x0020_Zoologique_x0020_de_x0020_Lunaret_x0020__x0028_observation-_x0020_biblio_x0029_>1</Parc_x0020_Zoologique_x0020_de_x0020_Lunaret_x0020__x0028_observation-_x0020_biblio_x0029_>
+<Strate>Arbre</Strate>
+<Source>Observation par Vincent Perret (juin 2011); Observation sur le terrain, juin 2011.</Source>
+</Inventaire_x0020_floristique_x0020_PZL>
+<Inventaire_x0020_floristique_x0020_PZL>
+<ID>146</ID>
+<Nom_x0020_Scientifique>Ailanthus altissima</Nom_x0020_Scientifique>
+<Nom_x0020_Commun>Ailante, Ailante glanduleux, Faux Vernis du Japon, Vernis de Chine</Nom_x0020_Commun>
+<Famille>Simaroubaceae</Famille>
+<Formation_x0020_végétale>Magnophanérophytaie</Formation_x0020_végétale>
+<Statut_x0020_de_x0020_protection_x0020_inventaire_x0020__x0028_1999_x0029_>Aucune information disponible concernant le statut de protection</Statut_x0020_de_x0020_protection_x0020_inventaire_x0020__x0028_1999_x0029_>
+<Habitat>Bois caducifoliés médioeuropéens,
+planitiaires-collinéens, eutrophiles</Habitat>
+<Réserve_x0020__x0020__x0028_biblio_x0029_>1</Réserve_x0020__x0020__x0028_biblio_x0029_>
+<Parc_x0020_Zoologique_x0020_de_x0020_Lunaret_x0020__x0028_observation-_x0020_biblio_x0029_>1</Parc_x0020_Zoologique_x0020_de_x0020_Lunaret_x0020__x0028_observation-_x0020_biblio_x0029_>
+<Strate>Arbre</Strate>
+<Source>Observation par Vincent Perret (juin 2011)</Source>
+</Inventaire_x0020_floristique_x0020_PZL>
+<Inventaire_x0020_floristique_x0020_PZL>
+<ID>147</ID>
+<Nom_x0020_Scientifique>Tilia platyphyllos</Nom_x0020_Scientifique>
+<Nom_x0020_Commun>Tilleul à grandes feuilles, Tilleul à larges feuilles</Nom_x0020_Commun>
+<Famille>Tiliaceae</Famille>
+<Formation_x0020_végétale>Magnophanérophytai</Formation_x0020_végétale>
+<Statut_x0020_de_x0020_protection_x0020_inventaire_x0020__x0028_1999_x0029_>Aucune information disponible concernant le statut de protection</Statut_x0020_de_x0020_protection_x0020_inventaire_x0020__x0028_1999_x0029_>
+<Habitat>Bois, très fréquemment planté dans
+les allées et les promenades</Habitat>
+<Réserve_x0020__x0020__x0028_biblio_x0029_>1</Réserve_x0020__x0020__x0028_biblio_x0029_>
+<Parc_x0020_Zoologique_x0020_de_x0020_Lunaret_x0020__x0028_observation-_x0020_biblio_x0029_>0</Parc_x0020_Zoologique_x0020_de_x0020_Lunaret_x0020__x0028_observation-_x0020_biblio_x0029_>
+<Strate>Arbre</Strate>
+<Source>Observation par Vincent Perret (juin 2011)</Source>
+</Inventaire_x0020_floristique_x0020_PZL>
+<Inventaire_x0020_floristique_x0020_PZL>
+<ID>148</ID>
+<Nom_x0020_Scientifique>Salvia verbenaca L.</Nom_x0020_Scientifique>
+<Nom_x0020_Commun>Sauge fausse verveine, Sauge à feuilles de verveine</Nom_x0020_Commun>
+<Famille>Lamiaceae</Famille>
+<Formation_x0020_végétale>Hémicryptophytaie</Formation_x0020_végétale>
+<Statut_x0020_de_x0020_protection_x0020_inventaire_x0020__x0028_1999_x0029_>Aucune information disponible concernant le statut de protection</Statut_x0020_de_x0020_protection_x0020_inventaire_x0020__x0028_1999_x0029_>
+<Habitat>Chemins, talus, coteaux secs, pelouses basophiles mésoméditerranéennes,mésohygrophiles</Habitat>
+<Réserve_x0020__x0020__x0028_biblio_x0029_>1</Réserve_x0020__x0020__x0028_biblio_x0029_>
+<Parc_x0020_Zoologique_x0020_de_x0020_Lunaret_x0020__x0028_observation-_x0020_biblio_x0029_>1</Parc_x0020_Zoologique_x0020_de_x0020_Lunaret_x0020__x0028_observation-_x0020_biblio_x0029_>
+<Strate>Herbacée</Strate>
+<Source>Observation par Vincent Perret (juin 2011)</Source>
+</Inventaire_x0020_floristique_x0020_PZL>
+<Inventaire_x0020_floristique_x0020_PZL>
+<ID>149</ID>
+<Nom_x0020_Scientifique>Ulex europaeus L.</Nom_x0020_Scientifique>
+<Nom_x0020_Commun>Grand Ajonc</Nom_x0020_Commun>
+<Famille>Fabaceae</Famille>
+<Formation_x0020_végétale>Parvophanérophytaie</Formation_x0020_végétale>
+<Statut_x0020_de_x0020_protection_x0020_inventaire_x0020__x0028_1999_x0029_>Aucune information disponible concernant le statut de protection</Statut_x0020_de_x0020_protection_x0020_inventaire_x0020__x0028_1999_x0029_>
+<Habitat>Landes et lieux stériles siliceux, fourrés arbustifs médioeuropéens, planitiaires-collinéens, thermophiles, acidophiles</Habitat>
+<Réserve_x0020__x0020__x0028_biblio_x0029_>1</Réserve_x0020__x0020__x0028_biblio_x0029_>
+<Parc_x0020_Zoologique_x0020_de_x0020_Lunaret_x0020__x0028_observation-_x0020_biblio_x0029_>1</Parc_x0020_Zoologique_x0020_de_x0020_Lunaret_x0020__x0028_observation-_x0020_biblio_x0029_>
+<Strate>Arbuste</Strate>
+<Source>Observation par Vincent Perret (juin 2011)</Source>
+</Inventaire_x0020_floristique_x0020_PZL>
+<Inventaire_x0020_floristique_x0020_PZL>
+<ID>150</ID>
+<Nom_x0020_Scientifique>Juniperus communis L.</Nom_x0020_Scientifique>
+<Nom_x0020_Commun>Genièvre, Genévrier commun</Nom_x0020_Commun>
+<Famille>Cupressaceae</Famille>
+<Formation_x0020_végétale>Parvophanérophytaie</Formation_x0020_végétale>
+<Statut_x0020_de_x0020_protection_x0020_inventaire_x0020__x0028_1999_x0029_>Aucune information disponible concernant le statut de protection</Statut_x0020_de_x0020_protection_x0020_inventaire_x0020__x0028_1999_x0029_>
+<Habitat>Coteaux, landes et bois, fourrés arbustifs médioeuropéens, planitiaires-montagnards, mésotrophiles, basophiles</Habitat>
+<Réserve_x0020__x0020__x0028_biblio_x0029_>1</Réserve_x0020__x0020__x0028_biblio_x0029_>
+<Parc_x0020_Zoologique_x0020_de_x0020_Lunaret_x0020__x0028_observation-_x0020_biblio_x0029_>1</Parc_x0020_Zoologique_x0020_de_x0020_Lunaret_x0020__x0028_observation-_x0020_biblio_x0029_>
+<Strate>Arbuste</Strate>
+<Source>Inventaire floristique et statut juridique (M. Perret Vicent, M. Bertrand Michel 1999).</Source>
+</Inventaire_x0020_floristique_x0020_PZL>
+<Inventaire_x0020_floristique_x0020_PZL>
+<ID>151</ID>
+<Nom_x0020_Scientifique>Cornus mas L.</Nom_x0020_Scientifique>
+<Nom_x0020_Commun>Cornouiller mâle, Cornouiller sauvage</Nom_x0020_Commun>
+<Famille>Cornaceae</Famille>
+<Formation_x0020_végétale>Parvophanérophytaie</Formation_x0020_végétale>
+<Statut_x0020_de_x0020_protection_x0020_inventaire_x0020__x0028_1999_x0029_>Aucune information disponible concernant le statut de protection</Statut_x0020_de_x0020_protection_x0020_inventaire_x0020__x0028_1999_x0029_>
+<Habitat>Bois et haies des terrains calcaires, fourrés arbustifs atlantiques, planitiaires-collinéens, mésotrophiles, basophiles</Habitat>
+<Réserve_x0020__x0020__x0028_biblio_x0029_>1</Réserve_x0020__x0020__x0028_biblio_x0029_>
+<Parc_x0020_Zoologique_x0020_de_x0020_Lunaret_x0020__x0028_observation-_x0020_biblio_x0029_>0</Parc_x0020_Zoologique_x0020_de_x0020_Lunaret_x0020__x0028_observation-_x0020_biblio_x0029_>
+<Strate>Arbuste</Strate>
+<Source>Inventaire floristique et statut juridique (M. Perret Vicent, M. Bertrand Michel 1999).</Source>
+</Inventaire_x0020_floristique_x0020_PZL>
+<Inventaire_x0020_floristique_x0020_PZL>
+<ID>152</ID>
+<Nom_x0020_Scientifique>Avena cf. fatua</Nom_x0020_Scientifique>
+<Nom_x0020_Commun>Avoine</Nom_x0020_Commun>
+<Famille>Poaceae</Famille>
+<Formation_x0020_végétale>Thérophytaie</Formation_x0020_végétale>
+<Réserve_x0020__x0020__x0028_biblio_x0029_>1</Réserve_x0020__x0020__x0028_biblio_x0029_>
+<Parc_x0020_Zoologique_x0020_de_x0020_Lunaret_x0020__x0028_observation-_x0020_biblio_x0029_>1</Parc_x0020_Zoologique_x0020_de_x0020_Lunaret_x0020__x0028_observation-_x0020_biblio_x0029_>
+<Strate>Herbacée</Strate>
+<Source>Inventaire floristique et statut juridique (M. Perret Vicent, M. Bertrand Michel 1999).</Source>
+</Inventaire_x0020_floristique_x0020_PZL>
+<Inventaire_x0020_floristique_x0020_PZL>
+<ID>153</ID>
+<Nom_x0020_Scientifique>Brachypodium retusum</Nom_x0020_Scientifique>
+<Nom_x0020_Commun>Brachypode rameux</Nom_x0020_Commun>
+<Famille>Poaceae</Famille>
+<Formation_x0020_végétale>Hémicryptophytaie</Formation_x0020_végétale>
+<Statut_x0020_de_x0020_protection_x0020_inventaire_x0020__x0028_1999_x0029_>Aucune information disponible concernant le statut de protection</Statut_x0020_de_x0020_protection_x0020_inventaire_x0020__x0028_1999_x0029_>
+<Habitat>Pelouses basophiles méditerranéennes</Habitat>
+<Réserve_x0020__x0020__x0028_biblio_x0029_>1</Réserve_x0020__x0020__x0028_biblio_x0029_>
+<Parc_x0020_Zoologique_x0020_de_x0020_Lunaret_x0020__x0028_observation-_x0020_biblio_x0029_>1</Parc_x0020_Zoologique_x0020_de_x0020_Lunaret_x0020__x0028_observation-_x0020_biblio_x0029_>
+<Strate>Herbacée</Strate>
+<Source>Inventaire floristique et statut juridique (M. Perret Vicent, M. Bertrand Michel 1999).</Source>
+</Inventaire_x0020_floristique_x0020_PZL>
+<Inventaire_x0020_floristique_x0020_PZL>
+<ID>154</ID>
+<Nom_x0020_Scientifique>Crataegus azarolus L</Nom_x0020_Scientifique>
+<Nom_x0020_Commun>Azarolier, Azérolier, Épine d&apos;Espagne</Nom_x0020_Commun>
+<Famille>Rosaceae</Famille>
+<Formation_x0020_végétale>Parvophanérophytaie</Formation_x0020_végétale>
+<Statut_x0020_de_x0020_protection_x0020_inventaire_x0020__x0028_1999_x0029_>Aucune information disponible concernant le statut de protection</Statut_x0020_de_x0020_protection_x0020_inventaire_x0020__x0028_1999_x0029_>
+<Habitat>Matorrals méditerranéens, héliophiles</Habitat>
+<Réserve_x0020__x0020__x0028_biblio_x0029_>1</Réserve_x0020__x0020__x0028_biblio_x0029_>
+<Parc_x0020_Zoologique_x0020_de_x0020_Lunaret_x0020__x0028_observation-_x0020_biblio_x0029_>1</Parc_x0020_Zoologique_x0020_de_x0020_Lunaret_x0020__x0028_observation-_x0020_biblio_x0029_>
+<Strate>Arbuste</Strate>
+<Source>Inventaire floristique et statut juridique (M. Perret Vicent, M. Bertrand Michel 1999).</Source>
+</Inventaire_x0020_floristique_x0020_PZL>
+<Inventaire_x0020_floristique_x0020_PZL>
+<ID>155</ID>
+<Nom_x0020_Scientifique>Campsis grandiflora</Nom_x0020_Scientifique>
+<Nom_x0020_Commun>Bignone de Chine, Bignonia de Chine</Nom_x0020_Commun>
+<Famille>Bignoniaceae</Famille>
+<Statut_x0020_de_x0020_protection_x0020_inventaire_x0020__x0028_1999_x0029_>Aucune information disponible concernant le statut de protection</Statut_x0020_de_x0020_protection_x0020_inventaire_x0020__x0028_1999_x0029_>
+<Réserve_x0020__x0020__x0028_biblio_x0029_>1</Réserve_x0020__x0020__x0028_biblio_x0029_>
+<Parc_x0020_Zoologique_x0020_de_x0020_Lunaret_x0020__x0028_observation-_x0020_biblio_x0029_>0</Parc_x0020_Zoologique_x0020_de_x0020_Lunaret_x0020__x0028_observation-_x0020_biblio_x0029_>
+<Strate>Liane</Strate>
+<Source>Observation par Vincent Perret (juin 2011)</Source>
+</Inventaire_x0020_floristique_x0020_PZL>
+<Inventaire_x0020_floristique_x0020_PZL>
+<ID>156</ID>
+<Nom_x0020_Scientifique>Crepis sancta</Nom_x0020_Scientifique>
+<Nom_x0020_Commun>Crépide de Nîmes, Crépis de Nîmes, Lagoséris du Gard, Ptérothèque de Nîmes</Nom_x0020_Commun>
+<Famille>Asteraceae</Famille>
+<Formation_x0020_végétale>Tthérophytaie</Formation_x0020_végétale>
+<Statut_x0020_de_x0020_protection_x0020_inventaire_x0020__x0028_1999_x0029_>Aucune information disponible concernant le statut de protection</Statut_x0020_de_x0020_protection_x0020_inventaire_x0020__x0028_1999_x0029_>
+<Habitat>Tonsures annuelles basophiles, aéromésohydriques, méso à subméditerranéennes</Habitat>
+<Réserve_x0020__x0020__x0028_biblio_x0029_>1</Réserve_x0020__x0020__x0028_biblio_x0029_>
+<Parc_x0020_Zoologique_x0020_de_x0020_Lunaret_x0020__x0028_observation-_x0020_biblio_x0029_>1</Parc_x0020_Zoologique_x0020_de_x0020_Lunaret_x0020__x0028_observation-_x0020_biblio_x0029_>
+<Strate>Herbacée</Strate>
+<Source>Observation par Vincent Perret (juin 2011)</Source>
+</Inventaire_x0020_floristique_x0020_PZL>
+<Inventaire_x0020_floristique_x0020_PZL>
+<ID>157</ID>
+<Nom_x0020_Scientifique>Taraxacum officinale</Nom_x0020_Scientifique>
+<Nom_x0020_Commun>Pissenlit</Nom_x0020_Commun>
+<Famille>Asteraceae</Famille>
+<Formation_x0020_végétale>Hémicryptophytaie</Formation_x0020_végétale>
+<Statut_x0020_de_x0020_protection_x0020_inventaire_x0020__x0028_1999_x0029_>Aucune information disponible concernant le statut de protection</Statut_x0020_de_x0020_protection_x0020_inventaire_x0020__x0028_1999_x0029_>
+<Habitat>Prés, bords des chemins, tourbières basses médioeuropéennes à boréo-subalpines, basophiles</Habitat>
+<Réserve_x0020__x0020__x0028_biblio_x0029_>1</Réserve_x0020__x0020__x0028_biblio_x0029_>
+<Parc_x0020_Zoologique_x0020_de_x0020_Lunaret_x0020__x0028_observation-_x0020_biblio_x0029_>1</Parc_x0020_Zoologique_x0020_de_x0020_Lunaret_x0020__x0028_observation-_x0020_biblio_x0029_>
+<Strate>Herbacée</Strate>
+<Source>Observation par Vincent Perret (juin 2011)</Source>
+</Inventaire_x0020_floristique_x0020_PZL>
+<Inventaire_x0020_floristique_x0020_PZL>
+<ID>158</ID>
+<Nom_x0020_Scientifique>Sonchus cf. oleraceus</Nom_x0020_Scientifique>
+<Nom_x0020_Commun>Laiteron</Nom_x0020_Commun>
+<Famille>Asteraceae</Famille>
+<Formation_x0020_végétale>Thérophytaie</Formation_x0020_végétale>
+<Statut_x0020_de_x0020_protection_x0020_inventaire_x0020__x0028_1999_x0029_>Aucune information disponible concernant le statut de protection</Statut_x0020_de_x0020_protection_x0020_inventaire_x0020__x0028_1999_x0029_>
+<Habitat>Lieux cultivés, annuelles commensales des cultures</Habitat>
+<Réserve_x0020__x0020__x0028_biblio_x0029_>1</Réserve_x0020__x0020__x0028_biblio_x0029_>
+<Parc_x0020_Zoologique_x0020_de_x0020_Lunaret_x0020__x0028_observation-_x0020_biblio_x0029_>1</Parc_x0020_Zoologique_x0020_de_x0020_Lunaret_x0020__x0028_observation-_x0020_biblio_x0029_>
+<Strate>Herbacée</Strate>
+<Source>Observation par Vincent Perret (juin 2011)</Source>
+</Inventaire_x0020_floristique_x0020_PZL>
+<Inventaire_x0020_floristique_x0020_PZL>
+<ID>159</ID>
+<Nom_x0020_Scientifique>Jasminum fruticans L.</Nom_x0020_Scientifique>
+<Nom_x0020_Commun>Jasmin d&apos;été, Jasmin jaune, Jasmin ligneux</Nom_x0020_Commun>
+<Famille>Oleaceae</Famille>
+<Formation_x0020_végétale>Chaméphytaie</Formation_x0020_végétale>
+<Statut_x0020_de_x0020_protection_x0020_inventaire_x0020__x0028_1999_x0029_>Aucune information disponible concernant le statut de protection</Statut_x0020_de_x0020_protection_x0020_inventaire_x0020__x0028_1999_x0029_>
+<Habitat>Coteaux secs et rocailleux, matorrals thermoméditerranéens, héliophiles, de l&apos;intérieur</Habitat>
+<Réserve_x0020__x0020__x0028_biblio_x0029_>1</Réserve_x0020__x0020__x0028_biblio_x0029_>
+<Parc_x0020_Zoologique_x0020_de_x0020_Lunaret_x0020__x0028_observation-_x0020_biblio_x0029_>0</Parc_x0020_Zoologique_x0020_de_x0020_Lunaret_x0020__x0028_observation-_x0020_biblio_x0029_>
+<Strate>Arbuste</Strate>
+<Source>Observation par Vincent Perret (juin 2011)</Source>
+</Inventaire_x0020_floristique_x0020_PZL>
+<Inventaire_x0020_floristique_x0020_PZL>
+<ID>160</ID>
+<Nom_x0020_Scientifique>Pittosporum tobira</Nom_x0020_Scientifique>
+<Nom_x0020_Commun>Pittosporum de Chin</Nom_x0020_Commun>
+<Famille>Pittosporaceae</Famille>
+<Réserve_x0020__x0020__x0028_biblio_x0029_>1</Réserve_x0020__x0020__x0028_biblio_x0029_>
+<Parc_x0020_Zoologique_x0020_de_x0020_Lunaret_x0020__x0028_observation-_x0020_biblio_x0029_>0</Parc_x0020_Zoologique_x0020_de_x0020_Lunaret_x0020__x0028_observation-_x0020_biblio_x0029_>
+<Strate>Arbuste</Strate>
+<Source>Observation par Vincent Perret (juin 2011)</Source>
+</Inventaire_x0020_floristique_x0020_PZL>
+<Inventaire_x0020_floristique_x0020_PZL>
+<ID>161</ID>
+<Nom_x0020_Scientifique>Ophrys litigiosa</Nom_x0020_Scientifique>
+<Nom_x0020_Commun>Ophrys araignée précoce, Ophrys litigieux, Ophrys petite Araignée</Nom_x0020_Commun>
+<Famille>Orchidaceae</Famille>
+<Formation_x0020_végétale>Hémicryptophytaie</Formation_x0020_végétale>
+<Habitat>Pelouses basophiles médioeuropéennes
+occidentales, mésohydriques, mésotherme</Habitat>
+<Réserve_x0020__x0020__x0028_biblio_x0029_>0</Réserve_x0020__x0020__x0028_biblio_x0029_>
+<Parc_x0020_Zoologique_x0020_de_x0020_Lunaret_x0020__x0028_observation-_x0020_biblio_x0029_>1</Parc_x0020_Zoologique_x0020_de_x0020_Lunaret_x0020__x0028_observation-_x0020_biblio_x0029_>
+<Strate>Herbacée</Strate>
+<Source>Inventaire floristique et statut juridique (M. Perret Vicent, M. Bertrand Michel 1999).</Source>
+</Inventaire_x0020_floristique_x0020_PZL>
+<Inventaire_x0020_floristique_x0020_PZL>
+<ID>162</ID>
+<Nom_x0020_Scientifique>Cynoglossum germanicum</Nom_x0020_Scientifique>
+<Nom_x0020_Commun>Cynoglosse d&apos;Allemagne, Cynoglosse des montagnes</Nom_x0020_Commun>
+<Famille>Boraginaceae</Famille>
+<Statut_x0020_de_x0020_Protection_x0020_Régional>Autres régions</Statut_x0020_de_x0020_Protection_x0020_Régional>
+<Réserve_x0020__x0020__x0028_biblio_x0029_>1</Réserve_x0020__x0020__x0028_biblio_x0029_>
+<Parc_x0020_Zoologique_x0020_de_x0020_Lunaret_x0020__x0028_observation-_x0020_biblio_x0029_>0</Parc_x0020_Zoologique_x0020_de_x0020_Lunaret_x0020__x0028_observation-_x0020_biblio_x0029_>
+<Strate>Herbacée</Strate>
+<Source>Observation par Vincent Perret (juin 2011)</Source>
+</Inventaire_x0020_floristique_x0020_PZL>
+<Inventaire_x0020_floristique_x0020_PZL>
+<ID>163</ID>
+<Nom_x0020_Scientifique>Alliaria petiolata</Nom_x0020_Scientifique>
+<Nom_x0020_Commun>Alliaire, Alliaire officinale</Nom_x0020_Commun>
+<Famille>Brassicaceae</Famille>
+<Formation_x0020_végétale>Hémicryptophytaie</Formation_x0020_végétale>
+<Habitat>Ourlets internes médioeuropéens,eutrophiles,mésohydriques</Habitat>
+<Réserve_x0020__x0020__x0028_biblio_x0029_>1</Réserve_x0020__x0020__x0028_biblio_x0029_>
+<Parc_x0020_Zoologique_x0020_de_x0020_Lunaret_x0020__x0028_observation-_x0020_biblio_x0029_>0</Parc_x0020_Zoologique_x0020_de_x0020_Lunaret_x0020__x0028_observation-_x0020_biblio_x0029_>
+<Strate>Herbacée</Strate>
+<Source>Observation par Vincent Perret (juin 2011)</Source>
+</Inventaire_x0020_floristique_x0020_PZL>
+<Inventaire_x0020_floristique_x0020_PZL>
+<ID>164</ID>
+<Nom_x0020_Scientifique>Chelidonium majus L</Nom_x0020_Scientifique>
+<Nom_x0020_Commun>Grande Chélidoine, Grande Éclaire</Nom_x0020_Commun>
+<Famille>Papaveraceae</Famille>
+<Formation_x0020_végétale>Hémicryptophytaie</Formation_x0020_végétale>
+<Habitat>Ourlets internes médioeuropéens,eutrophiles,mésohydriques</Habitat>
+<Réserve_x0020__x0020__x0028_biblio_x0029_>1</Réserve_x0020__x0020__x0028_biblio_x0029_>
+<Parc_x0020_Zoologique_x0020_de_x0020_Lunaret_x0020__x0028_observation-_x0020_biblio_x0029_>0</Parc_x0020_Zoologique_x0020_de_x0020_Lunaret_x0020__x0028_observation-_x0020_biblio_x0029_>
+<Strate>Herbacée</Strate>
+<Source>Observation par Vincent Perret (juin 2011)</Source>
+</Inventaire_x0020_floristique_x0020_PZL>
+<Inventaire_x0020_floristique_x0020_PZL>
+<ID>165</ID>
+<Nom_x0020_Scientifique>Equisetum arvense L.</Nom_x0020_Scientifique>
+<Nom_x0020_Commun>Prêle des champs, Queue-de-cheval, Queue-de-renard</Nom_x0020_Commun>
+<Famille>Equisetaceae</Famille>
+<Formation_x0020_végétale>Hémicryptophytaie</Formation_x0020_végétale>
+<Habitat>Friches vivaces rudérales pionnières,mésoxérophiles</Habitat>
+<Réserve_x0020__x0020__x0028_biblio_x0029_>0</Réserve_x0020__x0020__x0028_biblio_x0029_>
+<Parc_x0020_Zoologique_x0020_de_x0020_Lunaret_x0020__x0028_observation-_x0020_biblio_x0029_>1</Parc_x0020_Zoologique_x0020_de_x0020_Lunaret_x0020__x0028_observation-_x0020_biblio_x0029_>
+<Strate>Herbacée</Strate>
+<Source>Observation sur le terrain, juin 2011.</Source>
+</Inventaire_x0020_floristique_x0020_PZL>
+</dataroot>
