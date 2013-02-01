@@ -19,7 +19,9 @@ OpenDataMontpellier
 
 * MOTS CLÉS : open data ; données ; territoire ; montpellier
 
-* NOMENCLATURE NOM DU FICHIER : fournisseur_zone géo_nom réduit_date dela première mise en ligne_version(optionnelle).ext 
+* NOMENCLATURE NOM DU FICHIER : fournisseur_zone géo_nom réduit_date_version(optionnelle).ext
+ 
+* METADONNEES : fichier README.txt
 
 * TARIFICATION : Gratuite
 
