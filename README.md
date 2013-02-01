@@ -15,10 +15,11 @@ OpenDataMontpellier
 
 * DIFFUSEUR : Ville de Montpellier
 
-
 * LICENCE : LICENCE OUVERTE / OPEN LICENCE http://www.etalab.gouv.fr/pages/licence-ouverte-open-licence-5899923.html
 
 * MOTS CLÉS : open data ; données ; territoire ; montpellier
+
+* NOMENCLATURE NOM DU FICHIER : fournisseur_zone géo_nom réduit_date dela première mise en ligne_version(optionnelle).ext 
 
 * TARIFICATION : Gratuite
 
