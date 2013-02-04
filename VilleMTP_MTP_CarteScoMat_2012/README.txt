@@ -7,13 +7,13 @@ Données publiques ouvertes - Montpellier Territoire Numérique
 Fiche métadonnées
 --------------------------------------------------
 
-* ID : 66
+* ID : 67
 
-* TITRE : Carte scolaire des écoles primaires
+* TITRE : Carte scolaire des écoles maternelles 
 
-* IDENTIFIANT : VilleMTP_MTP_CarteScoPri_2012
+* IDENTIFIANT : VilleMTP_MTP_CarteScoMat_2012
 
-* DESCRIPTION : Cette donnée renseigne les zones scolaires de la commune de Montpellier, c'est-à-dire la carte scolaire selon l’adresse de résidence, pour chaque rue est attachée l’école primaire de référence. 
+* DESCRIPTION : Cette donnée renseigne les zones scolaires de la commune de Montpellier, c'est-à-dire la carte scolaire selon l’adresse de résidence, pour chaque rue est attachée l’école maternelle de référence. 
 
 Définition de certains champs : 
 
