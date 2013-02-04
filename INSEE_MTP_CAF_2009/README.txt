@@ -25,7 +25,7 @@ Fiche métadonnées
 
 *Thème INSPIRE : Santé
 
-*Couverture géographique : Ville de Monptellier
+*Couverture géographique : Ville de Montpellier
 
 *Licence : APIE
 

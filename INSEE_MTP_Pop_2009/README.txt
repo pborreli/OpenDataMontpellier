@@ -25,7 +25,7 @@ Fiche métadonnées
 
 *Thème INSPIRE : Société
 
-*Couverture géographique : Ville de Monptellier
+*Couverture géographique : Ville de Montpellier
 
 *Licence : APIE
 
